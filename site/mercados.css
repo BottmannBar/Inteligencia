@@ -1,0 +1,60 @@
+/* Tech-nigma Mercados: integra a paleta oficial sem alterar o painel comercial */
+.fin-hero{border-left:3px solid var(--tn-electric,#1375F0)}
+.fin-note{flex-shrink:0;max-width:250px;text-align:right;border:1px solid #2754A2;background:rgba(0,12,37,.6);border-radius:9px;color:#97BCE6;padding:15px;font-size:11px;line-height:1.6;letter-spacing:.04em}
+.fin-note strong{color:#E9EFF5;font-size:12px}
+.fin-intro{color:#99B5D5;font-size:12px;line-height:1.65;margin:0 0 17px}
+.fin-currencies{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.fin-currency{border:1px solid #295394;border-top:3px solid #1375F0;border-radius:12px;background:linear-gradient(140deg,#092858,#071833);padding:21px 20px;min-height:181px}
+.fin-currency:nth-child(2){border-top-color:#4BA4EF}
+.fin-currency:nth-child(3){border-top-color:#0D4DC3}
+.fin-currency-top{display:flex;align-items:center;gap:11px}
+.currency-icon{display:grid;place-items:center;width:37px;height:37px;border-radius:9px;background:#0D4DC3;color:#E9EFF5;font-weight:800;font-size:12px;letter-spacing:.04em}
+.fin-currency-top strong{font-size:13px;color:#E9EFF5;display:block}
+.fin-currency-top small{color:#9CBEE2;font-size:10px;display:block;margin-top:3px}
+.fx-value{font-size:clamp(28px,2.7vw,39px);font-weight:800;margin:22px 0 5px;letter-spacing:-.04em;color:#E9EFF5}
+.fx-change{font-size:12px;color:#9BBAD9}
+.fx-change.up{color:#70DDBD}.fx-change.down{color:#ECACA2}
+.fx-meta{margin-top:9px;font-size:10px;color:#829CB9;line-height:1.5}
+.fin-status{margin-top:13px;border:1px solid #254A83;color:#A5C0DD;background:#092143;border-radius:8px;font-size:11px;padding:12px 15px;line-height:1.6}
+.fin-terminal{padding:23px}
+.fin-toolbar{display:grid;grid-template-columns:minmax(180px,260px) 1fr;gap:13px;align-items:end}
+.fin-label{font-size:11px;font-weight:750;letter-spacing:.04em;color:#A5C6E5;display:block;margin-bottom:8px}
+.fin-select,.fin-search,.fin-input-row input{width:100%;background:#04152F;border:1px solid #28559A;border-radius:8px;color:#E9EFF5;font-size:12px;padding:11px 12px;min-width:0}
+.fin-select:focus,.fin-search:focus,.fin-input-row input:focus{outline:2px solid #1375F0;outline-offset:1px}
+.fin-input-row{display:flex;gap:8px}
+.fin-input-row button{flex-shrink:0;background:#0D4DC3;color:#fff;font-size:12px;font-weight:700;border:1px solid #1375F0;border-radius:8px;padding:9px 17px;cursor:pointer}
+.fin-input-row button:hover{background:#1375F0}
+.fin-watchlist{display:flex;gap:8px;overflow-x:auto;padding:19px 0 22px}
+.fin-asset-button{flex-shrink:0;border:1px solid #2C5595;background:#09254F;border-radius:9px;color:#B9D6F2;padding:10px 13px;cursor:pointer;text-align:left;display:grid;gap:3px}
+.fin-asset-button span{font-size:12px;font-weight:800}
+.fin-asset-button small{font-size:10px;color:#86A9CA}
+.fin-asset-button:hover,.fin-asset-button.active{border-color:#4BA4EF;background:#0D4DC3;color:#fff}
+.fin-asset-button.active small{color:#D6E9FB}
+.fin-headline{border-top:1px solid #25456F;padding:21px 0 13px;display:flex;align-items:center;justify-content:space-between;gap:15px}
+.fin-headline h3{margin:5px 0 5px;font-size:20px}
+.fin-headline p{font-size:11px;color:#A2BDD6;margin:0;max-width:670px;line-height:1.6}
+.fin-chart{height:485px;min-height:360px;border:1px solid #204A86;border-radius:10px;overflow:hidden;background:#071934}
+.fin-chart-placeholder{height:100%;display:grid;place-items:center;color:#96B8D9;padding:30px;text-align:center}
+.fin-chart .tradingview-widget-container,.fin-chart .tradingview-widget-container__widget{height:100%;width:100%}
+.fin-chart-note{display:flex;justify-content:space-between;gap:15px;padding-top:11px;color:#8CACCB;font-size:10px;line-height:1.55}
+.fin-news-panel{padding:22px}
+.fin-news-tools{display:flex;gap:13px;align-items:end;margin-bottom:22px}
+.fin-news-tools label{display:grid;gap:8px;flex:1;min-width:0;font-size:11px;color:#A4BFDA;font-weight:700}
+.fin-news-tools label:nth-child(1){flex:0 0 260px}
+.fin-news-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px}
+.fin-news-card{min-height:156px;border:1px solid #28518C;background:#0C2853;border-radius:9px;padding:17px;display:flex;flex-direction:column;gap:12px}
+.fin-news-card:hover{border-color:#4BA4EF;box-shadow:0 0 0 1px rgba(75,164,239,.2)}
+.fin-news-card .news-topic{font-size:10px;color:#4BA4EF;font-weight:800;letter-spacing:.08em}
+.fin-news-card strong{font-size:13px;color:#E9EFF5;line-height:1.55}
+.fin-news-card small{font-size:10px;color:#9AB4D2;margin-top:auto}
+.fin-news-total{font-size:11px;color:#9AB4D2;margin:16px 0 0}
+.fin-method{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.fin-method>div{border:1px solid #234C86;background:#092143;border-radius:9px;padding:18px}
+.fin-step{font-size:10px;font-weight:800;color:#4BA4EF;display:block;margin-bottom:8px}
+.fin-method strong{font-size:13px;color:#E9EFF5}
+.fin-method p{color:#94B4D2;font-size:11px;line-height:1.7;margin:9px 0 0}
+.fin-sources{display:flex;gap:17px;flex-wrap:wrap;margin:22px 0 8px}
+.fin-sources a{font-size:11px;color:#4BA4EF}
+@media(max-width:1100px){.fin-news-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:850px){.fin-note{display:none}.fin-currencies{gap:9px}.fin-currency{padding:16px 13px}.fx-value{font-size:27px}}
+@media(max-width:650px){.fin-currencies,.fin-news-list,.fin-method{grid-template-columns:1fr}.fin-currency{min-height:auto}.fin-toolbar{grid-template-columns:1fr}.fin-news-tools{flex-direction:column;align-items:stretch}.fin-news-tools label:nth-child(1){flex:1 1 auto}.fin-headline{flex-wrap:wrap}.fin-chart{height:400px;min-height:350px}.fin-chart-note{display:block}.fx-value{margin:13px 0 5px}.fin-input-row{flex-wrap:nowrap}}
