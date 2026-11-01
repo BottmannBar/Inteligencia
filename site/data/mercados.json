@@ -1,12 +1,371 @@
 {
-  "coletado_em": null,
-  "cambio": {
-    "USD": null,
-    "EUR": null,
-    "CNY": null
-  },
-  "noticias": [],
+  "coletado_em": "2026-11-01T18:00:20.365418+00:00",
+  "cambio": {},
+  "noticias": [
+    {
+      "titulo": "B3 perde R$ 948,8 bilhões em valor de mercado em uma semana - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWNBMHhyVlJMTXVJM1JRNWtuN2QzMDEzYWdIekRfblRtcWphOW1HSFRWdXk3M18tWGgtQ2RCSnlGZVp4UmJIWFJYZGhuMnFBZHpFc1RWRm43dVd0Z3pGME1Mc0hlTnVPdjJYTnR3dU5VM3BiUU5PeDVfaU9tZU5ZZFBFbVhnMjZrQ3VoZnZ6SUxadVpUclRjMU9BMllzV25MVUZV?oc=5",
+      "categoria": "Ações",
+      "fonte": "Poder360",
+      "data_publicacao": "31/10/2026",
+      "data_iso": "2026-10-31T11:03:04+00:00"
+    },
+    {
+      "titulo": "Empresas da B3 perdem R$ 963 bi na semana pós-eleição; VAMO3 e MGLU3 caem mais de 50% - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWtGSTA0OWF5bFZwTU5heTJWc3dMQ1g2S2lNd1IwVDhteHhpT005WjFTR1NSV2dPYlcwM0lCZWJWOXk4MVN0UjAwNEp6dkUxYTlCSk5uV1JTcHRCc0RPZWRkcE45MHZzTnVzVEdoc3FIdmN6TjBES0pYS2MzMEFQa3ZEOHExVE85TnowVEd4LThUdUMtT21QSktNTnBPU0taM01RelFzWkxJS2Vwd2luTTBwMC1IR3la0gG-AUFVX3lxTE83Ym4wM1g1U2dVNkpCbWQ1TDgxWFFhLWxjdGl2TUhTVEFyczlPWFZ0b1dqU3cteU9hVWw2U3dmbXlyR1ZRczN5cGdnRTMzLU5zeFVPaWdyU1BfOGE3cmdGclFPZFJDWGxUbGRzR3c1eGhMVkRkb09kX2ZVV1h3bHJhSE9KOFQ5MU5tTVpXM19nTmtUTjdvdlBwbWZoTko1WUpkS085cmFZRmtISENQYUQ3QzFxbUNzcVJhOGZoWVE?oc=5",
+      "categoria": "Ações",
+      "fonte": "InfoMoney",
+      "data_publicacao": "30/10/2026",
+      "data_iso": "2026-10-30T22:27:10+00:00"
+    },
+    {
+      "titulo": "Empresas na Bolsa perdem R$ 873 bilhões em valor de mercado após o 2º turno - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXBST3RUQm5iVkkxd2Mtd3l6OHh5RUxiX0huUFFWNk10S2xLY0pncGowdmxvZ3ExT3pJQjlHMDFUNG1uWVU3bHhnV2FzenBTb0JzMHZZbGtRSERSZnZqQW1MZXRydXlvYmdNM0czekQ4X041ME1VZUJRcEJaUUJFQ3BZOGpLYWllZV8yLV91RTZzWDQ3MUxtVlViRm5VOWpOMnNhb2U4RTNQZmNCMjR3SlRPLTBLM0xWdVFzXzFXQkpZVlRRMlE?oc=5",
+      "categoria": "Ações",
+      "fonte": "CNN Brasil",
+      "data_publicacao": "29/10/2026",
+      "data_iso": "2026-10-29T14:57:29+00:00"
+    },
+    {
+      "titulo": "Bolsa perde \"uma Petrobras\" em valor de mercado em um único pregão - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjNUd3NxUUczTl9GczJOazhjcklqZkpqenN4WGFEWVUzRURidC1OSDJEc2FzZkdCZDJ0dVhUNlV0X29lN29mTkJTVDJGUVBxTFpqV3c0ekhjNnBIVlZJZW5nZEdWTWs2aUs5Y0ljQzd4YWQtaERiOVIzQjhJUzFqeDJNcGtCYU16dTExWW9VdXdDOWNVLXIzcl92RnNJSjd4aFI3U2J3UE9Yekdtd1NZSTJTb0VLUWtS?oc=5",
+      "categoria": "Ações",
+      "fonte": "CNN Brasil",
+      "data_publicacao": "26/10/2026",
+      "data_iso": "2026-10-26T23:55:09+00:00"
+    },
+    {
+      "titulo": "Bolsa perde R$ 734 bi com reeleição de Lula, quase o valor de uma Petrobras - Exame",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmpGd1hhU05vR24zV0xncldfLVBSbThzc3NpZWlSc19ESU5TcUVWY0J0UGFuck9nelhTNnkwNzNNd3psZlRrazBSaVNuUkNubU5CWnN2YVQ0clpJek5TQlNOZFZncGRrcDRHU0NhRjdFT2prM0N2WE51Uy1LTjBzczdQem9ZM1N6Rk0tVzlESXNlRXJRWWxnWGFEemJqTUY4LThpSmgtT1pVMzda?oc=5",
+      "categoria": "Ações",
+      "fonte": "Exame",
+      "data_publicacao": "26/10/2026",
+      "data_iso": "2026-10-26T22:47:16+00:00"
+    },
+    {
+      "titulo": "Empresas na Bolsa perdem mais de R$ 835 bilhões em valor de mercado - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmlRdHk1dHZpUkhtWE1CUURjS3FBUXpkRGhmeGg4WmZLZUxPc3cwUVJEaTExQVZ5NzNSdW00QXh4Q0hNSmhqeVZQQ0QybHVHN2RBWDVqSk9CTm5zSXZxWWhILTkzMzZDaTBTakI4YXNXd3Y0Ry1jaGhNODhjZ1hhWkt4d1hiMEFBWVVCWWt1NnliSEdIYnVJSU90TUF0TEpUSmR4WkxYYWdublk1SDV4THgwck5QZ1VzWGtTbFF4OTZmQQ?oc=5",
+      "categoria": "Ações",
+      "fonte": "UOL Economia",
+      "data_publicacao": "26/10/2026",
+      "data_iso": "2026-10-26T22:21:44+00:00"
+    },
+    {
+      "titulo": "Reeleição de Lula: Ibovespa derrete quase 14% e dólar tem maior oscilação desde janeiro de 1999 - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNm1GTjRzX3dVNVNnSUozbjV3ZHJKRWkwNXQydEp6dEE4eHAwV21NbW5xS201NWRLSnY0ZTAzdmFDdTI5YXVzWHVoRzNBTXZUdkRfdlNSSnFEUUlyeWxQUnl1Q0ZhU2FYRFY1ZXpiNXNGajhZYjFfdG9PZVdxSlVhbEJiSlpQbzZ4YXFZN3ZBUWdFSDNKd2k5U0V2d0FDeHhEZldHQnJOM291Mnl1YnY4ZmhpMEY3TGFEZXhFZnhOZmo4YUxMY0dPLU9JektmTzNyaDl30gHYAUFVX3lxTE90NWZqTG42dVhCWE5MVkg3d1lNeHdjckdRQ3llTnFLa3FfU3Z0Y2ZiS2VhNmJRbUNHWXBMdmN2ZmhhcndnUWllekxnb1FjcVVuVHBIYXNueWxiVWdJeVF4cjV6ZEtOX29PSlNyQXFFYUhkY0YzeGdvSmduY0hMWG1iZFJnei1jWlh5T0ZSVUUyWTdXWFlSb1U2bngxUjd6STFTV0pCeVlqR3lqNG9kWEJLSGhpN0ZmQS1HOUVPcEx1UllBUUNIUzBFTFd2VnNzZ1V2UU8xaUFidA?oc=5",
+      "categoria": "Ações",
+      "fonte": "Estadão",
+      "data_publicacao": "26/10/2026",
+      "data_iso": "2026-10-26T21:46:00+00:00"
+    },
+    {
+      "titulo": "Ibovespa desaba 13% após eleição, em dia de circuit breaker; dólar dispara 8% - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWDA4WW8xM2FMNUpXZTEtX0U0Qlh4bVFFa3kwaEpuMUJSNVhDN3F3TFktVUJzdzZ6RGswaUJxd1hOWllGUVZsS00yeWh1SzhOUlFScjZaUkxTRGtWcS16MldJZlo2aEVyZ1Z6Unh0M1BoUlJuMHliTTlCc0ZCN3d2OWhyQ1dkbDdwQWVROVFBcw?oc=5",
+      "categoria": "Ações",
+      "fonte": "InfoMoney",
+      "data_publicacao": "26/10/2026",
+      "data_iso": "2026-10-26T20:40:43+00:00"
+    },
+    {
+      "titulo": "Ibovespa em choque: várias ações derretem mais de 40% após virada de Lula no segundo turno, apenas 6 sobem - Seu Dinheiro",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU3BIZ1V1M0RTZnN4R3hvMzdCTDhxLUhDUGZDYkpyamxpOWNVTjNha2JFcnVuNVZXM1RkQzNVcGRGTkhzaTBHd3NCT1pCRHFLVW5XRVVZQ2l3alRCYXpPd1htZjVUbklEc0dhSDh2STJKX1NITkQxSVZxQVRVSWJCT1B5ZWFveDQ3VXN4UzN5OVZ5OTZwTE5RRHF0Mnlacm5uRzhyM2p3VkZTc3BLMUxlaU1iU205ZkNTUG5yM1k1NHljZTBobFFDbFdVcVlMWWNyeE9tRXp0ZVNlb0lIWGhKcklMVUJTMXZoOHY4NU9KaDZoQQ?oc=5",
+      "categoria": "Ações",
+      "fonte": "Seu Dinheiro",
+      "data_publicacao": "26/10/2026",
+      "data_iso": "2026-10-26T15:10:09+00:00"
+    },
+    {
+      "titulo": "Ibovespa desaba após circuit breaker e dólar dispara a R$ 5,60 com vitória de Lula - VEJA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTgzR2RrVHI1QmtQcF9ueU8tTjdmV21XUjZfQW1MekxhYXpVSDN1MjZoMjJWQjVXTE1KTS1qWndMTnc5b19NMXVUMzdSRDNnaDJzZzkxRHlNNGFsZUp2RUVwNnVjc3l1bnFNa3FqWHYzMU1USXEyV05fbXplMUJUZ2RHSUNLdU41dUIzS01TdzVRcXVQTXZfT25GQk9aWWxCbUFTcDkxSmdjMVk?oc=5",
+      "categoria": "Ações",
+      "fonte": "VEJA",
+      "data_publicacao": "26/10/2026",
+      "data_iso": "2026-10-26T12:42:53+00:00"
+    },
+    {
+      "titulo": "Agenda de dividendos dos FIIs: confira os fundos que pagam nesta terceira semana de outubro - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV3E1Ry0xbm1ldzFkZGFWMzdCMm5WbkJ6ODJpWWR0NWVsTmJBOFZqSi1PV3ZRaWJUZ0xRLWNRSWFtZEpvNVBjTGJpdTZJNnNjNnJ2TERiMXF0RU05QUpZTzJueFd4U1FCb2hrVUJLTnlaLTIwaF9aT2VqODRGbG5uYVhBcXpwUXVSM3czMmxFNFduM1ZwS3ZwVVNPSHluYWgxZFdWZmxGOElkTFBRQXBkZEJQUS1KNW1uZ2RKbFk4Ym9rVjQ4d1VPT0stOTlVV0FQQXNQNVo4aG5fMTVhNDg1dzF6cjZZREVuRUw4Mi1XaWt4MTJDdUdSX0dNeXdpNTFUSWtmQWZzTUZrakJp?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "19/10/2026",
+      "data_iso": "2026-10-19T07:00:00+00:00"
+    },
+    {
+      "titulo": "Comprar hoje e pagar depois: entenda como funciona a operação a termo de FIIs pela B3 - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWx4Z3RDaUNhV3J0Nk13bjlGRFdPZGdCMU1lVjNYR1lDZDIzSlFBcGFjQ1JIV1hqWWdHSlFYRmtVUWRRTFMwdDBYUmpyR284TzdsWHY2US1FdHNVbl9OZHBHNFVuRXdyYlJDeHd2THJTMkZ6dFowNmlrcVZvU1lQRlpERFE2SHlUY1BWR3lnOEpKNWc5TFZpTDhfWWRtZXRYeFp6WE11X3N2ZzV2TjhzTExhTi1sZWJsT1haQjZ2aHJCQmR1ZVow0gHMAUFVX3lxTE0zQWg1Wl95UVBXYkhKTnUyUHloUzBmaEdyZFFtaUY2OWdtczRQaWxYRENiWVFfbU5rWVpPaGFKNVFWZ3hlSk9nRUxGNXh6UGNGdjdPeVg5YVU0ZlJtUjVLWGcxNklEZlZTN2NwWHVtZ0JEREpUM0hDMlRlbVB4YUl0eGUzcFdCTXQyS0x6WmkzaGNYZVc5ekEyNnNqYlpMUXJOdWstbEktSzJtcExCZDBRaGR0Ynd5aWwtMkRUV3doc1F4d2l5ZEdKTmV6ZQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "InfoMoney",
+      "data_publicacao": "30/09/2026",
+      "data_iso": "2026-09-30T07:00:00+00:00"
+    },
+    {
+      "titulo": "“Novo Mercado” dos FIIs? B3 revela o que vem sendo feito para melhorar governança - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmdwdkdWanFKRE1icC1KS3NwenFSYUN1anhuUmFLV1ZEY285eWdqMUlxM0F5cno2bElSUmlyV3VIMlRUSDFKUVJfVUZvT28xOUY5TVhob1RHelFnT28ycW1ZRmRfWVdVOHFTRHBtMjRweHdXTkg2WVQwbElWUDU5YXZsc1ZOY0tkZmEyNVE1Rm15X3hXWmk0dzRVSVZtdFVXbUl0clhLUm9xRTY1UjZuQzFhQWZfRHE0VWJ6UHJ4Z9IBxAFBVV95cUxQTlRveE5SZEM3aGxwZnZkNWpLNnlKOV8tTU9DYnBRM1lPRkhTWWFQMGUtV0F1YVhpSzRfQWY0dXJMM1FOS3BoZGh5LWM3VjJoaGpVTmcxWFZUZFFhSEY0a1U0ZEFFekRXUUtUakM2aXozN1l2eTdINXRoVHFWNF91Q2NPREN5LU9kMU9NUmtzRE5pcHdKZ0piUzlneERGdDM2MGh6SEZjUTlQV2lxdUwtRXRaSldxSnRTOGp1aC1aLUJVbW5O?oc=5",
+      "categoria": "FIIs",
+      "fonte": "InfoMoney",
+      "data_publicacao": "25/09/2026",
+      "data_iso": "2026-09-25T07:00:00+00:00"
+    },
+    {
+      "titulo": "FIIs: TRXF11 e GGRC11 lideram liquidez em agosto na B3 - Suno - Investimentos Inteligentes",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb21NdEdBcEY1MU5hRjBBNkVQd2dkY1ZiWEF1MnZ4VGwzcmpZbUM4bC1Kb29ZRENfcXNjNk1HalBqZEtUTDIxLWlvRVZmYTJKN2hhanhzRXlNYUpOREE3Q1JwY1pzVFNFNlR0enFqTllESHhqdFZkSEptQlNsQVhfeWJFa0NIQUpfMWgzQjRzazPSAZYBQVVfeXFMUDBaS1Z0OUd1cXJ5NmJSbm8xY01ZdVAwT0hTdFFjY25yWGJhRm1nRmMwaHhudUdpd09qZnJJTk91VWRYU19kTzItaGxhc21wcUdzU0cxMWVnN1pQTkhLVi1mVmxHZ1ZHQXBWQURITFE0eEhtUmtsME9PVGZyYVMzLWxDYTNOdEpiSEZ1Z1poWk1UM2JZekpR?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Suno - Investimentos Inteligentes",
+      "data_publicacao": "18/09/2026",
+      "data_iso": "2026-09-18T07:00:00+00:00"
+    },
+    {
+      "titulo": "Commodities caem em bloco nesta 5ª; petróleo desaba e pressão chega a grãos, café, açúcar e algodão - Notícias Agrícolas",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRHBDUWN2TmRMemVId093VUhnV25kZURHazhqWFBqcER0NmpfNm9DN2RQaDRqQ1pWcjd5MHY5Ym9lVE9XU0JmVlBqTWxfSTVPMkp6N3VOWVBxbHNXRFZFLU50a2c4N3MzbmVaOUFmSmlCbFhpVzh1U0UtWjVYbFN3cnNobDBzTm1UZEN6OEdFOVJGLVZGTDlyYzNIWXRSdkRiMkl4WUZwSjJETE14WFpnOEk2VzFiR0tjbEhob1dwRm9Nb1M5YlBndEpzQXFMVU85TkxsR05lQVVIM2trRnc4Y0lhNFZTS012b2dDZ0pJUmlJYXdqV3N0N9IB_gFBVV95cUxQLWpacVhXZEozcTRZdWI4bHRKdE5JTy0wODg1eU5TUnlPcUJPQWtVSmpobEFFU2cwSWFwSGNsNXZ6eTZtQjFsQXYza2pHNlFkVEZ1cks5aDRSOHN3cHN2V1ZSVF9pcU51VDZsNHF1a0l2RVdodWdjeEwydy05bkJMUnltc005UE1GOVgzS1RkeENIRWlCenh1SGxxbHpRR0laaU1YbUx6dmhkdWZpQVEyLWZNTGc2eWhiOVBLNy0wYVlPb0FQdDBEbTd2dmlWcDZZWk1VbTFsSnF1c2VIUnM4Q21kN2pNc0UzWm1PNEZHSlZkVDhEOS16YVJieExmZw?oc=5",
+      "categoria": "Commodities",
+      "fonte": "Notícias Agrícolas",
+      "data_publicacao": "17/09/2026",
+      "data_iso": "2026-09-17T07:00:00+00:00"
+    },
+    {
+      "titulo": "B3 vai incluir BDRs de empresas brasileiras no índice Ibovespa - Valor Investe",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPam9GNnl1LU5CSXlBbFREbk01ZkRucUFMRFJDUGFtczBQVGdMUzJHTjJORDF5SFp6SUFkUEdDeFBKNGpUTFZVYkxjSmdDN2tnUzFuMUhLMnN1QzRVYjlYb1JSSlBnRHVUNmJ2SmRDWEpmUkpCaUNoTTQxcGZDa3ptODVoNFNwcUxHNm1hcnFZNklEbjlmNkJUOEdqSk11REUtTEtMbEpxVUI1SHlvclRrckhNZDVtZjdhMnkya01EWk41dUlLS2VjOXl5ZWh2X3lFMFpIRHNwUVlHTTc4Y0xtR2FzRzNCbng2M3lkbTE3ZWzSAf8BQVVfeXFMTURvRXBCenp2b2FTaFJWX2gxV1gxQWIwTWN6aDREd29ROGpNNEJqVXZpaFBSRFpVRG9DSjZ6RlRRYnhGNW5GQVFMVDlRR2w1dExIRFliUVR5Q0RZMXdtNE9HN0VMTkhpcFM3TFJNZl9fSXBNRHZQXzVIS0NubGFzWWlRR0hXRFQxUU5uLVBaRzk1YVZYb2x5bHUzTVpfbjF2OUJ4STVOR3MwZXQ4YXdyMWJ0bHoyS1VfSl91X3R6MXBDZWJXLW1OMFBmcE5WbWdtRl9HM2hXUm92eExlTWt0MkxyMVBzTVh4b19sZFlEdDBfV09iNWh5QjVIbTFoSnQ4?oc=5",
+      "categoria": "Ações",
+      "fonte": "Valor Investe",
+      "data_publicacao": "09/09/2026",
+      "data_iso": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "titulo": "B3 inclui 99 Fundos Imobiliários no Mercado a Termo - Clube FII News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUtPNVFDODQzVU1VVFZOWFlFYXRtM3lmUzg2cE4yMzJfQXNTRDhQZ0pMb0loeXE1N3RabWhkN09tY2NfY0Y4d05KdDItWk5xWEI2X0kyeXRNNUdlZG43MDhSV0Y0VGZXdmRtQjAyRVkxYkdnYmxsRXR3d01nM2FKdGs2dHV0d2w2MW9OTEk5SjlEREdRcVE?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Clube FII News",
+      "data_publicacao": "21/08/2026",
+      "data_iso": "2026-08-21T07:00:00+00:00"
+    },
+    {
+      "titulo": "FIIs chegam a 3,3 milhões de investidores em julho, alta de 14% em nove meses, diz B3 - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTdzSGVhN3NNU3czU21MM1l4OVd5ZFM2ckdqTkVKbEdUSTFoWVBNcWlQUk5vTm1VYkRGMlVPMnp6LWxlYVN4Slh0UmYtOHdySUJlQjhMRzM1MXhKWldpOTVrSEVQUUg0ajgxd3pGMExJSEN1OENENm5BdkdTQThRME82bmx1eGs0T0gyNG5OQVJ5RUd1aDNKLXAwN1JqSTF6eExwZ0NJZlM5NjZoOC1MNm53MHFyZFFJbUMwR2RLZFpHaFXSAcgBQVVfeXFMTkpfRmdVRHdKbVUzaWJTUDZwOHZMY19hX2FQREVHU2tvc0U0TUlLeXlhbjZyU3FfMTJwYmZXaDRRTC1sVTJKSWljVlVEWHZhdDlXbVMyOGxhN0dFVHpjTkVXOTgzZ0tNN2k3Mm9FbF9YbUZzalJrWDRfTW5wVFFmUElzZENaendDUzNrU1p1ZkM1VE1rN2NRVW9XcDVYR2E1d3pLb05yRXBfT1Y0X2lRaGJiZjBESDhyN2tXOFhpMlo3bVI3bTBnT1U?oc=5",
+      "categoria": "FIIs",
+      "fonte": "InfoMoney",
+      "data_publicacao": "19/08/2026",
+      "data_iso": "2026-08-19T07:00:00+00:00"
+    },
+    {
+      "titulo": "Quais são as commodities mais negociadas no Brasil e como operá-las - Acontecendo Aqui",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUGQyTUZkbkpnYzNxdC1BVUllQjQzb3RVYkxveVNuVzRIWmhZelA2WkZ5MEh6NTBDMWphWUJOV25TR3BLOUFmRjk5TlJNekFDQVFCUzZnandnRno0b1BhMmY2WXF3ZE01bmRSUWlKU2cwQlpwQjNVb0p3ZGpUd3NvWkNPWDM4VE5KVGVz?oc=5",
+      "categoria": "Commodities",
+      "fonte": "Acontecendo Aqui",
+      "data_publicacao": "17/08/2026",
+      "data_iso": "2026-08-17T07:00:00+00:00"
+    },
+    {
+      "titulo": "As 10 moedas que mais valorizaram em 2026 - Remessa Online",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTMnB3OWxLQkZ3YVl2cU9JZlVvNU42aG53UWt6MUpRWFJBdVBLeFNUS3A2OFEweFVuRlFOdGtqWkZBekxUOGtVbW01RUdKYnNrN1drTHl5V3RUdnJWQ01aNko3eVNsdXlHTy02WnFIakFSaV9ZcTRLeHNfRQ?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "Remessa Online",
+      "data_publicacao": "27/07/2026",
+      "data_iso": "2026-07-27T07:00:00+00:00"
+    },
+    {
+      "titulo": "O que é uma commodity? - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bUQ0Y0JlWXkwcVg5Nlh3eU5RNkptQUp3S3FENUpDUmV5STRaUEhGMlE0dDBzb2lYaWFrbUdTbmExOEh0TVB1M2NDUVR1NlNyajR2WklCcmNMZmh5eFczb3o3VzhOdTl5azlLMHdmQmZibWZSektVbg?oc=5",
+      "categoria": "Commodities",
+      "fonte": "StoneX",
+      "data_publicacao": "22/07/2026",
+      "data_iso": "2026-07-22T19:14:39+00:00"
+    },
+    {
+      "titulo": "FIIs ganham 41 mil novos investidores em junho e chegam a 3,25 milhões na B3 - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNanJXMnRjcmJxTV80QjNjTVFydFJiNWRoeDhLd2wwcUYzbVdtaHZGcW5QYXZwaHc2a3I3S1UzY3RzOTFMcVkyUjZ3MFVfQ0FvUnJkWk16WmN5aHdxTWVZc3o0RWlzUzR5MHVod3ZmVGh5d3BNb181djFRNlBsNVBzbThTc2hySjlQaFNoeG05T1pMTVdCN3IwMWpTMWJ2TW5YY3NBY3d6cDVKWHRqaFNwYlhJajZ0aXFnYzBV0gHAAUFVX3lxTFBEMHBzV0lZN1F4X09HXzFPMlFTc3lVZlA0N0NFQUQwM3RMSXh6dHdmSm5hc2MtNm9jaVN2cHpQV1NrVGhHSFFVWWN0NHVtNlFyakJmX25kUUZ6Q0o5WUF6SnBCTGZFTjRFTWxNaGRDeVc2c1c0RmR2b3BoWWtacjBJQlFFbDlITy1WbnNlOUtELWxWWVZxdXpQY1pwaXI2TEhHODBhUjZlZkdZcW1XUDJNbmYtZjkzOXA2WFlpNkhNNQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "InfoMoney",
+      "data_publicacao": "20/07/2026",
+      "data_iso": "2026-07-20T07:00:00+00:00"
+    },
+    {
+      "titulo": "Quais são as commodities mais negociadas do mundo? - EBC Financial Group",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTNlVVdzYnI1VTZORldHSTZUN0JWMDNySThlSERVRGFDQUxYbWk0TjU4T1BiNmhUalpZVW53NTNJNFJGbkF0ckpkNnhvdzhKQmhuejAtTjAxcW45WjBBaDBaaTFLYThuUG1rdDFJek1mNzZlOS1yN0Q3Q0NEWDNncklDX3I?oc=5",
+      "categoria": "Commodities",
+      "fonte": "EBC Financial Group",
+      "data_publicacao": "10/07/2026",
+      "data_iso": "2026-07-10T07:00:00+00:00"
+    },
+    {
+      "titulo": "As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZGNuMUpKZ0VxYXpuSGFPaEoxN0RKX2JSUDJwSS1mdklpOHBrZnktQXA0SDBiU1pSVU8ydHZuSEh5Qk1NbkdyOUJOTUJmUXRaOGtVYlZrQWpaaTBIMEtnUHBGejdOYlNLbGZtRHNHRWFlNTNYbWpONW1HSDhzZVA1VTE5Z0QzdjRORmIwU0Y4TWNyYzQzWUxEMWtrWXhlRUZIVkNOeW5DV1BSVWwxTWc0MnRzMGxpR3o4Wll6SE01Vk9ndkVwWkZicjVZcXhFTUdnZUt4ci1WWWtveHpCc3ZHQk9sVUJwYlRzUTBnQWtzWWhqRmNpWUxN?oc=5",
+      "categoria": "Ações",
+      "fonte": "Bora Investir",
+      "data_publicacao": "03/07/2026",
+      "data_iso": "2026-07-03T07:00:00+00:00"
+    },
+    {
+      "titulo": "Dividendos dos FIIs: confira os fundos imobiliários que pagam na semana de 18 maio - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQc1E5UVpYMzlCZXhVeEE4aW9sN0IxWmlwNHVHbnFkdmJuZlR5Z1NsME80LTBSOXVVdlcwTUViemJmeHRFeDA1Y3J3SzZFS29rRlVqRUlfamh5cFBVZ1ZGOXZ4bmV4UzlXVDNwbHk0YXNJVmtLc3lnbFJ5S19oUzVSMDZqYkxFazNySzEwMjdwVWVjakVHN2tnY2VkQndiMVdvX05iSWN5RGVpZU0tOVNfNkNibDB1MnRnV2U3Y2FWRWlScEtzZkh6aUVQUExUbjhqSnBQNkVMNldhekpJbllRa2ZaWGxZSnRaNVBBeldzNXkyYTRHejNDVV9XSXBmcmxG?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "18/05/2026",
+      "data_iso": "2026-05-18T07:00:00+00:00"
+    },
+    {
+      "titulo": "ETFs de Commodities da B3: guia para investir - Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkX3ZMamNyd2U5Ym91NklkcXRmckxYS01seU5ZbXptS2pTOVRTZW9YQUNYR1B6TkRZSFdiMlJXZ05zQktOWEQtbXNmalB4ZERsWm5kUlppNXlQNGJXOFlFQi1PYVV1dXQ3Vnc?oc=5",
+      "categoria": "Commodities",
+      "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "data_publicacao": "12/05/2026",
+      "data_iso": "2026-05-12T07:00:00+00:00"
+    },
+    {
+      "titulo": "Por que analistas estrangeiros indicam que Brasil vive 'momento de ouro' na economia - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOeTFwT3I2OGFvQXU4U1JsNnAyN1RBTUxtZ0xTLXZ3M0xyOGxaeUxmZWtBYXlVSWNfTVFUVHNsTkp5TUF1Z2dWZWdDNGNEc0FlUlVDY282SVEwdVRVNEgteExn0gFnQVVfeXFMT1JZbkJHaUNQME1NUU9WV0NvVy1FeEhsMWh0SWRPdVVUbFd5dzlIWG1zdkpTSDBiQVB1Yjh1S3FiajlLTzlGQThBQkVUaTVSWW5tQzRUUTZ4aXdvNmFWNXBNb0ZhRERrWQ?oc=5",
+      "categoria": "Commodities",
+      "fonte": "BBC",
+      "data_publicacao": "28/04/2026",
+      "data_iso": "2026-04-28T07:00:00+00:00"
+    },
+    {
+      "titulo": "Investidores em FIIs chegam a 3,07 milhões e renovam recorde na B3 - Fiis",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUsyaVRBUzFtdVpFZmdoNzJiODJOMkp3Q1B5dldQOTM0LXlpR1U3ZzRaeDd6ekVBWWN6djNWVzZsbWVUNWcxem5zRklMM3FISl9LMklZbFQ4anc2NExOOWZoTG1ZOEROOFByaWswQ3g3SXZIYkFmYk5fY1ZTVnJNM2dFUW1KSll0MjdqbndER2FjUkx4RVlobktIZw?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Fiis",
+      "data_publicacao": "16/03/2026",
+      "data_iso": "2026-03-16T07:00:00+00:00"
+    },
+    {
+      "titulo": "FIIs superam 3,07 milhões de investidores na B3 em 2026 - Suno - Investimentos Inteligentes",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1VBTk9lRm1MOFdLd2tTR2tBMzBrSlVlMlBQLTVOaHNPTngyaFVzTHVtZTVsLXM1dlNVeUZyRlFCeVdTSUc1VkI1U0JOV3ZLeGE5U2xMOGlpRTBHVDVZY3JkRXNQel9TLWlpblJobE1lNlBTc1I5bmVmQlRVMHlFbmRBa9IB3AFBVV95cUxNcnhzZjVVY3RjMHBYdVVoT3FzenBXZEM5VjloS0FWNHdwVjJFWkdjaGdQeWx3Nm1SUlYzRjdzeDdvbDY1ZElXVlUtWl9MWWkxZkxxLWJpeExFQ3ZPazZVZzZnWHdLOUlCaGdlRUxkX2pWUWhyS1hxNUJpYVljLUE5U1lUZW56TmloVEpPSGpUTXJPX2RpZThDNS1tR2VESF9ERkJOektIVEkzY3hIOTJXanloOEM0ZTBVWXBzN2tkT095eFZSUHp0czlqQVo4b0czZEY2cG5pUi1ZNGJ6?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Suno - Investimentos Inteligentes",
+      "data_publicacao": "16/03/2026",
+      "data_iso": "2026-03-16T07:00:00+00:00"
+    },
+    {
+      "titulo": "Melhor Plataforma para Negociação de Commodities no Brasil em 2026: Top 7 Corretoras para Começar - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcV9KbEViVDIxS01iZzlIWHJ6UjJPbXhIV01RVG9BNFhwVVlZbEd6RW5SVGstUmNMdGNJNFVFXzMzaVhfTWNBWEZ1OG4xRmJOMmpNa1dBV3A3dHVrekxLcl9RRWJSSDhScVFqR2FJaGtYaFdFaGFEam9fd0xTOExwRlViRGN6Y2xHTmtQZ19SaFFzai1Ya0Y3SkFSSFBYdHFINUdF?oc=5",
+      "categoria": "Commodities",
+      "fonte": "Mitrade",
+      "data_publicacao": "16/03/2026",
+      "data_iso": "2026-03-16T07:00:00+00:00"
+    },
+    {
+      "titulo": "Como a guerra do Irã pode impactar os preços e a economia do Brasil - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDNLZGU5Y1dhTkxiVUFMRGs2OWplREkta1hHdkFHYlFXM0Z6bnRMTVV1MUVMcjMyOXlsS0tiSHB6MUJsbjdhNXRkN1hZWXZXM1phZkh3cXVXeUw4ZlRVUDk1V0l1SmRyTWNkODZnUjc2ZVRGVDRPbWxnR3dFRDRwcDJGcVhSS3NNR1d1bUl4NXluOGc4ZWlnUFB2amhGU1lrRV9KdDQtcnI3RUJD?oc=5",
+      "categoria": "Commodities",
+      "fonte": "Bora Investir",
+      "data_publicacao": "03/03/2026",
+      "data_iso": "2026-03-03T08:00:00+00:00"
+    },
+    {
+      "titulo": "Irã é principal comprador de milho brasileiro; Como conflito impacta commodities? - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEExbV9NSlc2NVBOeC1xMzF5Z0F5S2lWOTN2MzB6TzQwZ00tM0tTTnpHNUZmdWM4b3JKOEIxVG5FczNtUnVXRmhuek5BeWJEQU9pTDFGRnJ0WnF3dmRGaTZiQ2ZlRzdHakROMHo3dzd0WnM4eV9uU0VRZ1JvZkZEX2tEalEwQnltZ01FM1pyUEtXeGU4Nkg0X0sxaG5Yc2lnNGhfenhfV2xZSDA1RjExSENtMEhQREZsMVHSAb8BQVVfeXFMTzBPSk5LQl9zSmVLVlozaTA2aXVCX3RBZDF4YkEtMEZDekVZclI5SmppbDZ0RUhaUmdocDlJZ2JYNE1mdlNjQmNtSTBTV0IzMVd6dUQyWVN5ZHVyZnJBRS01YkN3cEk4dXdTODhlUThMRjNDX2FpSm42cjduRDhjVlJBLXZoaC1hdzQ4bUlhTG5GY0hpcFJoS1ZCQTNRN1ZROTBCeDJTdFJPeVpVV01fTlFhTXlKUHJPVS1aRzdHNzg?oc=5",
+      "categoria": "Commodities",
+      "fonte": "InfoMoney",
+      "data_publicacao": "03/03/2026",
+      "data_iso": "2026-03-03T08:00:00+00:00"
+    },
+    {
+      "titulo": "Guerra no Oriente Médio aumenta busca de investidores por ativos seguros - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMFNzbGxWbjV3UnQweFg5OHdVZ0kxb19DMWwwcHVYRWdLWFFWSkZoTl93Y18ybGYwR0g4ZVJiNkRtMHdHOVYtYmd3OExWaVBMdVlOckhfaVI4QmlBOGkycHIwM1I3cmROUjBYeHJvSGhaWWJQQzh3YkpJOW83SmhZN25TZlpDOUVIOXJKa25ZQ1BiNTZhOVZaU2psVURWdHVEVEU4X0prcmozLTVCa2t4dUhvdXZ6XzNjWEV0bnE2VkRBbVAzbzRCVQ?oc=5",
+      "categoria": "Commodities",
+      "fonte": "UOL Economia",
+      "data_publicacao": "03/03/2026",
+      "data_iso": "2026-03-03T08:00:00+00:00"
+    },
+    {
+      "titulo": "FIIs Atingem R$ 200 Bi e B3 Prepara Nova Fase com Derivativos - Forbes Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0JKNjJhNmlpT0czalZZZ3JXRThTWmJuekRMXzJwZHllNzUyTk5lMEk0SFdsaW5qcGVzdndqMzdhaTdwbDRtTy1ZbGNoOU1WWTlleFJ2LW1VZjMyblcxUngtdU00ZDh5RVJWV0VDdWQtNnpwWXJOc2VxUDNJSlg3dVo1UzNfMGo1bGUwaWRvV1p0aGtWWGdFVzlQREVtODVTdjJTNS1MdWNFdElicmRaV2lOYmhGNExSWXdIRzRKeE0?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Forbes Brasil",
+      "data_publicacao": "24/02/2026",
+      "data_iso": "2026-02-24T08:00:00+00:00"
+    },
+    {
+      "titulo": "Mercado de fundos imobiliários (FIIs) atinge marca de 2,96 milhões de investidores em 2025 - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUEdtTHBhcmZyWERVRUNMTEtid3FhdndzZDNjQi1DU2pBRkhYMFBiTlFKNmgyM2JVS0JSNDNhLVk4cU9vdWdOcWJvUGNncXRDSUpsR2d6ZDV6c0xOdENUVl9CSDJxb1ZCdzROZjgwbGl1RzNxMHFIRm5uUHZOeVBMSzdoTzViTGk0TkNPQ2RTUXRnRHhDZ1N4TWVaeklwcTlJaGNRRklxNEQ5Q2UySEs3TWdMc3VmaHprRXhjZDhLVl9VQzV4R3ZWSlNHaWxCTFY3MjBsOFVTVFhQTzRlcmRXYi1sd1R2M0dVNTN0NFozQVo5TmF3aGFjb2plaC1OOVBuOVpRRzBacVU?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "21/01/2026",
+      "data_iso": "2026-01-21T08:00:00+00:00"
+    },
+    {
+      "titulo": "Por que o yuan cresce, mas está longe de desbancar o dólar - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU9RcG04X0hkOHowZFpkZkptc25rajFqOWZKdFNNYURLUFljRGJQTGRSWHZWeHhoZFh1YXQxT2hwa0gteUlhSmZDeGZYTS1VZjhCc1k1MG1KR2daUElzYWtENlZ5aWFJc3NjOGI3TTFjMHduQzNwd3BTc1RLbUFDMHpqZGRuekswbDNOOHE5RzZkUExIV1AwNHRCdGFnTGRGZGEydTF3c0JWa0E3MnfSAa4BQVVfeXFMTVdaZi1vS1l4ZDB1NTJKdktIWHZPdGtudEM4MFJnNFFPelFJY043TGRGU3NJUEJpcmhtS2VoUTJPWlkyMWZGUEtpeWstOU1lT2tmVDFHY04teW85c0psdVlma2VpdGxrb3diWFlQSFFxSE9vbGxMWU1ha1ZXbWxwYUtFWlY0b3BvYllIeWpVSmRpRFhRMmI3OWZSeHFCR1h6SThOUlhIX2lOeXMwTUd3?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "DW.com",
+      "data_publicacao": "08/11/2025",
+      "data_iso": "2025-11-08T08:00:00+00:00"
+    },
+    {
+      "titulo": "Dólar enfraquece frente às principais moedas em 2025 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYk9XemdJSGpNNHpwbzAxYmNETFNYWG9rMnpJRjFrdmk3eEtzZVlEVFV4V2tfN2NVdWNlaFdKSmxRVU9CVFpvOFVsVE9HQXFkTjBLT0JPU2QwcUtodmtIQVU3dGd4ZG9TNnhtYjRSZkxWeXlzUF9aV3Nza3BvVkdtUDRQdG9fMEtZMmx5X2hDU0pfUlE1elVFVVZWMDU0R2pR?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "Poder360",
+      "data_publicacao": "01/05/2025",
+      "data_iso": "2025-05-01T07:00:00+00:00"
+    },
+    {
+      "titulo": "Como investir em commodities no mercado internacional? - Exame",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmtBTVJSYTVMY1RzckExRGZmTXY4dkRYek1jNWdOUnJjYlhpSTVDX3lsc29DRjB6a0NFTFF1LXQydGVvVlNfa0FIUVptWGVNWUtfRGV2cXNRVDMyZjQ4eWlEQ1hCRmlFd3FPRGVnR1p4c3RGTXlaRi1yR3VKUkJTb1M5SjRmejhEVUE1ZlphU0NTZ2xPR3VTSg?oc=5",
+      "categoria": "Commodities",
+      "fonte": "Exame",
+      "data_publicacao": "25/09/2024",
+      "data_iso": "2024-09-25T07:00:00+00:00"
+    },
+    {
+      "titulo": "6 ETFs para quem quer investir em commodities - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3ZkQ0VQVHVPa0RzSlF4TjlUT3IyaURaQTdGNmlvMjBwc29CdXZOQW56cGVqaUtYR2syRlh6SzBjR09NRGtqSlVWR1lXQnU4SkdLTUNFeWFvSmIwcDBoN1VPbzVPSkctdnk4UHJ4QmNsYUdQcndlX09QMjNwRFZ1SEFJRE82SG9COWhGYVpnNzFLZ2dySTMyVkdJdFhpUU9JanJnREJ6WW5pZHVHb3dQazh1ejhTU1VCTDRacEd4cnBjMjhtS0E?oc=5",
+      "categoria": "Commodities",
+      "fonte": "Bora Investir",
+      "data_publicacao": "04/06/2024",
+      "data_iso": "2024-06-04T07:00:00+00:00"
+    },
+    {
+      "titulo": "Comércio Brasil-China faz primeira transação em moedas nacionais, sem o dólar - Gazeta do Povo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc05ZbUJHbVQ0NmJ1MnRNbW1SYTFjSkl4UWZnN3A1TGduOFFCdGRfX01UY3R2ZmFraW1RQkQ2ZHIzM19SanN2UXhYcFRGbVFqWnk1UWZHZVUwTWd0bUdKMGhEOW94N3JpVnpwQmFTREREajNuWW53Zm5lNDFWVlczaHhsNGJQZzJYcUdORVl4NUVES1dNWGs4Ulk5YlJWTndSZVJySUxLVl9QWktJcFhVTFRLQjRPbFhrMFE?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "Gazeta do Povo",
+      "data_publicacao": "03/10/2023",
+      "data_iso": "2023-10-03T07:00:00+00:00"
+    },
+    {
+      "titulo": "Dólar? Euro? Libra? Yuan? Saiba como escolher a melhor moeda para formar uma reserva internacional - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWZvdGhrR2VtX1dHODVodmRsa0haVGZqRHFpWjJac2VFdVV4aDhSX0RHUC1UMThocmhDNTZuSkNZSmRXY05xWDFuYzM5TnhHUW1vVzNoOWZIZnQxTU9QU29ZT3JES0Jfalo2UXJnZEpBd1JiRVl2NkRmZ3I2cTlPN0hmb3R5QWVHZEdGMWFXbFZycWt2WU5lZ1FQTl9NeE9ZeXg3OUhhX1F5SHV5YldnNmphUTFyNDFyMjR3MEdCRjJmaFVxbFVzM09tdktUUWRDMldrZdIB2gFBVV95cUxPOE56eFIybUZpcGswOHZsSUtMN09LSkZrMlN4clFHaVpJOWJlUnFWTm9ZVzhfUGVGay0tTDU3SlMwWlpoTTlkUy1aQ0ptWjlkSVJnckEyNHVjOEpLb1dZR1JMU0tDMm5PLWhkbmpySllqdEdvT29QeWpVWmxFTjdyMXNjSGpmYW94cVhvU01nbEMxRTRzc185TkxiRHdidmhkX3FYYjhvQTg5Q210VE9ibDNUWnpXOEFMdV9pOFAwUGxlVHhJMXJld1l0RG9VTUlHcV9TX29vb3ZJZw?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "InfoMoney",
+      "data_publicacao": "07/06/2023",
+      "data_iso": "2023-06-07T07:00:00+00:00"
+    },
+    {
+      "titulo": "Operações comerciais entre Brasil e China sem uso de dólar devem ter início em julho - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUVBDRDZyOGtDS0MyZHRWc2FvRFI5MHRrZEZTcWVMOFR5ZGlKdzM5X2hjOVZHMmZiQkFJcG9rTHZuWURMMnpsSERzMEpyVU03d19qYjZ2a1hydjZhSkxPMlZHU2xpSVZSRWxiYXUxRUxJQU1JTWJNdFdXRGlHdmhkZVo2NFBKSlVVT2MzS1RrUF93bzh4dWlfaGE4Vkl5MUZfdlVtelk2c3RLQUp1Si1lYXAwZnh0YTJYWVFyOThiMXRydkJOVkludE0wbmhQQVkzSFdr?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "CNN Brasil",
+      "data_publicacao": "03/04/2023",
+      "data_iso": "2023-04-03T07:00:00+00:00"
+    },
+    {
+      "titulo": "Cotações: Câmbio, conversor de moedas, bolsas e índices - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BU2JRak84Nm5Gak5neXNzRU93cHVBMVVGMk9TMHNXMW40U3BYV21OYWtHX2RIcDMxYmhhV29iMzF4UzNoNnBNWHAyUVdCUQ?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "UOL Economia",
+      "data_publicacao": "30/08/2016",
+      "data_iso": "2016-08-30T23:42:51+00:00"
+    },
+    {
+      "titulo": "Yuan: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6WU9vQ2JTa202WGVZMTVtQjdKMW9xVjh5cUZwZzBHSDRjeU5XRGZhYUphb29YQ045cER2bGtMb29mYVdWMlNVNEQwdTlHN3Vpa0F6eEhnN0dkVDFaQUhqY19mdEdKZw?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "UOL Economia",
+      "data_publicacao": "24/08/2016",
+      "data_iso": "2016-08-24T11:03:29+00:00"
+    },
+    {
+      "titulo": "Por que a China desvaloriza sua moeda? Há duas grandes razões - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDZuX05lS01iUUlwYUpPSlQ0SnZsbGh6d1NLVG9MM0pqeU5QVHBtLWpaUjM0MTduUzZlN0FDSjNtSDBuaml0OXVoMDFEby1DQi1jUFExNDhmaGFLZEw3c3lGd3BPSVBlRGNoMFktazlmVHVCNTNkd3dDVUdWcGxXV3RZYmxQSHgtV3RETVF1MHY5aXF6SnRBelZwdWQ4RDZzZ3phRGtHZGVocnZmelNR0gG-AUFVX3lxTE9OX2VRTVdfWGsyZ0dPSkpPT2xRckNOQV8yb0RiWkJEZnZNUy1qSTVfR0xuaURtOWx0MXd4LVlFcENzOG93SDgtdjYtYV91NzhvVGRRWjFsSUlMYkc4dTl2Z1l5N1p5R1BNSVRuTnJNZXJFal9BTG4yaWhldnBORHg1Qy0wbW1Jd3dKX3hwUjZaV2NwZi0zcWhJTUxVcUlTcmdsUEtsTklZQjhuOGctNWRSQ3NndE5INXVaWTZqRHc?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "O GLOBO",
+      "data_publicacao": "13/08/2015",
+      "data_iso": "2015-08-13T07:00:00+00:00"
+    }
+  ],
   "avisos": [
-    "Aguardando a primeira coleta automática das fontes financeiras"
+    "PTAX USD indisponível (HTTPError)",
+    "PTAX EUR indisponível (HTTPError)",
+    "PTAX CNY indisponível (HTTPError)"
   ]
 }
