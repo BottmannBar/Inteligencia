@@ -3,87 +3,112 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#0a1222">
-  <meta name="description" content="Painel de inteligência de mercado com indicadores públicos do IBGE e notícias de tecnologia via RSS.">
-  <title>Observatório | Inteligência de Mercado</title>
-  <link rel="stylesheet" href="./styles.css">
+  <meta name="theme-color" content="#000C25">
+  <meta name="description" content="Observatório de inteligência de mercado: cidades, renda, PIB per capita, desempenho do comércio e notícias com fontes.">
+  <title>Tech-nigma | Inteligência de Mercado</title>
+  <link rel="stylesheet" href="./v2.css">
+  <script src="./v2.js" defer></script>
 </head>
 <body>
-  <div class="layout">
-    <aside class="sidebar" aria-label="Navegação principal">
-      <a class="brand" href="#inicio"><span class="brand-icon">◈</span><span>OBSERVATÓRIO<small>INTELIGÊNCIA DE MERCADO</small></span></a>
-      <div class="nav-label">MENU PRINCIPAL</div>
-      <nav>
-        <a class="nav-link active" href="#inicio"><span>▦</span> Visão geral</a>
-        <a class="nav-link" href="#demografia"><span>◉</span> Demografia</a>
-        <a class="nav-link" href="#noticias"><span>▤</span> Notícias e sinais</a>
-        <a class="nav-link" href="#fontes"><span>⌁</span> Fontes & método</a>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="identity"><span class="logo-mark">◈</span><div><strong>TECH-NIGMA</strong><span>INTELIGÊNCIA DE MERCADO</span></div></div>
+      <div class="group-title">CENTRAL</div>
+      <nav class="nav">
+        <a class="selected" href="#visao"><span>▦</span> Visão geral</a>
+        <a href="#economia"><span>▤</span> Economia local</a>
+        <a href="#setores"><span>◈</span> Setores de mercado</a>
+        <a href="#noticias"><span>≋</span> Notícias & sinais</a>
+        <a href="#metodologia"><span>◎</span> Método & fontes</a>
       </nav>
-      <div class="sidebar-bottom">
-        <span class="tiny-pill">MVP · VERSÃO 1.0</span>
-        <p>Dados oficiais e notícias reunidos com rastreabilidade.</p>
+      <div class="side-bottom">
+        <div class="pulse"><i></i> DADOS PÚBLICOS</div>
+        <p>A criatividade faz o mundo girar.</p><p>Dados não são conclusões. Compare território, período e unidade antes de decidir.</p>
+        <small>V2 · PAINEL EXPLORATÓRIO</small>
       </div>
     </aside>
-    <main id="inicio" class="main">
+    <main id="visao" class="main">
       <header class="topbar">
-        <div class="crumb">PAINEL <span>/</span> MERCADO DE ELETRÔNICOS</div>
-        <a class="top-link" href="https://www.ibge.gov.br/" target="_blank" rel="noopener noreferrer">Fonte oficial ↗</a>
+        <div class="breadcrumb">TECH-NIGMA / <b>ANÁLISE DE MERCADO</b></div>
+        <div class="top-actions"><span class="sync-dot"></span><span id="collect-date">Aguardando dados</span><a href="https://github.com/BottmannBar/Inteligencia" target="_blank" rel="noopener">GitHub ↗</a></div>
       </header>
-      <div class="content">
-        <div class="hero-top">
-          <div>
-            <div class="eyebrow"><span class="dot"></span> CENTRO DE MONITORAMENTO</div>
-            <h1>Inteligência de <em>mercado.</em></h1>
-            <p class="subtitle">Indicadores públicos, sinais do setor e informações verificáveis em um único painel.</p>
-          </div>
-          <div class="update-box"><span>ÚLTIMA COLETA</span><strong id="updated-at">Aguardando coleta</strong><small id="source-status">Sem dados carregados</small></div>
+      <div class="workspace">
+        <div class="title-area">
+          <div><div class="eyebrow">PAINEL DE INTELIGÊNCIA · BRASIL</div><h1>Entenda o mercado.<br><em>Investigue melhor.</em></h1><p>Explore o perfil econômico das cidades, acompanhe indicadores setoriais e monitore sinais do mercado.</p></div>
+          <div class="legend" id="data-state">● Dados de fontes públicas com períodos identificados</div>
         </div>
-        <div id="alert" class="alert" role="status">O painel está carregando as fontes.</div>
-
-        <section aria-label="Indicadores principais" class="metrics">
-          <article class="metric-card"><span class="metric-label">POPULAÇÃO · CURITIBA</span><strong id="population-curitiba">—</strong><span class="metric-foot" id="year-curitiba">IBGE · ano não disponível</span><span class="metric-accent blue"></span></article>
-          <article class="metric-card"><span class="metric-label">POPULAÇÃO · SÃO JOSÉ DOS PINHAIS</span><strong id="population-sjp">—</strong><span class="metric-foot" id="year-sjp">IBGE · ano não disponível</span><span class="metric-accent teal"></span></article>
-          <article class="metric-card"><span class="metric-label">NOTÍCIAS COLETADAS</span><strong id="news-count">—</strong><span class="metric-foot">RSS · notícias de tecnologia</span><span class="metric-accent violet"></span></article>
-          <article class="metric-card"><span class="metric-label">FONTES ATIVAS</span><strong id="sources-count">—</strong><span class="metric-foot">IBGE + feed RSS</span><span class="metric-accent amber"></span></article>
+        <section class="filters" aria-label="Filtros da investigação">
+          <div class="filter-head"><div><strong>Configure sua investigação</strong><span>Território e atividade econômica</span></div><button id="reset" type="button" class="quiet">↻ Redefinir</button></div>
+          <div class="filters-grid">
+            <label>Estado (UF)<select id="uf"><option value="PR">Paraná (PR)</option></select></label>
+            <label>Município<select id="city"><option value="4106902">Curitiba</option><option value="4125506">São José dos Pinhais</option></select></label>
+            <label>Setor de interesse<select id="sector"><option value="tecnologia">Celulares e informática</option></select></label>
+            <label>Comparação setorial<select id="comparison"><option value="mom">Mês anterior</option><option value="yoy">Mesmo mês do ano anterior</option><option value="y12">Acumulado em 12 meses</option></select></label>
+          </div>
+          <div class="filter-foot" id="city-status">Selecione um município para consultar seus indicadores.</div>
         </section>
-
-        <div class="two-col">
-          <section id="demografia" class="panel" aria-labelledby="demografia-title">
-            <div class="panel-head"><div><span class="kicker">DADOS OFICIAIS</span><h2 id="demografia-title">Demografia comparada</h2></div><a href="https://servicodados.ibge.gov.br/api/docs/agregados" target="_blank" rel="noopener noreferrer" class="small-link">API IBGE ↗</a></div>
-            <p class="panel-note">População estimada mais recente disponível na tabela 6579. Não mede número de compradores nem vendas de celulares.</p>
-            <div class="bars">
-              <div class="bar-info"><span>Curitiba</span><strong id="bar-value-curitiba">—</strong></div><div class="bar-track"><div class="bar-fill bar-blue" id="bar-curitiba" style="width:0%"></div></div>
-              <div class="bar-info"><span>São José dos Pinhais</span><strong id="bar-value-sjp">—</strong></div><div class="bar-track"><div class="bar-fill bar-teal" id="bar-sjp" style="width:0%"></div></div>
+        <div id="global-alert" class="notice" hidden></div>
+        <div class="section-top"><div><span class="eyebrow">01 · INDICADORES</span><h2 id="city-title">Panorama de Curitiba</h2></div><span class="source-tag">Indicadores de períodos diferentes</span></div>
+        <section class="kpis" aria-label="Indicadores econômicos">
+          <article class="kpi"><div class="kpi-line">POPULAÇÃO ESTIMADA <span>◉</span></div><strong id="kpi-pop">—</strong><div class="kpi-foot" id="kpi-pop-sub">IBGE · município</div></article>
+          <article class="kpi"><div class="kpi-line">PIB PER CAPITA <span>◇</span></div><strong id="kpi-pib">—</strong><div class="kpi-foot" id="kpi-pib-sub">IBGE · município · não é renda</div></article>
+          <article class="kpi"><div class="kpi-line">RENDA DOMICILIAR PER CAPITA <span>↗</span></div><strong id="kpi-income">—</strong><div class="kpi-foot" id="kpi-income-sub">IBGE · unidade territorial indicada</div></article>
+          <article class="kpi emphasis"><div class="kpi-line">VOLUME DE VENDAS DO SETOR <span>▥</span></div><strong id="kpi-sector">—</strong><div class="kpi-foot" id="kpi-sector-sub">PMC · Brasil · agosto/2026</div></article>
+        </section>
+        <div class="section-top" id="economia"><div><span class="eyebrow">02 · ANÁLISE TERRITORIAL</span><h2>Entenda a cidade</h2></div><a id="city-source" href="https://www.ibge.gov.br/cidades-e-estados/pr/curitiba.html" target="_blank" rel="noopener" class="text-link">Conferir IBGE ↗</a></div>
+        <div class="main-grid">
+          <section class="panel">
+            <div class="panel-heading"><div><span class="micro">DEMOGRAFIA</span><h3>Comparação populacional</h3></div><span class="faint" id="compare-year">2026</span></div>
+            <p class="muted">Compare o município selecionado com a outra cidade de referência. Números não representam quantidade de consumidores.</p>
+            <div id="city-bars" class="city-bars"></div>
+            <div id="pop-reading" class="insight-note">Aguardando indicadores.</div>
+          </section>
+          <section class="panel">
+            <div class="panel-heading"><div><span class="micro">RENDA & PRODUÇÃO</span><h3>O que os valores significam?</h3></div><span class="mini-icon">ⓘ</span></div>
+            <div class="definition"><div class="definition-symbol">R$</div><div><b>Renda domiciliar por pessoa</b><p>Rendimentos dos moradores divididos pelas pessoas do domicílio. Quando a fonte for estadual, não representa a renda específica do município.</p></div></div>
+            <div class="definition"><div class="definition-symbol">PIB</div><div><b>PIB per capita</b><p>Produção econômica anual dividida pela população. Não é salário nem renda dos habitantes.</p></div></div>
+            <div class="definition"><div class="definition-symbol">↗</div><div><b>Variação setorial</b><p>Vendas ajustadas pela mudança de preços. O recorte usado aqui é nacional, não municipal.</p></div></div>
+          </section>
+        </div>
+        <div class="section-top" id="setores"><div><span class="eyebrow">03 · INTELIGÊNCIA SETORIAL</span><h2 id="sector-title">Celulares e informática</h2></div><a href="https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/atividade-economica/defeso-eleitoral-2026/informativo-pmc-ago2026.html" target="_blank" rel="noopener" class="text-link">Fonte PMC ↗</a></div>
+        <div class="sector-grid">
+          <section class="panel">
+            <div class="panel-heading"><div><span class="micro">DESEMPENHO · BRASIL</span><h3>Volume de vendas</h3></div><span class="faint">AGO/2026</span></div>
+            <div class="triple">
+              <div><span>Último mês vs anterior</span><b id="sector-mom">—</b></div>
+              <div><span>Vs agosto/2025</span><b id="sector-yoy">—</b></div>
+              <div><span>Acum. 12 meses</span><b id="sector-y12">—</b></div>
             </div>
-            <div class="insight"><span>✦ NOTA DO ANALISTA</span><p id="population-insight">Aguardando dados para comparação. População é apenas um indicador de tamanho potencial do mercado.</p></div>
+            <div class="chart-title">Evolução mensal <span>variação % frente ao mês anterior, ajustada sazonalmente</span></div>
+            <div class="trend" id="trend-chart"></div>
+            <p class="fineprint">Fonte: Pesquisa Mensal de Comércio (IBGE), consolidada pela Secretaria de Política Econômica. Os dados são da atividade de divulgação, que pode ser mais ampla que o segmento selecionado.</p>
           </section>
-          <section class="panel" aria-labelledby="metodo-title">
-            <div class="panel-head"><div><span class="kicker">LEITURA CRÍTICA</span><h2 id="metodo-title">Como interpretar</h2></div></div>
-            <div class="method-item"><span class="method-num">01</span><div><strong>Dado</strong><p>Qual foi a medida, em qual unidade e em qual ano?</p></div></div>
-            <div class="method-item"><span class="method-num">02</span><div><strong>Hipótese</strong><p>O que o dado sugere, sem comprovar por si só?</p></div></div>
-            <div class="method-item"><span class="method-num">03</span><div><strong>Contraprova</strong><p>Que outras fontes podem confirmar ou contrariar a interpretação?</p></div></div>
-            <div class="method-item"><span class="method-num">04</span><div><strong>Conclusão</strong><p>Separe fato observado, inferência e informação ausente.</p></div></div>
+          <section class="panel sector-insights">
+            <div class="panel-heading"><div><span class="micro">LEITURA ANALÍTICA</span><h3>Como interpretar o setor</h3></div><span class="mini-icon">✧</span></div>
+            <div class="analysis-block"><span class="tag fact">FATO</span><p id="sector-fact">Aguardando setor.</p></div>
+            <div class="analysis-block"><span class="tag hypothesis">HIPÓTESE</span><p id="sector-hypothesis">Aguardando setor.</p></div>
+            <div class="analysis-block"><span class="tag limit">LIMITE</span><p id="sector-limitation">A PMC não comprova desempenho de empresas de uma cidade.</p></div>
           </section>
         </div>
-
-        <section id="noticias" class="panel news-panel" aria-labelledby="noticias-title">
-          <div class="panel-head news-header"><div><span class="kicker">MONITORAMENTO RSS</span><h2 id="noticias-title">Notícias e sinais do setor</h2><p class="panel-note">Manchetes para investigação. Uma notícia não comprova uma tendência.</p></div><div class="news-controls"><label class="sr-only" for="news-search">Buscar manchetes</label><input id="news-search" placeholder="Buscar manchetes..." type="search"><label class="sr-only" for="news-filter">Fonte</label><select id="news-filter"><option value="">Todas as fontes</option></select></div></div>
-          <div id="news-list" class="news-list"><p class="empty">Aguardando coleta de RSS...</p></div>
-          <div class="news-bottom"><span id="news-shown">Nenhuma notícia exibida</span><a href="https://news.google.com/?hl=pt-BR&gl=BR&ceid=BR:pt-419" target="_blank" rel="noopener noreferrer">Ir ao Google Notícias ↗</a></div>
+        <section class="panel news-panel" id="noticias">
+          <div class="panel-heading news-head"><div><span class="micro">04 · MONITORAMENTO</span><h3>Notícias e sinais do mercado</h3><p class="muted">Publicações RSS são pistas para investigação, não comprovação de tendências.</p></div><div class="news-tools"><input id="news-search" type="search" placeholder="Buscar uma manchete..." aria-label="Buscar notícias"><select id="news-mode" aria-label="Filtro das notícias"><option value="setor">Somente setor escolhido</option><option value="todas">Todas as notícias</option></select></div></div>
+          <div class="news-list" id="news-list"><div class="empty">Carregando manchetes…</div></div>
+          <div class="news-footer"><span id="news-count">—</span><a href="https://news.google.com/?hl=pt-BR&amp;gl=BR&amp;ceid=BR:pt-419" target="_blank" rel="noopener">Abrir Google Notícias ↗</a></div>
         </section>
-
-        <section id="fontes" class="panel" aria-labelledby="fontes-title">
-          <div class="panel-head"><div><span class="kicker">TRANSPARÊNCIA</span><h2 id="fontes-title">Fontes, limites e atualização</h2></div></div>
-          <div class="sources-grid">
-            <a href="https://sidra.ibge.gov.br/tabela/6579" target="_blank" rel="noopener noreferrer" class="source-card"><span class="source-icon">◉</span><div><strong>IBGE / SIDRA</strong><small>Estimativas populacionais · tabela 6579</small></div><span>↗</span></a>
-            <a href="https://news.google.com/" target="_blank" rel="noopener noreferrer" class="source-card"><span class="source-icon">▤</span><div><strong>Google Notícias RSS</strong><small>Agregador de manchetes · verificar publicação original</small></div><span>↗</span></a>
+        <section class="panel methodology" id="metodologia">
+          <div class="panel-heading"><div><span class="micro">05 · CONFIABILIDADE</span><h3>Fontes, cobertura e regras</h3></div></div>
+          <div class="sources">
+            <a href="https://www.ibge.gov.br/cidades-e-estados.html" target="_blank" rel="noopener"><b>IBGE Cidades</b><small>População e PIB municipal · anos indicados</small>↗</a>
+            <a href="https://www.ibge.gov.br/cidades-e-estados/pr.html" target="_blank" rel="noopener"><b>IBGE Paraná</b><small>Renda domiciliar per capita estadual · 2025</small>↗</a>
+            <a href="https://sidra.ibge.gov.br/tabela/10295" target="_blank" rel="noopener"><b>Censo 2022 / SIDRA</b><small>Tabela de rendimento domiciliar per capita</small>↗</a>
+            <a href="https://www.folhadelondrina.com.br/economia/disparidade-de-riqueza-persiste-ate-entre-maiores-cidades-do-parana-3290647e.html" target="_blank" rel="noopener"><b>Compilação da renda municipal</b><small>Folha de Londrina · valores arredondados do Censo 2022</small>↗</a>
+            <a href="https://www.ibge.gov.br/estatisticas/economicas/comercio/9227-pesquisa-mensal-de-comercio.html" target="_blank" rel="noopener"><b>PMC / IBGE</b><small>Desempenho comercial · Brasil</small>↗</a>
           </div>
-          <p class="disclaimer">O painel não usa dados privados, não estima vendas de celulares com base apenas em população e não transforma manchetes em fatos verificados. Indicadores seguem o ano de referência da fonte, diferente da data em que o painel buscou os dados. RSS e APIs podem ficar temporariamente indisponíveis.</p>
+          <p class="fineprint">Atenção: os indicadores não usam necessariamente o mesmo ano ou cobertura geográfica. Variações setoriais não são faturamento de lojas locais; renda estadual não deve ser atribuída à cidade; nem PIB per capita deve ser interpretado como salário. Notícias mantêm suas fontes originais.</p>
         </section>
-        <footer>OBSERVATÓRIO · CENTRAL DE INTELIGÊNCIA <span>Feito com GitHub Pages + Python + fontes públicas</span></footer>
+        <footer>TECH-NIGMA · INTELIGÊNCIA DE MERCADO <span>Projeto de pesquisa com fontes públicas · GitHub Pages</span></footer>
       </div>
     </main>
   </div>
-  <script src="./app.js" defer></script>
 </body>
 </html>
