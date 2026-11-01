@@ -77,6 +77,8 @@ def ptax_alternative_url(code: str, today: datetime) -> str:
 def collect_currency(code: str, today: datetime) -> dict:
     try:
         rows = json.loads(get(ptax_url(code, today)).decode("utf-8-sig")).get("value", [])
+        if not rows:
+            raise ValueError(f"Sem registros no recurso principal para {code}")
     except Exception as primary_error:
         # Segundo recurso oficial: todos os boletins, filtrados por fechamento.
         try:
