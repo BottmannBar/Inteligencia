@@ -1,8 +1,20 @@
 {
-  "coletado_em": "2026-11-01T17:21:42.531581+00:00",
+  "coletado_em": "2026-11-01T17:24:52.672996+00:00",
   "populacao": {
-    "fonte": "IBGE / SIDRA",
-    "municipios": {}
+    "fonte": "IBGE Cidades e Estados — referência oficial 2026 (API indisponível)",
+    "url": "https://www.ibge.gov.br/cidades-e-estados/",
+    "municipios": {
+      "4106902": {
+        "nome": "Curitiba",
+        "ano": "2026",
+        "valor": 1832183
+      },
+      "4125506": {
+        "nome": "São José dos Pinhais",
+        "ano": "2026",
+        "valor": 353874
+      }
+    }
   },
   "noticias": [
     {
@@ -199,6 +211,6 @@
     }
   ],
   "erros": [
-    "IBGE indisponível (URLError)"
+    "API do IBGE indisponível (URLError); usando referência oficial de 2026"
   ]
 }
