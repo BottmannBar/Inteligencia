@@ -85,12 +85,26 @@ $('news-filter').addEventListener('change', updateNewsList);
 
 async function init() {
   try {
-    const scriptURL = document.querySelector('script[src$="app.js"]')?.src || document.baseURI;
-    const dataURL = new URL('./data/painel.json', scriptURL);
-    dataURL.searchParams.set('v', String(Date.now()));
-    const response = await fetch(dataURL.toString(), {cache:'no-store'});
-    if (!response.ok) throw new Error('HTTP ' + response.status);
-    const payload = await response.json();
+    // Lê primeiro o JSON do branch main, para ter dados atualizados mesmo antes
+    // de uma nova publicação do GitHub Pages. Sem chave nem credenciais.
+    let payload;
+    try {
+      const remoteURL = 'https://api.github.com/repos/BottmannBar/Inteligencia/contents/site/data/painel.json?ref=main';
+      const remote = await fetch(remoteURL, {cache:'no-store', headers:{Accept:'application/vnd.github+json'}});
+      if (!remote.ok) throw new Error('API GitHub HTTP ' + remote.status);
+      const file = await remote.json();
+      if (file.encoding !== 'base64' || !file.content) throw new Error('Formato de dados inválido');
+      const bytes = Uint8Array.from(atob(file.content.replace(/\\s/g, '')), letter => letter.charCodeAt(0));
+      payload = JSON.parse(new TextDecoder('utf-8').decode(bytes));
+    } catch (remoteError) {
+      // Fallback: usa o JSON publicado na mesma pasta do site.
+      const scriptURL = document.querySelector('script[src*="app.js"]')?.src || document.baseURI;
+      const dataURL = new URL('./data/painel.json', scriptURL);
+      dataURL.searchParams.set('v', String(Date.now()));
+      const response = await fetch(dataURL.toString(), {cache:'no-store'});
+      if (!response.ok) throw new Error('Arquivo local HTTP ' + response.status);
+      payload = await response.json();
+    }
     if (payload.coletado_em) {
       const date = new Date(payload.coletado_em);
       showText('updated-at', Number.isNaN(date.getTime()) ? payload.coletado_em : date.toLocaleString('pt-BR', {timeZone:'America/Sao_Paulo', dateStyle:'short',timeStyle:'short'}));
