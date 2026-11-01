@@ -1,0 +1,40 @@
+name: Atualizar dados de inteligencia
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-dados-inteligencia
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Consultar IBGE e noticias RSS
+        run: python scripts/atualizar_dados.py
+      - name: Gravar dados gerados no repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/painel.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualizar indicadores e noticias do painel"
+            git push
+          else
+            echo "Nenhuma alteracao nos dados."
+          fi
