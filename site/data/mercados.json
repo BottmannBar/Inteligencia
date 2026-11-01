@@ -1,25 +1,25 @@
 {
-  "coletado_em": "2026-11-01T18:00:20.365418+00:00",
+  "coletado_em": "2026-11-01T18:01:47.371157+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
       "venda": 5.4212,
       "data": "30/10/2026",
       "data_iso": "2026-10-30",
-      "variacao_pct": null,
-      "fonte": "Banco Central do Brasil · fechamento PTAX de 30/10/2026 (referência verificada)",
-      "url": "https://ptax.bcb.gov.br/ptax_internet/consultarTodasAsMoedas.do?method=consultaTodasMoedas",
-      "preservado": true
+      "variacao_pct": 0.871,
+      "fonte": "BCB / PTAX fechamento · venda",
+      "url": "https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios",
+      "preservado": false
     },
     "EUR": {
       "codigo": "EUR",
       "venda": 6.0522,
       "data": "30/10/2026",
       "data_iso": "2026-10-30",
-      "variacao_pct": null,
-      "fonte": "Banco Central do Brasil · fechamento PTAX de 30/10/2026 (referência verificada)",
-      "url": "https://ptax.bcb.gov.br/ptax_internet/consultarTodasAsMoedas.do?method=consultaTodasMoedas",
-      "preservado": true
+      "variacao_pct": 0.87,
+      "fonte": "BCB / PTAX fechamento · venda",
+      "url": "https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios",
+      "preservado": false
     },
     "CNY": {
       "codigo": "CNY",
@@ -114,6 +114,14 @@
       "data_iso": "2026-10-26T12:42:53+00:00"
     },
     {
+      "titulo": "Brasil começa a procurar dinheiro na China, o que muda para as empresas? - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPczJoZnpUWHNUQ1M4dWNnM09PT293Rnc3YlpleHNYRHhocEhfZ21xVVNZb3huVHdrRWEtRVJFaDhRODE4QTExVGRzVHJIVTA0OWhNU1FHY1ZrMl9CRjVsTUdQX2JSVVJfR2w0azVabHZOTmt0TGRvcWtqYjVsNXRVeTZnRjF5eDdFdVV4amtWalluQnVyTU1qZ1pLMVd4SlVuNXU2MTdtLXp3YnRJYlZEeVdYSUpCOXlKc2huanV5RlJ3X2hlUnVMOVozaG95YTVnWnhQYjZtZGRPQQ?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "CNN Brasil",
+      "data_publicacao": "23/10/2026",
+      "data_iso": "2026-10-23T07:00:00+00:00"
+    },
+    {
       "titulo": "Agenda de dividendos dos FIIs: confira os fundos que pagam nesta terceira semana de outubro - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV3E1Ry0xbm1ldzFkZGFWMzdCMm5WbkJ6ODJpWWR0NWVsTmJBOFZqSi1PV3ZRaWJUZ0xRLWNRSWFtZEpvNVBjTGJpdTZJNnNjNnJ2TERiMXF0RU05QUpZTzJueFd4U1FCb2hrVUJLTnlaLTIwaF9aT2VqODRGbG5uYVhBcXpwUXVSM3czMmxFNFduM1ZwS3ZwVVNPSHluYWgxZFdWZmxGOElkTFBRQXBkZEJQUS1KNW1uZ2RKbFk4Ym9rVjQ4d1VPT0stOTlVV0FQQXNQNVo4aG5fMTVhNDg1dzF6cjZZREVuRUw4Mi1XaWt4MTJDdUdSX0dNeXdpNTFUSWtmQWZzTUZrakJp?oc=5",
       "categoria": "FIIs",
@@ -122,28 +130,12 @@
       "data_iso": "2026-10-19T07:00:00+00:00"
     },
     {
-      "titulo": "Comprar hoje e pagar depois: entenda como funciona a operação a termo de FIIs pela B3 - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWx4Z3RDaUNhV3J0Nk13bjlGRFdPZGdCMU1lVjNYR1lDZDIzSlFBcGFjQ1JIV1hqWWdHSlFYRmtVUWRRTFMwdDBYUmpyR284TzdsWHY2US1FdHNVbl9OZHBHNFVuRXdyYlJDeHd2THJTMkZ6dFowNmlrcVZvU1lQRlpERFE2SHlUY1BWR3lnOEpKNWc5TFZpTDhfWWRtZXRYeFp6WE11X3N2ZzV2TjhzTExhTi1sZWJsT1haQjZ2aHJCQmR1ZVow0gHMAUFVX3lxTE0zQWg1Wl95UVBXYkhKTnUyUHloUzBmaEdyZFFtaUY2OWdtczRQaWxYRENiWVFfbU5rWVpPaGFKNVFWZ3hlSk9nRUxGNXh6UGNGdjdPeVg5YVU0ZlJtUjVLWGcxNklEZlZTN2NwWHVtZ0JEREpUM0hDMlRlbVB4YUl0eGUzcFdCTXQyS0x6WmkzaGNYZVc5ekEyNnNqYlpMUXJOdWstbEktSzJtcExCZDBRaGR0Ynd5aWwtMkRUV3doc1F4d2l5ZEdKTmV6ZQ?oc=5",
-      "categoria": "FIIs",
-      "fonte": "InfoMoney",
-      "data_publicacao": "30/09/2026",
-      "data_iso": "2026-09-30T07:00:00+00:00"
-    },
-    {
       "titulo": "“Novo Mercado” dos FIIs? B3 revela o que vem sendo feito para melhorar governança - InfoMoney",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmdwdkdWanFKRE1icC1KS3NwenFSYUN1anhuUmFLV1ZEY285eWdqMUlxM0F5cno2bElSUmlyV3VIMlRUSDFKUVJfVUZvT28xOUY5TVhob1RHelFnT28ycW1ZRmRfWVdVOHFTRHBtMjRweHdXTkg2WVQwbElWUDU5YXZsc1ZOY0tkZmEyNVE1Rm15X3hXWmk0dzRVSVZtdFVXbUl0clhLUm9xRTY1UjZuQzFhQWZfRHE0VWJ6UHJ4Z9IBxAFBVV95cUxQTlRveE5SZEM3aGxwZnZkNWpLNnlKOV8tTU9DYnBRM1lPRkhTWWFQMGUtV0F1YVhpSzRfQWY0dXJMM1FOS3BoZGh5LWM3VjJoaGpVTmcxWFZUZFFhSEY0a1U0ZEFFekRXUUtUakM2aXozN1l2eTdINXRoVHFWNF91Q2NPREN5LU9kMU9NUmtzRE5pcHdKZ0piUzlneERGdDM2MGh6SEZjUTlQV2lxdUwtRXRaSldxSnRTOGp1aC1aLUJVbW5O?oc=5",
       "categoria": "FIIs",
       "fonte": "InfoMoney",
       "data_publicacao": "25/09/2026",
       "data_iso": "2026-09-25T07:00:00+00:00"
-    },
-    {
-      "titulo": "FIIs: TRXF11 e GGRC11 lideram liquidez em agosto na B3 - Suno - Investimentos Inteligentes",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb21NdEdBcEY1MU5hRjBBNkVQd2dkY1ZiWEF1MnZ4VGwzcmpZbUM4bC1Kb29ZRENfcXNjNk1HalBqZEtUTDIxLWlvRVZmYTJKN2hhanhzRXlNYUpOREE3Q1JwY1pzVFNFNlR0enFqTllESHhqdFZkSEptQlNsQVhfeWJFa0NIQUpfMWgzQjRzazPSAZYBQVVfeXFMUDBaS1Z0OUd1cXJ5NmJSbm8xY01ZdVAwT0hTdFFjY25yWGJhRm1nRmMwaHhudUdpd09qZnJJTk91VWRYU19kTzItaGxhc21wcUdzU0cxMWVnN1pQTkhLVi1mVmxHZ1ZHQXBWQURITFE0eEhtUmtsME9PVGZyYVMzLWxDYTNOdEpiSEZ1Z1poWk1UM2JZekpR?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Suno - Investimentos Inteligentes",
-      "data_publicacao": "18/09/2026",
-      "data_iso": "2026-09-18T07:00:00+00:00"
     },
     {
       "titulo": "Commodities caem em bloco nesta 5ª; petróleo desaba e pressão chega a grãos, café, açúcar e algodão - Notícias Agrícolas",
@@ -160,22 +152,6 @@
       "fonte": "Valor Investe",
       "data_publicacao": "09/09/2026",
       "data_iso": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "titulo": "B3 inclui 99 Fundos Imobiliários no Mercado a Termo - Clube FII News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUtPNVFDODQzVU1VVFZOWFlFYXRtM3lmUzg2cE4yMzJfQXNTRDhQZ0pMb0loeXE1N3RabWhkN09tY2NfY0Y4d05KdDItWk5xWEI2X0kyeXRNNUdlZG43MDhSV0Y0VGZXdmRtQjAyRVkxYkdnYmxsRXR3d01nM2FKdGs2dHV0d2w2MW9OTEk5SjlEREdRcVE?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Clube FII News",
-      "data_publicacao": "21/08/2026",
-      "data_iso": "2026-08-21T07:00:00+00:00"
-    },
-    {
-      "titulo": "FIIs chegam a 3,3 milhões de investidores em julho, alta de 14% em nove meses, diz B3 - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTdzSGVhN3NNU3czU21MM1l4OVd5ZFM2ckdqTkVKbEdUSTFoWVBNcWlQUk5vTm1VYkRGMlVPMnp6LWxlYVN4Slh0UmYtOHdySUJlQjhMRzM1MXhKWldpOTVrSEVQUUg0ajgxd3pGMExJSEN1OENENm5BdkdTQThRME82bmx1eGs0T0gyNG5OQVJ5RUd1aDNKLXAwN1JqSTF6eExwZ0NJZlM5NjZoOC1MNm53MHFyZFFJbUMwR2RLZFpHaFXSAcgBQVVfeXFMTkpfRmdVRHdKbVUzaWJTUDZwOHZMY19hX2FQREVHU2tvc0U0TUlLeXlhbjZyU3FfMTJwYmZXaDRRTC1sVTJKSWljVlVEWHZhdDlXbVMyOGxhN0dFVHpjTkVXOTgzZ0tNN2k3Mm9FbF9YbUZzalJrWDRfTW5wVFFmUElzZENaendDUzNrU1p1ZkM1VE1rN2NRVW9XcDVYR2E1d3pLb05yRXBfT1Y0X2lRaGJiZjBESDhyN2tXOFhpMlo3bVI3bTBnT1U?oc=5",
-      "categoria": "FIIs",
-      "fonte": "InfoMoney",
-      "data_publicacao": "19/08/2026",
-      "data_iso": "2026-08-19T07:00:00+00:00"
     },
     {
       "titulo": "Quais são as commodities mais negociadas no Brasil e como operá-las - Acontecendo Aqui",
@@ -202,20 +178,20 @@
       "data_iso": "2026-07-22T19:14:39+00:00"
     },
     {
-      "titulo": "FIIs ganham 41 mil novos investidores em junho e chegam a 3,25 milhões na B3 - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNanJXMnRjcmJxTV80QjNjTVFydFJiNWRoeDhLd2wwcUYzbVdtaHZGcW5QYXZwaHc2a3I3S1UzY3RzOTFMcVkyUjZ3MFVfQ0FvUnJkWk16WmN5aHdxTWVZc3o0RWlzUzR5MHVod3ZmVGh5d3BNb181djFRNlBsNVBzbThTc2hySjlQaFNoeG05T1pMTVdCN3IwMWpTMWJ2TW5YY3NBY3d6cDVKWHRqaFNwYlhJajZ0aXFnYzBV0gHAAUFVX3lxTFBEMHBzV0lZN1F4X09HXzFPMlFTc3lVZlA0N0NFQUQwM3RMSXh6dHdmSm5hc2MtNm9jaVN2cHpQV1NrVGhHSFFVWWN0NHVtNlFyakJmX25kUUZ6Q0o5WUF6SnBCTGZFTjRFTWxNaGRDeVc2c1c0RmR2b3BoWWtacjBJQlFFbDlITy1WbnNlOUtELWxWWVZxdXpQY1pwaXI2TEhHODBhUjZlZkdZcW1XUDJNbmYtZjkzOXA2WFlpNkhNNQ?oc=5",
-      "categoria": "FIIs",
-      "fonte": "InfoMoney",
-      "data_publicacao": "20/07/2026",
-      "data_iso": "2026-07-20T07:00:00+00:00"
-    },
-    {
       "titulo": "Quais são as commodities mais negociadas do mundo? - EBC Financial Group",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTNlVVdzYnI1VTZORldHSTZUN0JWMDNySThlSERVRGFDQUxYbWk0TjU4T1BiNmhUalpZVW53NTNJNFJGbkF0ckpkNnhvdzhKQmhuejAtTjAxcW45WjBBaDBaaTFLYThuUG1rdDFJek1mNzZlOS1yN0Q3Q0NEWDNncklDX3I?oc=5",
       "categoria": "Commodities",
       "fonte": "EBC Financial Group",
       "data_publicacao": "10/07/2026",
       "data_iso": "2026-07-10T07:00:00+00:00"
+    },
+    {
+      "titulo": "Confira quais FIIs pagam dividendos entre 6 e 10 de julho - Bora Investir B3",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOazcwSTFPT3lzZS1IV1Nla1lReGM5a2pUZ2NGSG50OFZybU02V2t1Wmh5MEMtaGY2aGlYUEkwdTg0MU85TThQdkp6VXJVbDJLbWZrUVFlV1ZWVFRpMDRtY25xemVaN1Q1QTRvZmRxeUkzcTV6ZndjUFBIdC1zczM1ZXRJSl9Za0hJSnRqaEFpaHc4ZHpnd2g3MWJfeDRTUDBWSV9yZldqZDY2S0JtYS1US0NVWnRNbzZNeDd2RUhnNXZJN2xydnN4V2RnR0VieGdMNkU3NElpeG55WHhUdkxzSQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir B3",
+      "data_publicacao": "06/07/2026",
+      "data_iso": "2026-07-06T07:00:00+00:00"
     },
     {
       "titulo": "As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir",
@@ -250,20 +226,12 @@
       "data_iso": "2026-04-28T07:00:00+00:00"
     },
     {
-      "titulo": "Investidores em FIIs chegam a 3,07 milhões e renovam recorde na B3 - Fiis",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUsyaVRBUzFtdVpFZmdoNzJiODJOMkp3Q1B5dldQOTM0LXlpR1U3ZzRaeDd6ekVBWWN6djNWVzZsbWVUNWcxem5zRklMM3FISl9LMklZbFQ4anc2NExOOWZoTG1ZOEROOFByaWswQ3g3SXZIYkFmYk5fY1ZTVnJNM2dFUW1KSll0MjdqbndER2FjUkx4RVlobktIZw?oc=5",
+      "titulo": "O ciclo de cortes na Selic começou. Como ficam seus FIIs? - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0RxaXJUdko3WUI3VlJ3NXhjNGxpZXlsRTFmbUs4a0ZpM0RTdWRvZnRBY2gwNkNnZk5GaFNaVDVReHJFcFdkMjd2SWxJM3NWcUhRa0MtRWY3SnozYnNuSy1lMEFGRzZwYlJWVFdXM3VqLW43TmdPTi0zNnNiNjBaYzctOFNTOC1MUzBLUGdKdFdGcUJTbnd2ZTRrVVNOMmFzZi15QUtEdHFjTXViNDlvS19jdlB5d3NHOVpKOTBPM0JRcEVQWVphUlpMNHBGWVZyRVAxNU1mOHFKeDBzcnc?oc=5",
       "categoria": "FIIs",
-      "fonte": "Fiis",
-      "data_publicacao": "16/03/2026",
-      "data_iso": "2026-03-16T07:00:00+00:00"
-    },
-    {
-      "titulo": "FIIs superam 3,07 milhões de investidores na B3 em 2026 - Suno - Investimentos Inteligentes",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1VBTk9lRm1MOFdLd2tTR2tBMzBrSlVlMlBQLTVOaHNPTngyaFVzTHVtZTVsLXM1dlNVeUZyRlFCeVdTSUc1VkI1U0JOV3ZLeGE5U2xMOGlpRTBHVDVZY3JkRXNQel9TLWlpblJobE1lNlBTc1I5bmVmQlRVMHlFbmRBa9IB3AFBVV95cUxNcnhzZjVVY3RjMHBYdVVoT3FzenBXZEM5VjloS0FWNHdwVjJFWkdjaGdQeWx3Nm1SUlYzRjdzeDdvbDY1ZElXVlUtWl9MWWkxZkxxLWJpeExFQ3ZPazZVZzZnWHdLOUlCaGdlRUxkX2pWUWhyS1hxNUJpYVljLUE5U1lUZW56TmloVEpPSGpUTXJPX2RpZThDNS1tR2VESF9ERkJOektIVEkzY3hIOTJXanloOEM0ZTBVWXBzN2tkT095eFZSUHp0czlqQVo4b0czZEY2cG5pUi1ZNGJ6?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Suno - Investimentos Inteligentes",
-      "data_publicacao": "16/03/2026",
-      "data_iso": "2026-03-16T07:00:00+00:00"
+      "fonte": "Bora Investir",
+      "data_publicacao": "24/03/2026",
+      "data_iso": "2026-03-24T07:00:00+00:00"
     },
     {
       "titulo": "Melhor Plataforma para Negociação de Commodities no Brasil em 2026: Top 7 Corretoras para Começar - Mitrade",
@@ -298,12 +266,20 @@
       "data_iso": "2026-03-03T08:00:00+00:00"
     },
     {
-      "titulo": "FIIs Atingem R$ 200 Bi e B3 Prepara Nova Fase com Derivativos - Forbes Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0JKNjJhNmlpT0czalZZZ3JXRThTWmJuekRMXzJwZHllNzUyTk5lMEk0SFdsaW5qcGVzdndqMzdhaTdwbDRtTy1ZbGNoOU1WWTlleFJ2LW1VZjMyblcxUngtdU00ZDh5RVJWV0VDdWQtNnpwWXJOc2VxUDNJSlg3dVo1UzNfMGo1bGUwaWRvV1p0aGtWWGdFVzlQREVtODVTdjJTNS1MdWNFdElicmRaV2lOYmhGNExSWXdIRzRKeE0?oc=5",
+      "titulo": "FIIs de papel dominam lista dos que mais se valorizaram em 2026 até agora. Veja os top 10 retornos - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPMGJFN0NhdDB4LXd1b1Z5ODF1TFFtcDVXbE5UTFhBN25HclllZW9YYW55bFJkMmxvcEI5MWZKeXBsazIwVG5zT05oSmxaTklycXVub09JcWtRdEl0dDVCaFd2TnN3UkxDLS02VndvSUdrdWVZRnRuV0NuN3l2WXV4UGJHd09aMU1VVzdVV0sycmN3VEQ2czRjZEJkZUNPaW04VWVsVzBoRHNaakVDZk91Y2lOMlJHaUNyLWx3LXhiTUNlSktKeWtMd0Fma1pwV2s0SEJfRnlpTTBwbmRSVmkyejZqZVEyQnVuU3ZBMVRpUC1mRk4zTDJTXzJfRlM2SlN1b3cxamc2dnI0bExEWkp4U1pxZHdkUQ?oc=5",
       "categoria": "FIIs",
-      "fonte": "Forbes Brasil",
-      "data_publicacao": "24/02/2026",
-      "data_iso": "2026-02-24T08:00:00+00:00"
+      "fonte": "Bora Investir",
+      "data_publicacao": "23/02/2026",
+      "data_iso": "2026-02-23T08:00:00+00:00"
+    },
+    {
+      "titulo": "Fundos imobiliários (FIIs) atingem recorde triplo em janeiro: investidores, custódia e ADTV - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOelZ1TWVGQmRZbkxSbGk3eEU2NVc0RFVuRG5xaVVMalRUNXNCeGRGX1o5ZGJHa3V5dHNGU2FVUkZsM19DQkpRSmxpUEg5RUZEYTA4dXRyZHZFd0hESlM3Z25xRThBaGJKQi1NSjU2M3BlYlJZc2VrWmZmZHItaGFYZ0N0OU84a0dsak9wVml1NUJFdlg1QUwtaGlxNXRXQUt3M1pIellNcHJZUnB2b3A4ZTNsd3lOLVY1a00tNGJVZVJWbWowYmgyRE5CV2dYT3k4aklDLWlWcGhaMU83dy1SX0tzQWtkR01Fa092eUxXbnpqVjI4cTJkVnBxT2VkUGg0aWxzN21NQjk?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "12/02/2026",
+      "data_iso": "2026-02-12T08:00:00+00:00"
     },
     {
       "titulo": "Mercado de fundos imobiliários (FIIs) atinge marca de 2,96 milhões de investidores em 2025 - Bora Investir",
@@ -314,12 +290,52 @@
       "data_iso": "2026-01-21T08:00:00+00:00"
     },
     {
-      "titulo": "Por que o yuan cresce, mas está longe de desbancar o dólar - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU9RcG04X0hkOHowZFpkZkptc25rajFqOWZKdFNNYURLUFljRGJQTGRSWHZWeHhoZFh1YXQxT2hwa0gteUlhSmZDeGZYTS1VZjhCc1k1MG1KR2daUElzYWtENlZ5aWFJc3NjOGI3TTFjMHduQzNwd3BTc1RLbUFDMHpqZGRuekswbDNOOHE5RzZkUExIV1AwNHRCdGFnTGRGZGEydTF3c0JWa0E3MnfSAa4BQVVfeXFMTVdaZi1vS1l4ZDB1NTJKdktIWHZPdGtudEM4MFJnNFFPelFJY043TGRGU3NJUEJpcmhtS2VoUTJPWlkyMWZGUEtpeWstOU1lT2tmVDFHY04teW85c0psdVlma2VpdGxrb3diWFlQSFFxSE9vbGxMWU1ha1ZXbWxwYUtFWlY0b3BvYllIeWpVSmRpRFhRMmI3OWZSeHFCR1h6SThOUlhIX2lOeXMwTUd3?oc=5",
+      "titulo": "B3 divulga ranking de fundos imobiliários mais negociados em 2025 - Fiis",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1p2bEJoaXYxTDF6TVR2SUZnQk5HdDNrQmtESlNRN0w4TWF6YTVSbDN3dThWUnB6bUJON3JnekFPZFJMdGFCMGJ1MWZuZU9vdWxYTi1iRkh1bzl6OTY0bnA2MWpSanVJSjVIMk9Qc0RnVnJZUTAxajdvYW1jdDlOendtZ3RJeHpHNHRETHJ1TmdVdm1Uek4zSXlncw?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Fiis",
+      "data_publicacao": "20/01/2026",
+      "data_iso": "2026-01-20T08:00:00+00:00"
+    },
+    {
+      "titulo": "Conheça os 3 fatores que devem impulsionar os FIIs em 2026 - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzUwUE5WZzZzTlNJVzUzMG5hYWpzNkt6ck5FVFc4RUw5SDRQeVFtbWVOR1Vqc3BuR0V3LUpCZXJJdjM3VE0zMkhBdFVjcjBHa2ZZOWR5YmVzbzc3cDRHYmdDYmRqMGdYYmpBRkVicUZBNVU1elVwV2VNeFV6c05YbmJmMWUySHZpczU3QkJmbFZ1N1pJRXRDaGxOS3h0OXd3UzRvdDdLbUl3Tjk0eGVIV2Vuc28xUGdMVFFCVlpWQUctMVRweTdhNVJ2YWYzWmVGVEpod0RLcTdibG1RcEFSTFV3?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "15/01/2026",
+      "data_iso": "2026-01-15T08:00:00+00:00"
+    },
+    {
+      "titulo": "Agenda de dividendos de FIIs: saiba os fundos que pagam na semana de 12 de janeiro - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2stOXFnVkFtQmNEal9MamkycDFueTYxSGFHcDdBU1VBZXlmeUhrcElWa09fZEZTWFJVamF2TzY0OWIyTVNaQ2UwdUJBSHFFTlkzTHZmdjFHOVFFdmF6eC14Ujk1WlJsLU8xY1JZaDhMM1RMazlkMi1Bemdia1ZDX18xNmZ6QkJrVkJsNnk0SWlCX2pBaGltUmNPMHZ3M0x5d1ExVEdhN1RScFgtb1E1ZjY2TkZQYVJUdHFUaWtZTQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "12/01/2026",
+      "data_iso": "2026-01-12T08:00:00+00:00"
+    },
+    {
+      "titulo": "Quando o yuan barato fica caro para o mundo – Por Maria Luiza Falcão - Revista Fórum",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzY5di10RXRuUlFTdzN0SDVpQkxXelhuV1Zsc3YxS1lWNjRjRDAwRmJoSnRQN2NMLUNKMWd1SHd1dkhjaUdub1JNSjJTVjVfNGVEZVRSeXhwbW5RM0lpVzBKZWxMWFFVWU9JM0RjbTJBMFNyRFhxRFpwUzZkTUhRYTJuMlRrNjlvZ1JISDlORUh1SzVEMENZTnpkOHBNV3RId3dHUkFR?oc=5",
       "categoria": "Câmbio",
-      "fonte": "DW.com",
-      "data_publicacao": "08/11/2025",
-      "data_iso": "2025-11-08T08:00:00+00:00"
+      "fonte": "Revista Fórum",
+      "data_publicacao": "09/12/2025",
+      "data_iso": "2025-12-09T08:00:00+00:00"
+    },
+    {
+      "titulo": "As perspectivas para o mercado de Fundos Imobiliários (FIIs) no Brasil - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT05CcDUtSGphRmdXVGxycFpPVmwyXzNwUmhuX0R6WUowMEJjaGpWaV84MTJsQzRUcXVuSUJXY3B4WE1Wa3hicGVzbk9VYXNMRFpQUmlBbEY1WVRUNW9QZmdsMDhDLWduMjBrTXBOZHZjYUpkaGI3aGFqaEFWVVJBWWFpS3huU1dDOUhoWFVXbDdqSWp1NjNrNlNVX3JfWVRyS3hXZS1VNkQwTXJNV2p5WXUyY1BQdFFvUUZKZXZCWnVDaklMQVBhbVJKQ2VKSk9OMnAxdUUzVEJwaVJzSHFOakNBbEtyNnVBMmkxeDlyTQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "25/07/2025",
+      "data_iso": "2025-07-25T07:00:00+00:00"
+    },
+    {
+      "titulo": "Moeda da China já é a 4ª mais usada no mundo: veja o que isso tem a ver com ideias de Lula para o Brics - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc0ZrMFFUTXJHM3ItdzV4QjUxLVFQZnF2S2tJVzgxa3oyeThlRTMyQjhVV19rZ05sSFQ4WXl6dFdSam5MLUpsQzk3c0ZvNmg5aTVfeHhMajQxUk1Ea0FINkhnNVFBcEhjTWlBUWM4aDVtOV9RWnBCV2RJZFpQZHFpMDhqcjFZZEltNk1MNE5qaU1BN19uZk4xOGItT2lLVWtab2xISndRZWNneGtJVndwMXczTjE1a01fSXdCN3NCQVkzeFdocEZHREVoT01VMzhjeUVKRkdrZWFyaXc1Z05rQU5ib2VMSlF3SWJ4MHd4b1ZCaG_SAYICQVVfeXFMT1JNUXBQYUxtazZZMlBJYXlHRHdaeGozc1BzdmNsRkJ6VTF4eVBlNFFzUjJRX2tEUkJvVmRIc1J4UXItOS1NTVFxa0ZDdTRmVDNTSnBqWWlzMlE1Wkg4endUUFhURHAzcFhYR053RUFPeFl2d3R1QXRqTXJLRk5UQWxDTW90cFdMS3B5NEVBV3lwTDhaVUJPMklzcWROeE0wMHBqYmhvZzc3Smxzdk03TXJaTnlwcTVROU5rWGZHMUtmSHdDWWI3amJzYTUyczlSWWZ4ZzdSRHVFSEVINDBrWTEwY3VJY1REOVh2ZDh0MjZKTExCOXJvVDJ0SXpNR0ZHNm53?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "O GLOBO",
+      "data_publicacao": "13/05/2025",
+      "data_iso": "2025-05-13T07:00:00+00:00"
     },
     {
       "titulo": "Dólar enfraquece frente às principais moedas em 2025 - Poder360",
@@ -346,6 +362,14 @@
       "data_iso": "2024-06-04T07:00:00+00:00"
     },
     {
+      "titulo": "Dólar: por que alguns países acusam moeda de ser uma arma dos EUA - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51Y1E5WE9oSnliTzJTYkQ2aHZzWHZKZHdxMVRIMjUwS1FDTmg0RlZfUFZjc0NoN2VBMjk0Y0phazAxcW9xcGl4b1ZoYXdfY1MwVXFfMUtwcUJ4elRlYi1sS0t30gFnQVVfeXFMT01tSTRCaDByT0hBdVB6d2Uxd3hURU5VTmF6Rl9aOFBTMDc2TFFiSDNIWkNMSnU0b0RPSHphZjFnLWJmUS1sX1lZNk9ZbjJZV0I3MlJXVEVqOUliQVJkR0pKNUxtWDRXWQ?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "BBC",
+      "data_publicacao": "13/10/2023",
+      "data_iso": "2023-10-13T07:00:00+00:00"
+    },
+    {
       "titulo": "Comércio Brasil-China faz primeira transação em moedas nacionais, sem o dólar - Gazeta do Povo",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc05ZbUJHbVQ0NmJ1MnRNbW1SYTFjSkl4UWZnN3A1TGduOFFCdGRfX01UY3R2ZmFraW1RQkQ2ZHIzM19SanN2UXhYcFRGbVFqWnk1UWZHZVUwTWd0bUdKMGhEOW94N3JpVnpwQmFTREREajNuWW53Zm5lNDFWVlczaHhsNGJQZzJYcUdORVl4NUVES1dNWGs4Ulk5YlJWTndSZVJySUxLVl9QWktJcFhVTFRLQjRPbFhrMFE?oc=5",
       "categoria": "Câmbio",
@@ -354,12 +378,12 @@
       "data_iso": "2023-10-03T07:00:00+00:00"
     },
     {
-      "titulo": "Dólar? Euro? Libra? Yuan? Saiba como escolher a melhor moeda para formar uma reserva internacional - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWZvdGhrR2VtX1dHODVodmRsa0haVGZqRHFpWjJac2VFdVV4aDhSX0RHUC1UMThocmhDNTZuSkNZSmRXY05xWDFuYzM5TnhHUW1vVzNoOWZIZnQxTU9QU29ZT3JES0Jfalo2UXJnZEpBd1JiRVl2NkRmZ3I2cTlPN0hmb3R5QWVHZEdGMWFXbFZycWt2WU5lZ1FQTl9NeE9ZeXg3OUhhX1F5SHV5YldnNmphUTFyNDFyMjR3MEdCRjJmaFVxbFVzM09tdktUUWRDMldrZdIB2gFBVV95cUxPOE56eFIybUZpcGswOHZsSUtMN09LSkZrMlN4clFHaVpJOWJlUnFWTm9ZVzhfUGVGay0tTDU3SlMwWlpoTTlkUy1aQ0ptWjlkSVJnckEyNHVjOEpLb1dZR1JMU0tDMm5PLWhkbmpySllqdEdvT29QeWpVWmxFTjdyMXNjSGpmYW94cVhvU01nbEMxRTRzc185TkxiRHdidmhkX3FYYjhvQTg5Q210VE9ibDNUWnpXOEFMdV9pOFAwUGxlVHhJMXJld1l0RG9VTUlHcV9TX29vb3ZJZw?oc=5",
+      "titulo": "Como China está expandindo influência do yuan na América Latina em meio a disputa global com EUA - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WV0lWUzkxSnNZenhqVGl6WmdmZDMtNW04bVlkZ09nNWp2elZ6dG43YzBPdnRUTDlTN2FYWHBpQWtQb2ttV19vLWhPQ3NxMkxtMzdCQmFydWJQUmw5eDh5YkJR0gFnQVVfeXFMUEdOZl9sQmdJZTVZc1VLaDRCVFJrV3VtbTdVdlNwT1ZGb1pKY2FYdF9tb2tzYWQtejZhV1dwSlZteV9hdWVFUnVrVl90dnQ4ZmtIbUszVTVVRkdFSVJqRGNtS3pNNWwySQ?oc=5",
       "categoria": "Câmbio",
-      "fonte": "InfoMoney",
-      "data_publicacao": "07/06/2023",
-      "data_iso": "2023-06-07T07:00:00+00:00"
+      "fonte": "BBC",
+      "data_publicacao": "28/05/2023",
+      "data_iso": "2023-05-28T07:00:00+00:00"
     },
     {
       "titulo": "Operações comerciais entre Brasil e China sem uso de dólar devem ter início em julho - CNN Brasil",
@@ -370,31 +394,31 @@
       "data_iso": "2023-04-03T07:00:00+00:00"
     },
     {
+      "titulo": "Brasil e China avançam em acordo para comércio sem uso do dólar - InvestNews",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWVkRzd1bmg2NTZhSk8tV3VDUXVPcURuWWdPTDgyU195TE9nMTU1T0hPOFZtVkVBU001TTVNT2poZTcxdllvcUR3QzFmQ3pobDMxV0h1cDg1bmNpcHljci1RVTBySENYREcxNlJHYndNY1o1bkM5d0dqVDRzNFB6d1VwWHItSWpoWjRaSjEzdFFINS1Pbm9sRklQOVh4X3pQ0gGmAUFVX3lxTFAtMmFPeVhGazh5MGxKOFFVc2p3YjlfM1ZUT09jQXoxTHhXd3R6WmRXZGh4cTN4dV9MSXN1VUVGdDNUeHJ4NlZITWU1S0MtZGRoVDJwWUwya2lSNnpEN2RKSThSZm12NmdVLXdiNzEyaXI4TlhjaG9wbVAwN0lrVDU4R3ZHYVVPeFpOSnhMQTEycDhFY29tdHhyWjlkSFBCZVoxbm9ZMEE?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "InvestNews",
+      "data_publicacao": "30/03/2023",
+      "data_iso": "2023-03-30T07:00:00+00:00"
+    },
+    {
+      "titulo": "China desafia Trump, afunda o yuan e desencadeia o medo de guerra cambial - El País Brasil",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjRnem5MX2ZRNk03eVNPcjBCWE8zTnRqdHZkU3NXcHlEdFliemlzb3BWb3pUZEkyZkR1aUFONC1mQVFpRXdjTlBSSnRhSmNVcVVXUVhSMDdrOWRvemNKVHZ3b2oxVjFhbkZWalM4YzZycW9hTEpWX2dMUk9LbVlHatIBlAFBVV95cUxQRXVodUY3NVQyclhOQmNsQVNOaHplMjlUaG9tcFlPOW9PeW1JVTdmMThaUTVDMmYyR3hhM3FqazRRV0pTTWJ2cXZ1T2hfSEs3Q3Nlem5EQXpQMUFVWmc1VlZkOW93YWczdV9YYTVialhvTFZpTl92UURPeF91WXM1OWlfZnpjMWxCWGdtYzQwYnJmN2pp?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "El País Brasil",
+      "data_publicacao": "05/08/2019",
+      "data_iso": "2019-08-05T07:00:00+00:00"
+    },
+    {
       "titulo": "Cotações: Câmbio, conversor de moedas, bolsas e índices - UOL Economia",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BU2JRak84Nm5Gak5neXNzRU93cHVBMVVGMk9TMHNXMW40U3BYV21OYWtHX2RIcDMxYmhhV29iMzF4UzNoNnBNWHAyUVdCUQ?oc=5",
       "categoria": "Câmbio",
       "fonte": "UOL Economia",
       "data_publicacao": "30/08/2016",
       "data_iso": "2016-08-30T23:42:51+00:00"
-    },
-    {
-      "titulo": "Yuan: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6WU9vQ2JTa202WGVZMTVtQjdKMW9xVjh5cUZwZzBHSDRjeU5XRGZhYUphb29YQ045cER2bGtMb29mYVdWMlNVNEQwdTlHN3Vpa0F6eEhnN0dkVDFaQUhqY19mdEdKZw?oc=5",
-      "categoria": "Câmbio",
-      "fonte": "UOL Economia",
-      "data_publicacao": "24/08/2016",
-      "data_iso": "2016-08-24T11:03:29+00:00"
-    },
-    {
-      "titulo": "Por que a China desvaloriza sua moeda? Há duas grandes razões - O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDZuX05lS01iUUlwYUpPSlQ0SnZsbGh6d1NLVG9MM0pqeU5QVHBtLWpaUjM0MTduUzZlN0FDSjNtSDBuaml0OXVoMDFEby1DQi1jUFExNDhmaGFLZEw3c3lGd3BPSVBlRGNoMFktazlmVHVCNTNkd3dDVUdWcGxXV3RZYmxQSHgtV3RETVF1MHY5aXF6SnRBelZwdWQ4RDZzZ3phRGtHZGVocnZmelNR0gG-AUFVX3lxTE9OX2VRTVdfWGsyZ0dPSkpPT2xRckNOQV8yb0RiWkJEZnZNUy1qSTVfR0xuaURtOWx0MXd4LVlFcENzOG93SDgtdjYtYV91NzhvVGRRWjFsSUlMYkc4dTl2Z1l5N1p5R1BNSVRuTnJNZXJFal9BTG4yaWhldnBORHg1Qy0wbW1Jd3dKX3hwUjZaV2NwZi0zcWhJTUxVcUlTcmdsUEtsTklZQjhuOGctNWRSQ3NndE5INXVaWTZqRHc?oc=5",
-      "categoria": "Câmbio",
-      "fonte": "O GLOBO",
-      "data_publicacao": "13/08/2015",
-      "data_iso": "2015-08-13T07:00:00+00:00"
     }
   ],
   "avisos": [
-    "API PTAX indisponível na última coleta; exibindo fechamento oficial verificado de 30/10/2026 até próxima consulta bem-sucedida"
+    "PTAX CNY indisponível (ValueError)"
   ]
 }
