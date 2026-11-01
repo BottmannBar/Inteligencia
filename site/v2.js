@@ -63,7 +63,21 @@ async function loadCities(uf,preferred=''){
   setNote(list.length+' municípios encontrados na fonte oficial IBGE.');
  }catch(e){
   if(t!==citiesLoading)return;
-  setNote(options.length?'Conexão com a lista completa indisponível; exibindo municípios de referência.':'Não foi possível consultar os municípios desta UF. Tente novamente.');
+  // Catálogo público de municípios com códigos IBGE (fonte secundária, usada só na lista).
+  // Indicadores econômicos continuam dependendo de fontes estatísticas identificadas.
+  try{
+    const mirror=await fetch('https://raw.githubusercontent.com/kelvins/municipios-brasileiros/main/json/municipios.json',{signal:AbortSignal.timeout(7500)});
+    if(!mirror.ok)throw Error('Catálogo '+mirror.status);
+    const values=await mirror.json();
+    if(t!==citiesLoading)return;
+    const list=values.filter(x=>Number(x.codigo_uf)===UFCODES[uf]).map(x=>({id:String(x.codigo_ibge),nome:x.nome})).sort((a,b)=>a.nome.localeCompare(b.nome,'pt-BR'));
+    if(!list.length)throw Error('UF não encontrada');
+    populateCities(list,previous);
+    setNote(list.length+' municípios no catálogo de contingência (códigos IBGE). Indicadores são consultados separadamente.');
+  }catch{
+    if(t!==citiesLoading)return;
+    setNote(options.length?'APIs de localidades indisponíveis; mostrando cidades de referência.':'Não foi possível consultar os municípios desta UF.');
+  }
  }
 }
 function populateCities(options,preferred){
