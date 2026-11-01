@@ -22,6 +22,12 @@ FEEDS = [
 ]
 GOOGLE_NEWS_FEED = 'https://news.google.com/rss/search?'
 MUNICIPALITIES = {'4106902': 'Curitiba', '4125506': 'São José dos Pinhais'}
+# Referência verificada no IBGE Cidades e Estados em 01/11/2026.
+# Usada somente se a consulta automática ao SIDRA falhar.
+POPULATION_REFERENCE_2026 = {
+    '4106902': {'nome': 'Curitiba', 'ano': '2026', 'valor': 1832183},
+    '4125506': {'nome': 'São José dos Pinhais', 'ano': '2026', 'valor': 353874},
+}
 USER_AGENT = 'ObservatorioPublico/1.0 (painel de investigacao; dados publicos)'
 
 
@@ -98,8 +104,13 @@ def build() -> dict:
         payload['populacao'] = extract_population(download(AGGREGATE_URL))
         print('IBGE: população carregada')
     except Exception as exc:
-        payload['erros'].append(f'IBGE indisponível ({type(exc).__name__})')
-        print('IBGE:', repr(exc))
+        payload['populacao'] = {
+            'fonte': 'IBGE Cidades e Estados — referência oficial 2026 (API indisponível)',
+            'url': 'https://www.ibge.gov.br/cidades-e-estados/',
+            'municipios': {code: dict(record) for code, record in POPULATION_REFERENCE_2026.items()},
+        }
+        payload['erros'].append(f'API do IBGE indisponível ({type(exc).__name__}); usando referência oficial de 2026')
+        print('IBGE (referência oficial 2026):', repr(exc))
 
     all_news = []
     for category, query in FEEDS:
