@@ -196,7 +196,7 @@ async function loadSnapshot(){
  // O conteúdo é público: leitura da branch principal para refletir a coleta mais recente.
  const urls=[
   'https://raw.githubusercontent.com/BottmannBar/Inteligencia/main/site/data/painel.json',
-  './site/data/painel.json'
+  location.pathname.includes('/site/') ? './data/painel.json' : './site/data/painel.json'
  ];
  for(const url of urls){try{
    const response=await fetch(url+(url.includes('?')?'&':'?')+'v='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(9000)});
