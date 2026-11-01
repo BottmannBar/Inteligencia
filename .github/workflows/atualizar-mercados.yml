@@ -1,0 +1,54 @@
+name: Atualizar mercados financeiros
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/atualizar-mercados.yml'
+      - 'scripts/atualizar_mercados.py'
+  schedule:
+    - cron: '15 10,16,22 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-nigma-financeiro
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Consultar Banco Central e RSS
+        run: python scripts/atualizar_mercados.py
+      - name: Publicar cotacoes e noticias
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data/mercados.json
+          if git diff --cached --quiet; then
+            echo "Sem alteracoes."
+            exit 0
+          fi
+          git commit -m "Atualizar PTAX e noticias financeiras"
+          for tentativa in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              echo "Dados financeiros publicados."
+              exit 0
+            fi
+            sleep 3
+          done
+          exit 1
