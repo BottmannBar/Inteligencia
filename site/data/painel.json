@@ -1,0 +1,6 @@
+{
+  "coletado_em": null,
+  "populacao": {"fonte": "IBGE SIDRA", "municipios": {}},
+  "noticias": [],
+  "erros": ["Aguardando a primeira execução da coleta"]
+}
