@@ -85,7 +85,10 @@ $('news-filter').addEventListener('change', updateNewsList);
 
 async function init() {
   try {
-    const response = await fetch(`./data/painel.json?v=${Date.now()}`, {cache:'no-store'});
+    const scriptURL = document.querySelector('script[src$="app.js"]')?.src || document.baseURI;
+    const dataURL = new URL('./data/painel.json', scriptURL);
+    dataURL.searchParams.set('v', String(Date.now()));
+    const response = await fetch(dataURL.toString(), {cache:'no-store'});
     if (!response.ok) throw new Error('HTTP ' + response.status);
     const payload = await response.json();
     if (payload.coletado_em) {
