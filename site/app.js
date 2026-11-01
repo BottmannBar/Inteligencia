@@ -94,7 +94,7 @@ async function init() {
       if (!remote.ok) throw new Error('API GitHub HTTP ' + remote.status);
       const file = await remote.json();
       if (file.encoding !== 'base64' || !file.content) throw new Error('Formato de dados inválido');
-      const bytes = Uint8Array.from(atob(file.content.replace(/\\s/g, '')), letter => letter.charCodeAt(0));
+      const bytes = Uint8Array.from(atob(file.content.replace(/\s/g, '')), letter => letter.charCodeAt(0));
       payload = JSON.parse(new TextDecoder('utf-8').decode(bytes));
     } catch (remoteError) {
       // Fallback: usa o JSON publicado na mesma pasta do site.
