@@ -1,6 +1,204 @@
 {
-  "coletado_em": null,
-  "populacao": {"fonte": "IBGE SIDRA", "municipios": {}},
-  "noticias": [],
-  "erros": ["Aguardando a primeira execução da coleta"]
+  "coletado_em": "2026-11-01T17:21:42.531581+00:00",
+  "populacao": {
+    "fonte": "IBGE / SIDRA",
+    "municipios": {}
+  },
+  "noticias": [
+    {
+      "titulo": "Mercedes leva tecnologia da F1 ao GLB 250 com novo motor 1.5 com turbo elétrico - Quatro Rodas",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0lyS29xc1RjcjNtYmxVeGk2cDgyOXpVRG1iZklab3RKVmdoMjZnZVRmRGhZa2JPeWR5N2dHX1pEYVh3MUtYSzI0emNSSU1BcVRhZDZMc3hYZU9XaTVsa0xUOWxnMWQ5SFJNdVkyMi16WDI0WUF5X0I5S0g3S0ZKTkEzZm9sM3I1OHpLd21faEJUdHFUaTlfdkdRNFVhX1NkUVdoRVEtb1VZZDVrVjNLakRnUXBRUWl3dXN4OUVocw?oc=5",
+      "fonte": "Quatro Rodas",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T17:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "3 celulares que surpreenderam nos testes de bateria em 2026 - Oficina da Net",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSTliR29JM25tY3dENlVmNjJzdWYzNWlXamNBNVdZVXFSLS1oQXpsZXhZbXRzOGNsT1htRlBpRmZXTElqMEhhOEw4a3RYRWRRS0Fzb01ZUnJyZ0hxRXZfRE5OdzU2OGZKbXJqZUdTNGtYYkxwZWFEd05JbTZmb0I5cE1vUjNhb0FVellQXzBIaEptLVllZ0FtU1htV1FENERsYlhlcVo0ZGJuT0ZsRFE?oc=5",
+      "fonte": "Oficina da Net",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T16:51:00+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "Dupla é presa após golpe na troca de celulares em shopping de Nova Iguaçu - O Dia",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeG94a2xsNlJJVExIWWhXXzMxbnRRcDZraUkyNVJCbkllTERLcVRoeGZiU3JIQlVZdGVzUE5ORzFVUlBIdGRSblYzNVZyTGlGUElnMVlRQVFPZHZYY2JPWkkxZkRTUU5LLUxSd3dfaVhBLWg1YzR5UmRhYk1uX0FlZDlOUkw1WF94VmtOSXFTNXJxb2p3b0pEYmduc0o3UFI1UE1xX1JjTDBUamhtbk9sOFpKbWdDQm5OcEhsMGlXWHhRV0UxYmNtYUp5WnfSAdIBQVVfeXFMT3VZSXlRa1daczhlcERKUTFXOVM1ajB4UE1lV0pjeTJWUGl4WkxZMzBTbHZoZ3h5TzJqU2N1X1YzM3NXVld6blBwYmZnQUZjWFFVMjRueEpUSS1vOU1SdF9rSW96SjRRLVJFU3BzQjRNbDAyZXh4UzVpZVNlSHBKZFZEaDN3NHA3XzBGYkFtZnJEZXE3ZzVOY3pCRG9IamxIRDZUQTZWbDExRl93UEJRSkExRTVWSDZQVm9uMXRZLU1uWldpS1RCUGZ5b1dBRmUtZzNB?oc=5",
+      "fonte": "O Dia",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T16:43:15+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "9 celulares bons e baratos para maratonar filmes favoritos - AdoroCinema",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RV0xmS0tuZ3ZUeC1HTW5LZldVdy1RcEJXUzF6aXpFMVVwMTg2aW81X2JvdnQwLUxMcWJPMzkxcTJWMDJLYURxTW1SS0xHSEVla25nRGpYWV8zMHVDU1VZRzFMN0l6UlNySm9WM3R6Q1_SAXZBVV95cUxNUFdhSzJXYTZPTlNUTWgySzlURmFvWnljQ0pCVDNFajl1bjBmajRGZ1FjMUtXYzZsOUpSRWtfWlMyZUhCdUtSbHdSTEl2OUM5QTR3dE1RdEp0ME1qRUJ0MkxQZ2xpNVc1MlBDbDJaeXY1NGtOWTF3?oc=5",
+      "fonte": "AdoroCinema",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T16:31:46+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "Empresa de MT cria alimento à base de baru com tecnologia que aumenta durabilidade - Fatos de Mato Grosso",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUlpdTk0RTRDc0JkcWw3eFUyTTljXy1VcmxCQ2l4NjB1Ri12Q1hQQmFrSnhsNGw0WVRZQmpWRUNyYmRVczE5SWZha05ZNkVkOE4ybjRydWlnVmYwaVJjdXo0MUViejR1cFd6WUJRaEJUMjNHQ2FzdjdENTBwZlQtU3lRV3lGeldvaDlOZ0wwSFVrYnZZTG04Q0VZcGd2Z1JTWG1mSjliS1hZcGxQcGViTjdqTjVkOHZwa2s3X0lRUFU5eGctRHBHaV9mVQ?oc=5",
+      "fonte": "Fatos de Mato Grosso",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T15:34:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Presídio no Acre registra duas tentativas de entrada de celulares em menos de 24 horas - A Gazeta do Acre",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZTZmdHcwVUxJcW9vRmtiRDZ2bTNpeC00V3NDT1JtaGJleVNwa2xtMzFEaGdfN0NiX1lNSUt5YmlZUURUY29OUUxKaDJzSUlabFhvaUhSMElBdk5GT0RIaWdKLUU2aUxOR0I0SWpreHAtXzY2enB4RHJDRTlmaEVmaXkwZ051WGozcXNjbHMwV1pSQk82YU9XVVJkNW5JMmVHLUs5alpKU0lRY3VfbmNPbkJVSVdTZExCTVV4WF9PbFIwUkw0alpBaGZiX2swLW55dmZJbnE5XzNkQkk?oc=5",
+      "fonte": "A Gazeta do Acre",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T15:19:25+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "Como novo robô do MIT investiga problemas no intestino de dentro do corpo - Globo",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcDVXb0hKYk1ySk5aX1lWX3NQQUFGc0FUOFdGVUYtTkpNUDBlTWgtQUdxYS05YjE3c1NLaXAtaExhYWFYc3NFSUR3U3U3c0t3SEU2MGgwaEFNT2MxVGh2dUJYSWlvS0F5ZmdkbXBEWVZ3M2ZXM0tnM3RJaWlsdm1uS1pIT1FFc2pQc2c0Y3QyTzd0WmUtQmd6YkNjX3l6S0VOcml0N0ZaVjFWdlhiSmNfUl9GZzE1eV9Qdk5hVVcxb3d6VThTRXQxS0hENDJ1UUljR0FSMnRn0gHkAUFVX3lxTE1rd2htNUh3dWdndDZ3WW1FOVZvN1NFRFktMjQ2bHZKSmZfbUFHMWoxYWpPaGlZNW1pS0JoS2E2dkc1MnZ4bjY2SXptakJ4UG9Ic25zX3dEeElyY3h3cWRtNE5PZ3I2ei12bXJJZWhmQ3VCSUxjbUVJMkpGcWxqQ1hUSnNSOXNYR0c5UzI5ZnNfR2tJQWFxZW1CVDJRZ2xyc2E4YkR1dUpFWlpuYkF4N0dYV05McnJkT044d2tUbm81TERLc3FYVzRCYy1hQlVqNHhBVHNmZ2NudjNxTEw3VzhLTXNvNQ?oc=5",
+      "fonte": "Globo",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T13:42:43+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Moradores de São Luís recebem alerta nos celulares sobre implosão de ponte na BR-135 - Imirante.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzJMYUVhdHhzNVRlRXdwS3hHQUxtUEdiOF9vbnJpR2ppdjJnRmhmSDY3dXdSTlVhM21seXdEbzZkMkdBLVJETFp3cUMxUU1qdEd1eUdWbU5UZ2lEZzhNSk1Ealp6VVBucHlwT3ZlWGhGYlBjMGlLTjV5UGtBbDFjUW9CdUNONGllMFRndzI3dVIxV1RXeDV30gGcAUFVX3lxTE9rOXkyOEJsWFpfbW9BamZocjZUck5WRXp2RGJzSV92ank3alNDaVZ4R1RZRjBqd1B3NF9lUS1ZaFhsQnl4czV0M0k4Z3Z2QnRpYkw0aldZSDZQQWlhc0ZUbjZBXzFyODhqZ0hEQVY5Qm5GLWVUekY1UFhnQ2RDaENQNmx5ODdJcElydEtCRVFTelR3eFBNVFFka0M4Ug?oc=5",
+      "fonte": "Imirante.com",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T13:31:30+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "Diáspora tech: entenda o movimento migratório dos profissionais brasileiros de tecnologia para o EUA - Confederação Nacional de Dirigentes Lojistas",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGt2N0RlWkRURVllN0V3ekg1OHdKeGVWMmx1QXEwNFllSXY5aVI3TW9VRlAtRkt4UkZOVWxVMFNmVTdGbk5TUGxiWXZTdGJNbkc5SWdTV0szWmVndDltX0JwLWNDWWxOdi1uUkJPdzN5a1FtY2lWcE9HeC1ZSk9hbE5Gd0NGX202eFBiMnlqbF9aYWtBbUFXbk84NE1NWUFIejZnNTFqZnRTSlRnREN4RzJDTkNVakJLVXg0SGNKSnJQLThOcFdkdQ?oc=5",
+      "fonte": "Confederação Nacional de Dirigentes Lojistas",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T13:29:02+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Celulares recebem ‘alerta extremo’ da Defesa Civil sobre implosão de ponte no Estreito dos Mosquitos - G1",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaUlBd2M3cWFkYlByUWNTZ1ViNDVvWTdrbWNlV0MzeXFFR1poUWRkbzk5MFJod0hrc1QtWmJqVkJseGdLZ3ZMN0tCYnM2dmh6djRVNWd1b1hkZVVFUTgwdldxZERWcEpPWlF5Wjh4SWRMb2dhUjNqRlViYzdpNHg3NXRHS1loVk9HRUlKanBoYWdGcThJNURiWG91aHhfWGZBX0Q0amdmSTlSZ3Y0VkMzUmRIM2JLQWVRNmpKU0poOW02WHZKOHZVdzcyWVU0b28yWXJlZVoydTlPd9IB6AFBVV95cUxOQnhheGVxVkQzYmpaci15M09acjZtbFpyM09kUzdmYVF2MlBMMkZfeFhRWjM0YThCT2RjTldnTUVSdG9fVmVzNTcydFhaenRIU194QWdNbWRQbG5TRlNNWHpmYmtGSGttT1ZSX2JORHBwOV81WGl1Y3ZPWDNZcGlvX1cwVW9IcnlTOWt3bmd4d2xzZkFLN3F2Z0U2ZldTVFc4bW5HY096NUh2Yjg5ZHlxMjlpRm5VSmZHRzBKNFRFRGtsN3BMNVcwaEZma3dPNFJGT0ltUVc2NGZremtXYjlQeHZWeFFDYkh1?oc=5",
+      "fonte": "G1",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T13:19:39+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "Homem é preso suspeito de furtar três celulares no Hospital de Urgência de São Bernardo - Diário do Grande ABC",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUlHemZYWGVOLTR3ZXdBOGNfeXp1MXBNMnM4a0RJYnYxY1UtazZmWkF1M1VXSUxpRnFFYnBrUVVnTjhlWW5oLU5QbWdwa2xGSzhVck1HUDdMWVdEZkY0UHFsQnEzbzBKRE5XQlRCNWU1bnhCNTZGSEpMbWp0MmxKd0RIcXhyMTlSbVAzTUxBWFR6UW1iSzJIa2w4RXRmN1dZQXBjR0J1YVpDb0dGb0o5Um1vZlIxTGx0R2s1T0ZCdmd2MjJ0T05z?oc=5",
+      "fonte": "Diário do Grande ABC",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T13:10:00+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "CASACOR Rio 2026: Gisele Taranto traduz tecnologia, design sofisticado e relações multigeracionais na Casa Brastemp - Casa Cor",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0U3bENLcG1FcS1Vc25fbjQ5V1JjVjlmb2VjQjNxNGhxS1p4YkNpZ1U1RWNaelBhZ3hrNm1ZenRsUVVIVGNGRTZPOTF1YktSa3pzSXAwU1otelY3UkQ4UmNrX1RWRUhTMGpJSmhoUDktUEtRak1jMU02SV9fcWhqM1lIMnJMS3dSS01MU2hSNHRTNUVTanBYMQ?oc=5",
+      "fonte": "Casa Cor",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T13:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Kelly Freitas, do Parque Tecnológico, ajuda a transformar tecnologia e inovação em serviços para os santistas - Prefeitura de Santos |",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdFIzU25oVWR3ZkRvSEtnUXl1OV90QXlXWE02VnVYY0UxcFRGSFQ4X1VZWmNyeHVoRmU1YmphMk9IaUZzeENLVmZXTjFyR2hwZkRra1NELVVBenBmQTFQWXVubjNtaTA2bkRtQmlNeXFQWXZUb1BreU4td2MxQTZwNDJzUkZhNUNLS1Bwbm5SYWNmQkxGckNDbzgtSzN2QkFTQm1lREx0SEcxV0JTNWgyRm45NHNrcXV2cnVaTHFyZE9rdldDOFZWMk56ejJhQXY3ZjJieHhxYlY2a3Rkay1HMw?oc=5",
+      "fonte": "Prefeitura de Santos |",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T12:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Empresas de tecnologia dominam ranking de marcas mais valiosas do mundo; veja lista - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSHZ4Ml9YTmhFeWlfWDRMUlRvRWdqZU9ERGpaYlEtSWY1bjZvalJRSFFOc3o5QnA0TzFNSldfNzJCMGt3VHdJa045MVcxSGFZVi1UZll5UkZKaVNPa1prcjh5S0FlSnB1NGlqYjR3RlE5dXpRakxIVTdNWUg3eUxQaldydlZ2V3VOXy16R1QwVXl1SUNUbURqUV9XbXhoaW4zVGZhYzEzWXlpUnFVaGg2dzBSSmJyeXVXZnlFb0ItYWVscHVMaXpMeFFnQm4yTmxNNmlJ?oc=5",
+      "fonte": "Estadão",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T11:10:04+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Empresas de tecnologia dominam ranking de marcas mais valiosas do mundo; veja lista - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVFIWk5Ka3U4SUlpdmJOeWRmZXE4YUlIamNfTjZDZVJOb3htT3FGSXVGTURpX2NVT0RlQlN2ajdaYlVMb05QQ0tvSkNKOTBiZHZTZ1RaZ29Ob2dvLXhzaEhSemVoTWR1WUNONm1oVkxwS29nalRnNElxaUMtRjBtVTV4SFNjSGNNZUM2cTdmcFIyY0F5ZklJbjY2cF9MV2hUYTl0ZERFTjdWUHNOVm00X1drU1Z1d1ZqNE56c1BUcVN4WDFmUDF0ctIBzgFBVV95cUxNMjVoYnlma3BkMlV4TkdNdTFLM2s2SnR1czNFT3ZRaHpCdEdENzZ6U2lKN3ZiVjBiUXdhRTJoMjh3bW51N0V5b1pnb1hKajhtdjVubzk5Zzl3ZDRweHZPY1ZhSG9tMjZaWmpDdUlCOVZtMWlvRWRjSTM2YkpfTmFxeU5tdG1YdjRmaHRWMXY2TmUteHlKanpNY2V3ZkhZeGFncHJwUEduQnhlZTZDb3dyY2tmeHFobkFsRU5EQm9XbUhfMjcydmJnS19Nb21Xdw?oc=5",
+      "fonte": "Estadão",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T11:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "A tecnologia que inclui: letramento digital como condição para transformar o SUS - Correio Braziliense",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM1k0Nkl6RDdVaUI3UzZ6bFJLSi15RHJfQ2xPSUNqaDdhZm1pSEN4S0lack9jSm9YYlB0LTNGLXREWXBqX21xVjAzZUxoRUdmME9hZGFLM0FUUEROU0t6V0F4Yng1emZFaTViUUVQSWVteVFvVjVPb185djhGR3hkZ0dqczN1Zm1HTzltX2V3TVNHTzVqM2R1ZzNub2V5aUYyaGpldkpwc3ZuX2ZjcHNuN2NWZVNFcEY5ZFhOejVXcmZEODJzczd3ckZFR01DUlJ0Y0F3VUVyTHk5aHZGaUxZ0gHkAUFVX3lxTE5PempkXzhJM0VyRlh2WVZDaE9yRTc2Uk56cXUtWnMxZHpLdVFEc1JGWFhEVkI0YkhUZy0zc2RnUERYalpvTFpSTU95MkM2eXlGTTZoM2NNeGZBNWRzVGl1UDJaUkpSNWkxZ2lia2JsZ2NmbndyRzlYRWt4RXZHbmJ6anF2dEEwWlY5UFU4QkdmY1M1U1hEMVoydjQwb2dtZEdnYlpRazJhRFdndmpUQ1d5cHhUbWVfWXMtSFRyODdTb2tvWFYwcnV2WWV4Z3UzNlpieWtPQlFncXpnSE9nci0zam1Weg?oc=5",
+      "fonte": "Correio Braziliense",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T08:01:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA? - G1",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbmxoUTNJeUlxM0ZETWZIUUJheVJSUGZ2aVhBQ1MwRzdFYkh3bnlrTlVPUW9HRURIRXlmNDY1NkItdGhqTmpJMUVPT0JjcnFFVWljVXdoNXR3VGdIbzgyUHR0RFNSbDczTHI2aXRaRWN4bWxMNnI5YThmWF9OaDNva2hBQURSd2ZuTkgzdHZ4aWZpbExUd241d1MtaXV1a1phOFN1eEdGNG9nRkdpbmFyVTBNQndMWWFYM1A3WnY1RHhnOVRHRElwdmY2aFdGVEI5blF5azhIc9IB5gFBVV95cUxPckk4T0tOcmM5Y1JDdHkyalY4blphRncyTjB4bW55SWNkQzRuOHpRODFDNXRUUDc1ZGgxR2NxUTFkSGxQY1h5d3JvYjU1c3pzajdYeG9jUHdIS1ZVLUY5LXBZYXFvTkJKVHdUR25ia09JVW5rcnQ3U1lnOXRWbHJ2cy02a0RPU0N4UmxsUzlzNmMtUzVBS0tWcjF3ZkRqbktGM3gxdXg3cW5TOGdSSW95QVZHRlZWOXpXSzNkR0RMWGpHQVdLN2VXVnRWSmNqR1VGYUZoQzJIR3RHaFo1bWpqQWRMLTd4dw?oc=5",
+      "fonte": "G1",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T08:00:01+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Procura-se passeadores de cães-robôs, e não é necessária experiência prévia; entenda emprego em startup - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRHR0WlB4YXBTaTBZaGdkNi13Y0lud1FCWEdiRHhpYkZOLW00RGhyV3FtbXdEN21rRkw4d3EtaFMxSHI5a0VLd25FRUlRdDF6S1o3c2NwQ1RFWFlQMDh4OHh2Mm1CR1ZTQ0Y5OFRwWDRGdFpUWTRsc2NwTGV3d1IzbGxOdnBkZEtxbXZiQzFCYjNaNDZmVTVHWTVTVTJERmp2NE5mT1BpVzcyekwzaWllRHhESFFVaVlYSUF2d2FUNDZxdl9qRXl1Yml2b3ZjcjJNWlRHSWhsU09McWhxdDBQOTB4OGpvOEthWHFGTzcydjdMd1dUMERxbTU4VmljUGhy0gGPAkFVX3lxTE1wWnNHbXV2cXBibFhHeUdQR1otbVo1cjB0NUtOUVVTQ0FWVWppTl8xOEpEeDF2SEJMb2FJZGJhcUFaQXdZWXpMOTl6eDVJbF9WNHNOZC0zbndOd29zT01wNDFzUGVhOTlNeGxCN3dYZi1INVczNndTekhiM0x3eGEzRXdzc3dPbnBKQzZPZUF0bS1CRm41TEVzektORlR6OTJwUnc0MEN3TE1yakFsLXZDS1FoWFhuRlNRRWJweWxKalF2d3JkZWExelNLaHZLR09Qbjc3eGJYVEVac1VCYm42WEdxM1dWbnJnZk5BZHluaUhFcDlZOFU4TUNGQnB2QXlJeFA1NmRkMDRYMzVEc00?oc=5",
+      "fonte": "O GLOBO",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T07:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Polícia prende líder de quadrilha especializada em roubo de celulares no RJ - Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTRPUU4yaW5UZ0Npb2djUnZCQUhtN1BicU1XWUg2dDhBS1VIRXBZYk9RelI0UXpJWnhzV2VWb0hPZF9yZjFuV2ZXZmROTzItRG5RN09DZDlDX1F0LUNXSXkyWGk0LU52VU1feW1xUjRaN3Zrd3BSa09ycU9XZW5YRUJCT3d2WmtjNnFCRDFwWnNudU51WUNGTURfbzVyQTg5d2s4R3Z2ZThYSVBfWFE?oc=5",
+      "fonte": "Metrópoles",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T01:22:00+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "Pluxee fora do ar? Usuários relatam problemas no aplicativo - G1",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1pxMGw1dWhKU19PVFNpcXlFUnRHRlhzZGJOVndYajhPWnVIMUVqSHlrY0dDZ0NzMExpLWlJblN0QVhlWHMzVnliNUJpaWR4MFA2MGp3bmU2dndTbVI4bHBVTnlKbUFPeG5ONnJRYmtIN0lyTFB1UnpDQWNJUGhza2R2RlFiS3hDREpyeWZFenZrcW11cWEtdEowc3RqSXRwMFNHUVZxRUxsNkZtd3NPV1hud0FObXRRWDFFNNIBywFBVV95cUxPV3BSa1dzSDZmSG0ycTJGYThRSmNYQk95VVhTNFhWX1NVc29UVHpBdnBhV09GZUk3X2RhMGwtODhleUFJZGVwMnJCcW5uZHc5R1NKa2pITzk5Y1VGcXAyTUNKMlRmWGtoNnpRa2JhOGY4dUdmZmF6VTVaX0c3eWtiS2c0SjBUMEo4cGc0aXhVY3dBMGJfX2ZmNFhLNTF2dUZ1Q01GTzV2Q1cwcGlWcjltWWd4Q3hLWE1xU0YtVmE0T0dVUjZVdEN0U18ydw?oc=5",
+      "fonte": "G1",
+      "data_publicacao": "01/11/2026",
+      "data_iso": "2026-11-01T00:17:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Uma em cada cinco crianças e adolescentes sofreu ao menos uma forma de exploração e abuso sexual facilitada pela tecnologia - G1",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWXFtMFgtYW56T3NJMy00a3hiSlFocnV2SmNVV3Myb05qZHdGc3E5OWUwSmZ2UDRPU1MwbmVXT2tfWjE0cWdOVFBZX25TYVE0dndXZUtEN3JyeDhHR0t5alg4SjMyYVZzUEtMdVhucWhuZ2lobHY0MngxLTA5MXRzek5rRGhZWnZXd2JBM3BmOFpXX2l1WTlCNDhGVkNTSy15dWZLa0ZBSzFfSWxva0YyVVYzRWtwWWJKbnRXQ09FaWxtNnl3bjVuaW9pSjlHREhfaGNzNXpVNmpuaFd4aWg5WTZ6d0k0Mk9mZVpaNjMzUnpaaUZ6clIzRGdpb3dDN0JJeDRyM3JjcHZjcU9ZQ1pycTNiZ9IBogJBVV95cUxQM2l2Y3JjNnFYdGcxWFZEZEhTUU5wRUd3RWhRYlJRV19oN0NuQTBXQ2swSE9FSHAyOGNCRndSTjV1Skk0LUpzcHB6dWhGZ0dxSERud25nSlpsZ3RUalBSSFFoa0Utb3p4TlpRMl9SLUxxU0pnakRURlktZ1F5SGJVbTZtLVhHVGh0VW93OGhVZk1DLXFzNXExdW5QZWh4dUIyLTN1V19TSWpHSE05STNhSHZUSzRGRmw5NllSby1sQzY2U3ZNbkpvQV8zMjFjZi1MTHZqdnNzQjhkdVlaanN5QU95Q1N4VmgwSkVZZjFUNWxQalNEdU5halJGV0JfSFh6MlhVNjlObEJpcW4zTUNIUjlJNnJ6bHViSjZCSGdPQWN6dw?oc=5",
+      "fonte": "G1",
+      "data_publicacao": "31/10/2026",
+      "data_iso": "2026-10-31T23:54:55+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Vale pagar R$ 2.000 em um celular? Modelos intermediários disputam compradores que procuram câmeras melhores sem investir em um topo de linha - Correio Braziliense",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPSldZQWRnc0VqZWkyQk5JWVRFRXQ3UzhwajkwMVVKS3VSc184TTNpT1dqUkVFNHhqbHhnaTk3UEgwTnVLYmtFR2N2VnlqejdtcTFwWVdvYlhhTURlLVZKdzJLSDFaVWl1V0xUUGJyOFBqcTFMZFBuMWJTTlp4S2tFV19HaXpLUk9CbVE5aGJ6bEJVYWljQ19mQW03NWgxNzVLRWhEQ09lS0NjWVJZSU9mT3BZUXFKN3lveUVIRHJpblB1cWpZdlpqSGR2OE1mamZ1d2VEVEFFSmJ4UzlqVHoyTkRyemhHdUlMQ3JDdUZwdGJINC02VjRBWG9yLWNWa2NnbkpkbUpvTmZSV2dtQkRlUF94QUI?oc=5",
+      "fonte": "Correio Braziliense",
+      "data_publicacao": "31/10/2026",
+      "data_iso": "2026-10-31T22:50:00+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "Vivo Satélite com Starlink: veja a lista completa dos celulares compatíveis - Minha Operadora",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2lhMTR1LUZoeUdpd2wzUUNRblZlTFJXYWEzS0NwTTdPMlh5bjNrd09IYzdsZUJoWVVMU2lDM2VmbUJxbHpta095ZXpUalhYc0NYVzZUU3Z2LV9Zc1BFRWZBRThQaXlEOG94WGp1SFFwbVhiVU9XTFdQeE8yOFlpeDE1bE5QQl81Y0RiSUp1MTBkZ2xtamRraEYwM0dnU2lTS0ZHYjc0d0tqMTdFRjUxdGpNRnNWdUNsb01YdXNn?oc=5",
+      "fonte": "Minha Operadora",
+      "data_publicacao": "31/10/2026",
+      "data_iso": "2026-10-31T21:46:33+00:00",
+      "categoria": "Celulares"
+    },
+    {
+      "titulo": "iPhone 13 ainda vale a pena em 2026 ou o Galaxy A57 é melhor opção? - Canaltech",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFU4SXpaczJfbXZiQnZBb1NnZ1pFX2ozb08wdzFkRUZKNHIxMEVfVDN6QmtQM2JoRkRIampORjUzVmE4MmRVQXNKSkRTa3EyX1NYM1lWOFJNQUZWekRsZ2dJZ011bWJNQUtZZi1QbWxYSlBFOURuOXo1dFQxUkVnZlNwaXBrUDNVQnljS25QZk54MjJJMVdlLWZySjhWejkwUjl0alR3?oc=5",
+      "fonte": "Canaltech",
+      "data_publicacao": "31/10/2026",
+      "data_iso": "2026-10-31T19:30:02+00:00",
+      "categoria": "Celulares"
+    }
+  ],
+  "erros": [
+    "IBGE indisponível (URLError)"
+  ]
 }
