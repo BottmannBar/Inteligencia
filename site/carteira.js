@@ -341,7 +341,7 @@ async function fetchSandboxQuote(ticker){
     const price=Number(result?.data?.regularMarketPrice);
     if(!(price>0)||!Number.isFinite(price))throw Error('Cotação não disponível');
     if(result?.data?.currency && result.data.currency!=='BRL')throw Error('Moeda diferente de BRL');
-    return {price,source:'brapi',updated:typeof data.requestedAt==='string'?data.requestedAt:new Date().toISOString()};
+    return {price,source:'brapi',updated:typeof result.data.regularMarketTime==='string'?result.data.regularMarketTime:(typeof data.requestedAt==='string'?data.requestedAt:new Date().toISOString())};
   }finally{clearTimeout(timeout)}
 }
 let loadingQuotes=false;
@@ -404,5 +404,7 @@ function init(){
   load();render();
   if(!inMemoryOnly)note('Sua carteira é privada e fica neste navegador. Faça backup JSON regularmente. A cotação automática consulta somente os tickers elegíveis.');
   if(wallet.trades.length)refreshPrices(false);
+  // Atualiza apenas cotações gratuitas conhecidas enquanto a aba estiver visível.
+  setInterval(()=>{if(document.visibilityState==='visible'&&wallet.trades.length)refreshPrices(false)},15*60*1000);
 }
 init();
