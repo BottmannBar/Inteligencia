@@ -100,8 +100,12 @@ async function init() {
     const available = Number(Boolean(payload.populacao?.municipios && Object.keys(payload.populacao.municipios).length)) + Number(Boolean(payload.noticias?.length));
     showText('sources-count', available);
     const problems = payload.erros || [];
-    const status = available === 2 ? 'ok' : 'warn';
-    const message = available === 2 ? 'Fontes carregadas. Confira os períodos e a origem de cada indicador.' : `Dados parciais: ${available}/2 grupos de fontes com resultados. ${problems.length ? 'Falha: '+problems.join(' / ') : 'Execute a atualização pelo GitHub Actions.'}`;
+    const status = problems.length ? 'warn' : (available === 2 ? 'ok' : 'warn');
+    const message = problems.length
+      ? `Dados disponíveis com avisos: ${problems.join(' / ')}.`
+      : (available === 2
+        ? 'Fontes carregadas. Confira os períodos e a origem de cada indicador.'
+        : `Dados parciais: ${available}/2 grupos com resultados. Execute a coleta pelo GitHub Actions.`);
     setBanner(message, status);
     showText('source-status', problems.length ? 'Há fontes indisponíveis' : (available ? 'Dados disponíveis' : 'Aguardando primeira execução'));
   } catch (err) {
