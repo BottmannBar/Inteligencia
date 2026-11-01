@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0a1222">
+  <meta name="description" content="Painel de inteligência de mercado com indicadores públicos do IBGE e notícias de tecnologia via RSS.">
+  <title>Observatório | Inteligência de Mercado</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar" aria-label="Navegação principal">
+      <a class="brand" href="#inicio"><span class="brand-icon">◈</span><span>OBSERVATÓRIO<small>INTELIGÊNCIA DE MERCADO</small></span></a>
+      <div class="nav-label">MENU PRINCIPAL</div>
+      <nav>
+        <a class="nav-link active" href="#inicio"><span>▦</span> Visão geral</a>
+        <a class="nav-link" href="#demografia"><span>◉</span> Demografia</a>
+        <a class="nav-link" href="#noticias"><span>▤</span> Notícias e sinais</a>
+        <a class="nav-link" href="#fontes"><span>⌁</span> Fontes & método</a>
+      </nav>
+      <div class="sidebar-bottom">
+        <span class="tiny-pill">MVP · VERSÃO 1.0</span>
+        <p>Dados oficiais e notícias reunidos com rastreabilidade.</p>
+      </div>
+    </aside>
+    <main id="inicio" class="main">
+      <header class="topbar">
+        <div class="crumb">PAINEL <span>/</span> MERCADO DE ELETRÔNICOS</div>
+        <a class="top-link" href="https://www.ibge.gov.br/" target="_blank" rel="noopener noreferrer">Fonte oficial ↗</a>
+      </header>
+      <div class="content">
+        <div class="hero-top">
+          <div>
+            <div class="eyebrow"><span class="dot"></span> CENTRO DE MONITORAMENTO</div>
+            <h1>Inteligência de <em>mercado.</em></h1>
+            <p class="subtitle">Indicadores públicos, sinais do setor e informações verificáveis em um único painel.</p>
+          </div>
+          <div class="update-box"><span>ÚLTIMA COLETA</span><strong id="updated-at">Aguardando coleta</strong><small id="source-status">Sem dados carregados</small></div>
+        </div>
+        <div id="alert" class="alert" role="status">O painel está carregando as fontes.</div>
+
+        <section aria-label="Indicadores principais" class="metrics">
+          <article class="metric-card"><span class="metric-label">POPULAÇÃO · CURITIBA</span><strong id="population-curitiba">—</strong><span class="metric-foot" id="year-curitiba">IBGE · ano não disponível</span><span class="metric-accent blue"></span></article>
+          <article class="metric-card"><span class="metric-label">POPULAÇÃO · SÃO JOSÉ DOS PINHAIS</span><strong id="population-sjp">—</strong><span class="metric-foot" id="year-sjp">IBGE · ano não disponível</span><span class="metric-accent teal"></span></article>
+          <article class="metric-card"><span class="metric-label">NOTÍCIAS COLETADAS</span><strong id="news-count">—</strong><span class="metric-foot">RSS · notícias de tecnologia</span><span class="metric-accent violet"></span></article>
+          <article class="metric-card"><span class="metric-label">FONTES ATIVAS</span><strong id="sources-count">—</strong><span class="metric-foot">IBGE + feed RSS</span><span class="metric-accent amber"></span></article>
+        </section>
+
+        <div class="two-col">
+          <section id="demografia" class="panel" aria-labelledby="demografia-title">
+            <div class="panel-head"><div><span class="kicker">DADOS OFICIAIS</span><h2 id="demografia-title">Demografia comparada</h2></div><a href="https://servicodados.ibge.gov.br/api/docs/agregados" target="_blank" rel="noopener noreferrer" class="small-link">API IBGE ↗</a></div>
+            <p class="panel-note">População estimada mais recente disponível na tabela 6579. Não mede número de compradores nem vendas de celulares.</p>
+            <div class="bars">
+              <div class="bar-info"><span>Curitiba</span><strong id="bar-value-curitiba">—</strong></div><div class="bar-track"><div class="bar-fill bar-blue" id="bar-curitiba" style="width:0%"></div></div>
+              <div class="bar-info"><span>São José dos Pinhais</span><strong id="bar-value-sjp">—</strong></div><div class="bar-track"><div class="bar-fill bar-teal" id="bar-sjp" style="width:0%"></div></div>
+            </div>
+            <div class="insight"><span>✦ NOTA DO ANALISTA</span><p id="population-insight">Aguardando dados para comparação. População é apenas um indicador de tamanho potencial do mercado.</p></div>
+          </section>
+          <section class="panel" aria-labelledby="metodo-title">
+            <div class="panel-head"><div><span class="kicker">LEITURA CRÍTICA</span><h2 id="metodo-title">Como interpretar</h2></div></div>
+            <div class="method-item"><span class="method-num">01</span><div><strong>Dado</strong><p>Qual foi a medida, em qual unidade e em qual ano?</p></div></div>
+            <div class="method-item"><span class="method-num">02</span><div><strong>Hipótese</strong><p>O que o dado sugere, sem comprovar por si só?</p></div></div>
+            <div class="method-item"><span class="method-num">03</span><div><strong>Contraprova</strong><p>Que outras fontes podem confirmar ou contrariar a interpretação?</p></div></div>
+            <div class="method-item"><span class="method-num">04</span><div><strong>Conclusão</strong><p>Separe fato observado, inferência e informação ausente.</p></div></div>
+          </section>
+        </div>
+
+        <section id="noticias" class="panel news-panel" aria-labelledby="noticias-title">
+          <div class="panel-head news-header"><div><span class="kicker">MONITORAMENTO RSS</span><h2 id="noticias-title">Notícias e sinais do setor</h2><p class="panel-note">Manchetes para investigação. Uma notícia não comprova uma tendência.</p></div><div class="news-controls"><label class="sr-only" for="news-search">Buscar manchetes</label><input id="news-search" placeholder="Buscar manchetes..." type="search"><label class="sr-only" for="news-filter">Fonte</label><select id="news-filter"><option value="">Todas as fontes</option></select></div></div>
+          <div id="news-list" class="news-list"><p class="empty">Aguardando coleta de RSS...</p></div>
+          <div class="news-bottom"><span id="news-shown">Nenhuma notícia exibida</span><a href="https://news.google.com/?hl=pt-BR&gl=BR&ceid=BR:pt-419" target="_blank" rel="noopener noreferrer">Ir ao Google Notícias ↗</a></div>
+        </section>
+
+        <section id="fontes" class="panel" aria-labelledby="fontes-title">
+          <div class="panel-head"><div><span class="kicker">TRANSPARÊNCIA</span><h2 id="fontes-title">Fontes, limites e atualização</h2></div></div>
+          <div class="sources-grid">
+            <a href="https://sidra.ibge.gov.br/tabela/6579" target="_blank" rel="noopener noreferrer" class="source-card"><span class="source-icon">◉</span><div><strong>IBGE / SIDRA</strong><small>Estimativas populacionais · tabela 6579</small></div><span>↗</span></a>
+            <a href="https://news.google.com/" target="_blank" rel="noopener noreferrer" class="source-card"><span class="source-icon">▤</span><div><strong>Google Notícias RSS</strong><small>Agregador de manchetes · verificar publicação original</small></div><span>↗</span></a>
+          </div>
+          <p class="disclaimer">O painel não usa dados privados, não estima vendas de celulares com base apenas em população e não transforma manchetes em fatos verificados. Indicadores seguem o ano de referência da fonte, diferente da data em que o painel buscou os dados. RSS e APIs podem ficar temporariamente indisponíveis.</p>
+        </section>
+        <footer>OBSERVATÓRIO · CENTRAL DE INTELIGÊNCIA <span>Feito com GitHub Pages + Python + fontes públicas</span></footer>
+      </div>
+    </main>
+  </div>
+  <script src="./app.js" defer></script>
+</body>
+</html>
