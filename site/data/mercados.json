@@ -1,0 +1,12 @@
+{
+  "coletado_em": null,
+  "cambio": {
+    "USD": null,
+    "EUR": null,
+    "CNY": null
+  },
+  "noticias": [],
+  "avisos": [
+    "Aguardando a primeira coleta automática das fontes financeiras"
+  ]
+}
