@@ -8,7 +8,12 @@ const UFCODES = {AC:12,AL:27,AP:16,AM:13,BA:29,CE:23,DF:53,ES:32,GO:52,MA:21,MT:
 const FALLBACK_CITIES = {PR:[['4106902','Curitiba'],['4125506','São José dos Pinhais'],['4119152','Pinhais'],['4105805','Colombo'],['4101804','Araucária'],['4104204','Campo Largo'],['4107652','Fazenda Rio Grande']],SP:[['3550308','São Paulo'],['3509502','Campinas']],RJ:[['3304557','Rio de Janeiro']],SC:[['4205407','Florianópolis'],['4209102','Joinville']],RS:[['4314902','Porto Alegre']],MG:[['3106200','Belo Horizonte']],DF:[['5300108','Brasília']]};
 const CITIES_VERIFIED = {
   '4106902':{name:'Curitiba',uf:'PR',population:1832183,year:'2026',gdp:67691.30,gdpYear:'2023',income:3137.92,incomeYear:'2022',incomeScope:'Município · Censo 2022'},
-  '4125506':{name:'São José dos Pinhais',uf:'PR',population:353874,year:'2026',gdp:103019.05,gdpYear:'2023'}
+  '4125506':{name:'São José dos Pinhais',uf:'PR',population:353874,year:'2026',gdp:103019.05,gdpYear:'2023'},
+  '4119152':{name:'Pinhais',uf:'PR',population:131857,year:'2026',gdp:77567.93,gdpYear:'2023'},
+  '4105805':{name:'Colombo',uf:'PR',population:242698,year:'2026',gdp:32853.49,gdpYear:'2023'},
+  '4101804':{name:'Araucária',uf:'PR',population:164291,year:'2026',gdp:224671.66,gdpYear:'2023'},
+  '4104204':{name:'Campo Largo',uf:'PR',population:146002,year:'2026',gdp:51863.48,gdpYear:'2023'},
+  '4107652':{name:'Fazenda Rio Grande',uf:'PR',population:170123,year:'2026',gdp:27805.32,gdpYear:'2023'}
 };
 const UF_INCOME = {PR:{value:2762,year:'2025',url:'https://www.ibge.gov.br/cidades-e-estados/pr.html'}};
 const PMC_URL = 'https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/atividade-economica/defeso-eleitoral-2026/informativo-pmc-ago2026.html';
