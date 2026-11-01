@@ -55,10 +55,39 @@ def ptax_url(code: str, today: datetime) -> str:
     return path + "?" + params
 
 
+def ptax_alternative_url(code: str, today: datetime) -> str:
+    first = (today - timedelta(days=32)).strftime("%m-%d-%Y")
+    last = today.strftime("%m-%d-%Y")
+    params = urllib.parse.urlencode({
+        "@moeda": f"'{code}'",
+        "@dataInicial": f"'{first}'",
+        "@dataFinalCotacao": f"'{last}'",
+        "$format": "json",
+        "$top": 1000,
+    })
+    path = (
+        "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/"
+        "CotacaoMoedaPeriodo(moeda=@moeda,"
+        "dataInicial=@dataInicial,"
+        "dataFinalCotacao=@dataFinalCotacao)"
+    )
+    return path + "?" + params
+
+
 def collect_currency(code: str, today: datetime) -> dict:
-    rows = json.loads(get(ptax_url(code, today)).decode("utf-8-sig")).get("value", [])
+    try:
+        rows = json.loads(get(ptax_url(code, today)).decode("utf-8-sig")).get("value", [])
+    except Exception as primary_error:
+        # Segundo recurso oficial: todos os boletins, filtrados por fechamento.
+        try:
+            rows = json.loads(get(ptax_alternative_url(code, today)).decode("utf-8-sig")).get("value", [])
+        except Exception:
+            raise primary_error
     valid = {}
     for row in rows:
+        bulletin = str(row.get("tipoBoletim", "Fechamento")).lower()
+        if "fechamento" not in bulletin:
+            continue
         value = row.get("cotacaoVenda")
         stamp = str(row.get("dataHoraCotacao") or "")
         if not re.match(r"^\d{4}-\d{2}-\d{2}", stamp):
