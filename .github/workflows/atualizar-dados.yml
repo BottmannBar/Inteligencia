@@ -39,7 +39,17 @@ jobs:
           git add site/data/painel.json
           if ! git diff --cached --quiet; then
             git commit -m "Atualizar indicadores e noticias do painel"
-            git push
+            # Atualiza o branch antes de enviar: outros commits podem ter ocorrido durante a coleta.
+            for tentativa in 1 2 3; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then
+                echo "Dados publicados com sucesso."
+                exit 0
+              fi
+              sleep 3
+            done
+            echo "Nao foi possivel publicar os dados apos 3 tentativas."
+            exit 1
           else
             echo "Nenhuma alteracao nos dados."
           fi
