@@ -1,6 +1,37 @@
 {
   "coletado_em": "2026-11-01T18:00:20.365418+00:00",
-  "cambio": {},
+  "cambio": {
+    "USD": {
+      "codigo": "USD",
+      "venda": 5.4212,
+      "data": "30/10/2026",
+      "data_iso": "2026-10-30",
+      "variacao_pct": null,
+      "fonte": "Banco Central do Brasil · fechamento PTAX de 30/10/2026 (referência verificada)",
+      "url": "https://ptax.bcb.gov.br/ptax_internet/consultarTodasAsMoedas.do?method=consultaTodasMoedas",
+      "preservado": true
+    },
+    "EUR": {
+      "codigo": "EUR",
+      "venda": 6.0522,
+      "data": "30/10/2026",
+      "data_iso": "2026-10-30",
+      "variacao_pct": null,
+      "fonte": "Banco Central do Brasil · fechamento PTAX de 30/10/2026 (referência verificada)",
+      "url": "https://ptax.bcb.gov.br/ptax_internet/consultarTodasAsMoedas.do?method=consultaTodasMoedas",
+      "preservado": true
+    },
+    "CNY": {
+      "codigo": "CNY",
+      "venda": 0.8148,
+      "data": "30/10/2026",
+      "data_iso": "2026-10-30",
+      "variacao_pct": null,
+      "fonte": "Banco Central do Brasil · fechamento PTAX de 30/10/2026 (referência verificada)",
+      "url": "https://ptax.bcb.gov.br/ptax_internet/consultarTodasAsMoedas.do?method=consultaTodasMoedas",
+      "preservado": true
+    }
+  },
   "noticias": [
     {
       "titulo": "B3 perde R$ 948,8 bilhões em valor de mercado em uma semana - Poder360",
@@ -364,8 +395,6 @@
     }
   ],
   "avisos": [
-    "PTAX USD indisponível (HTTPError)",
-    "PTAX EUR indisponível (HTTPError)",
-    "PTAX CNY indisponível (HTTPError)"
+    "API PTAX indisponível na última coleta; exibindo fechamento oficial verificado de 30/10/2026 até próxima consulta bem-sucedida"
   ]
 }
