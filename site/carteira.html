@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#000C25">
+<meta name="description" content="Minha Carteira Tech-nigma: registre compras e vendas, acompanhe custo médio, patrimônio e valorização em privacidade.">
+<title>Tech-nigma | Minha Carteira</title>
+<link rel="stylesheet" href="./v2.css?v=tech-nigma-azul-3">
+<link rel="stylesheet" href="./carteira.css?v=1">
+<script src="./carteira.js?v=1" defer></script>
+</head>
+<body>
+<div class="shell">
+<aside class="sidebar" aria-label="Menu principal">
+<div class="identity"><span class="logo-mark">◈</span><div><strong>TECH-NIGMA</strong><span>INTELIGÊNCIA DE MERCADO</span></div></div>
+<div class="group-title">CENTRAL</div>
+<nav class="nav">
+<a href="../index.html#visao"><span>▦</span> Visão geral</a>
+<a href="../index.html#economia"><span>▤</span> Economia local</a>
+<a href="../index.html#setores"><span>◈</span> Setores de mercado</a>
+<a href="./mercados.html"><span>▥</span> Mercados financeiros</a>
+<a class="selected" href="./carteira.html" aria-current="page"><span>◉</span> Minha carteira</a>
+<a href="../index.html#noticias"><span>≋</span> Notícias comerciais</a>
+</nav>
+<div class="side-bottom"><div class="pulse"><i></i> CARTEIRA LOCAL</div><p>A criatividade faz o mundo girar.</p><p>Posições e preços pagos não são enviados ao GitHub.</p><small>TECH-NIGMA · ÁREA PESSOAL</small></div>
+</aside>
+<main class="main">
+<header class="topbar">
+<div class="breadcrumb">TECH-NIGMA / <b>MINHA CARTEIRA</b></div>
+<div class="top-actions"><span class="sync-dot"></span><span id="save-state">Dados locais</span><a href="./mercados.html">Mercados ↗</a></div>
+</header>
+<div class="workspace">
+<div class="title-area wallet-hero"><div><div class="eyebrow">PATRIMÔNIO · CONTROLE PESSOAL</div><h1>Sua carteira.<br><em>Seus números.</em></h1><p>Registre suas operações e acompanhe posição, preço médio e resultado. Apenas as cotações públicas são consultadas externamente.</p></div><div class="wallet-privacy"><span>◈ PRIVACIDADE</span><strong>Dados neste navegador</strong><small>Sem conta ou sincronização. Faça cópias de segurança.</small></div></div>
+<div id="wallet-notice" class="wallet-notice" role="status" aria-live="polite"></div>
+<div class="section-top"><div><span class="eyebrow">01 · SUA POSIÇÃO</span><h2>Resumo da carteira</h2></div><button type="button" id="refresh-prices" class="wallet-primary wallet-small">↻ Atualizar cotações</button></div>
+<div class="wallet-kpis">
+<article class="kpi"><div class="kpi-line">INVESTIMENTO EM CARTEIRA <span>R$</span></div><strong id="total-cost">R$ 0,00</strong><div class="kpi-foot">Custo das posições em aberto</div></article>
+<article class="kpi"><div class="kpi-line">VALOR DE MERCADO <span>▦</span></div><strong id="total-market">—</strong><div class="kpi-foot" id="coverage">Precisa de cotações para todos os ativos</div></article>
+<article class="kpi emphasis"><div class="kpi-line">RESULTADO NÃO REALIZADO <span>↗</span></div><strong id="total-pnl">—</strong><div class="kpi-foot" id="total-return">Sem avaliação completa</div></article>
+<article class="kpi"><div class="kpi-line">RESULTADO REALIZADO <span>◎</span></div><strong id="realized-pnl">R$ 0,00</strong><div class="kpi-foot">Vendas registradas · sem impostos/proventos</div></article>
+</div>
+<div class="section-top" id="registrar"><div><span class="eyebrow">02 · MOVIMENTAÇÕES</span><h2>Registrar compra ou venda</h2></div><span class="source-tag">Valores em reais (BRL)</span></div>
+<section class="panel wallet-entry">
+<div class="wallet-intro"><strong>Uma operação por vez</strong><p>Registre novas compras com o mesmo ticker para atualizar automaticamente o preço médio. Ao vender, o custo médio da posição é considerado para o resultado.</p></div>
+<form id="trade-form">
+<div class="wallet-form-grid">
+<label>Operação<select id="trade-kind" required><option value="compra">Compra</option><option value="venda">Venda</option></select></label>
+<label>Tipo de ativo<select id="trade-type" required><option value="acao">Ação</option><option value="fii">Fundo imobiliário (FII)</option><option value="etf">ETF</option><option value="bdr">BDR</option><option value="outros">Outro ativo cotado em BRL</option></select></label>
+<label>Código (ticker)<input id="trade-ticker" placeholder="Ex.: MXRF11, PETR4" maxlength="15" autocomplete="off" list="ticker-suggestions" required><datalist id="ticker-suggestions"></datalist></label>
+<label>Quantidade<input id="trade-qty" type="text" inputmode="decimal" placeholder="Ex.: 10" required></label>
+<label>Preço unitário (R$)<input id="trade-price" type="text" inputmode="decimal" placeholder="Ex.: 12,50" required></label>
+<label>Taxas da operação (R$)<input id="trade-fee" type="text" inputmode="decimal" placeholder="0,00" value="0"></label>
+<label>Data da operação<input id="trade-date" type="date" required></label>
+<div class="wallet-form-action"><button type="submit" class="wallet-primary">＋ Registrar operação</button></div>
+</div>
+</form>
+<p class="wallet-help">Quantidade e preço aceitam vírgula decimal. Compras antigas também podem ser registradas. Os cálculos utilizam custo médio ponderado e taxas informadas.</p>
+</section>
+<div class="section-top" id="posicoes"><div><span class="eyebrow">03 · ACOMPANHAMENTO</span><h2>Ativos em carteira</h2></div><span id="asset-count" class="source-tag">0 ativos</span></div>
+<section class="panel wallet-positions">
+<div class="wallet-table-wrap"><table class="wallet-table"><thead><tr><th>Ativo</th><th>Quantidade</th><th>Preço médio</th><th>Investido</th><th>Cotação</th><th>Valor atual</th><th>Resultado</th><th>Gráfico</th></tr></thead><tbody id="positions-body"><tr><td colspan="8" class="wallet-empty">Você ainda não cadastrou ativos.</td></tr></tbody></table></div>
+<div class="wallet-legend">* Resultado não realizado = quantidade × (cotação − preço médio), excluindo proventos e impostos. Valores sem preço atualizado ficam em branco, não são estimados.</div>
+</section>
+<div class="wallet-two-col">
+<section class="panel wallet-price-panel"><div class="panel-heading"><div><span class="micro">04 · AVALIAÇÃO DE PREÇOS</span><h3>Informar uma cotação</h3></div></div><p class="muted">Para tickers sem API pública gratuita, informe um preço de referência. O sistema usará esse valor até você alterá-lo.</p>
+<form id="manual-form" class="wallet-manual"><label>Ticker<select id="manual-ticker" required><option value="">Selecione um ativo</option></select></label><label>Cotação unitária (R$)<input id="manual-price" type="text" inputmode="decimal" placeholder="Ex.: 35,80" required></label><button type="submit" class="wallet-primary">Salvar cotação</button></form>
+<div class="wallet-source-note" id="quote-status">Cotações automáticas de teste: PETR4, VALE3, ITUB4 e MGLU3 (brapi). Outras precisam de preço manual nesta versão.</div>
+</section>
+<section class="panel"><div class="panel-heading"><div><span class="micro">05 · COMPOSIÇÃO</span><h3>Distribuição por custo</h3></div></div><div id="allocation" class="wallet-allocation"><p class="muted">Adicione um ativo para visualizar a distribuição.</p></div></section>
+</div>
+<div class="section-top" id="historico"><div><span class="eyebrow">06 · SEU HISTÓRICO</span><h2>Operações registradas</h2></div><span class="source-tag">Somente neste dispositivo</span></div>
+<section class="panel wallet-history"><div class="wallet-table-wrap"><table class="wallet-table"><thead><tr><th>Data</th><th>Operação</th><th>Ticker</th><th>Quantidade</th><th>Preço</th><th>Taxas</th><th>Total</th><th>Ação</th></tr></thead><tbody id="history-body"><tr><td colspan="8" class="wallet-empty">Nenhuma operação registrada.</td></tr></tbody></table></div></section>
+<section class="panel wallet-backup" id="backup"><div><span class="micro">07 · SEGURANÇA DOS SEUS DADOS</span><h3>Backup da carteira</h3><p>Os registros ficam no armazenamento deste navegador. Eles não aparecem em outro computador ou celular automaticamente. Limpar os dados do navegador pode apagar sua carteira local.</p><p>Exporte um arquivo JSON para guardar com segurança e importe-o neste navegador ou em outro dispositivo. O backup contém valores financeiros pessoais: não compartilhe publicamente.</p></div><div class="wallet-backup-actions"><button type="button" id="export-data" class="wallet-primary">↓ Exportar backup JSON</button><label class="wallet-secondary wallet-upload">↑ Importar backup <input type="file" id="import-data" accept=".json,application/json"></label></div></section>
+<div class="wallet-disclaimer">Esta carteira é um controle pessoal de posições, não uma integração com corretora, declaração fiscal ou consultoria financeira. Preços automáticos podem ter atraso e dependem de terceiros. Rendimentos de FIIs, dividendos, splits, bonificações, transferências e impostos ainda não são calculados. Consulte seu extrato oficial para conciliação.</div>
+<footer>TECH-NIGMA · MINHA CARTEIRA <span>Sem publicação das suas movimentações no GitHub · Faça backup periódico</span></footer>
+</div>
+</main>
+</div>
+</body>
+</html>
