@@ -17,8 +17,16 @@ AGGREGATE_URL = (
     'periodos/-1/variaveis/9324?localidades=N6%5B4106902%2C4125506%5D'
 )
 FEEDS = [
-    ('Celulares', 'celulares OR smartphones'),
-    ('Tecnologia', 'eletrônicos OR tecnologia'),
+    ('Celulares', 'smartphone OR celulares lançamentos mercado'),
+    ('Tecnologia', 'eletrônicos informática mercado'),
+    ('Eletrodomésticos', 'eletrodomésticos varejo Brasil'),
+    ('Automotivo', 'mercado veículos automóveis autopeças Brasil'),
+    ('Moda', 'moda vestuário calçados varejo Brasil'),
+    ('Farmácia', 'farmácias medicamentos cosméticos mercado Brasil'),
+    ('Supermercados', 'supermercados alimentos varejo Brasil'),
+    ('Construção', 'material construção varejo mercado Brasil'),
+    ('Combustíveis', 'combustíveis postos mercado Brasil'),
+    ('Papelaria', 'papelaria livros mercado Brasil'),
 ]
 GOOGLE_NEWS_FEED = 'https://news.google.com/rss/search?'
 MUNICIPALITIES = {'4106902': 'Curitiba', '4125506': 'São José dos Pinhais'}
@@ -119,7 +127,7 @@ def build() -> dict:
         })
         try:
             found = parse_rss(download(url), category)
-            all_news.extend(found)
+            all_news.extend(found[:10])
             print(f'RSS {category}: {len(found)} matérias')
         except Exception as exc:
             payload['erros'].append(f'RSS {category} indisponível ({type(exc).__name__})')
@@ -127,7 +135,7 @@ def build() -> dict:
     dedup = {}
     for article in all_news:
         dedup.setdefault(article['url'], article)
-    payload['noticias'] = sorted(dedup.values(), key=lambda n: n['data_iso'], reverse=True)[:24]
+    payload['noticias'] = sorted(dedup.values(), key=lambda n: n['data_iso'], reverse=True)[:100]
     if not payload['noticias']:
         payload['erros'].append('Nenhuma manchete RSS disponível')
     return payload
