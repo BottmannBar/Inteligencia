@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-02T01:32:12.330129+00:00",
+  "coletado_em": "2026-11-02T20:23:51.097988+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
@@ -48,14 +48,6 @@
       "fonte": "InfoMoney",
       "data_publicacao": "30/10/2026",
       "data_iso": "2026-10-30T22:27:10+00:00"
-    },
-    {
-      "titulo": "Empresas na Bolsa perdem R$ 873 bilhões em valor de mercado após o 2º turno - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXBST3RUQm5iVkkxd2Mtd3l6OHh5RUxiX0huUFFWNk10S2xLY0pncGowdmxvZ3ExT3pJQjlHMDFUNG1uWVU3bHhnV2FzenBTb0JzMHZZbGtRSERSZnZqQW1MZXRydXlvYmdNM0czekQ4X041ME1VZUJRcEJaUUJFQ3BZOGpLYWllZV8yLV91RTZzWDQ3MUxtVlViRm5VOWpOMnNhb2U4RTNQZmNCMjR3SlRPLTBLM0xWdVFzXzFXQkpZVlRRMlE?oc=5",
-      "categoria": "Ações",
-      "fonte": "CNN Brasil",
-      "data_publicacao": "29/10/2026",
-      "data_iso": "2026-10-29T14:57:29+00:00"
     },
     {
       "titulo": "Bolsa perde \"uma Petrobras\" em valor de mercado em um único pregão - CNN Brasil",
@@ -130,6 +122,14 @@
       "data_iso": "2026-10-19T07:00:00+00:00"
     },
     {
+      "titulo": "BTG Pactual (BPAC11) desbanca Vale (VALE3) e entra no pódio das empresas mais valiosas da B3; confira o ranking - Money Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYndwQnN1QUhpam5lMU4wVFZqVVg1Y0tmVkVrSktfNENLZC1QYUJ3eWVoeVA2bGI2NWMyNEstSnZDMThJcDlZMjJJbWE0NENfSzJlM3E4Z29ocXVERmdpdGVEb2dSTkJjLTAzU3AyMXQxYnpxRjJId0N2Ylpyc2JfQXJLMExnMUtLSnVlN2tvZDVOY2pmQzdpdTNoSGxwYnl0UzF6XzkydmVibDVKS1N1cklNczUxQlZYZ1RYYXNGQjBKaERJQWZNOFB2VXIzR2xuNFNiMnhSTEtVQQ?oc=5",
+      "categoria": "Ações",
+      "fonte": "Money Times",
+      "data_publicacao": "14/10/2026",
+      "data_iso": "2026-10-14T07:00:00+00:00"
+    },
+    {
       "titulo": "USDA surpreende com estimativas maiores de milho e soja e derruba grãos em Chicago - BPMoney",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1VUVmd5NWx4RHVuM1NOejBwSk9uSDc2QWxHX2hEMzlubkt2ZlktaFE4dGZWS3ctc2JzQnRlMnBSMmZ6MUdoNVZ2Smt6dEpfM21tVnR6a0gwblM3ZVd0ckpHZEJNWnVtc1ktZHRnU200U3hHbFhqUmx1RjNWRWp5THRnQ0xpa3NBeHo0a2dlb1FnN1dPeFR1X2pR?oc=5",
       "categoria": "Commodities",
@@ -144,6 +144,14 @@
       "fonte": "BPMoney",
       "data_publicacao": "08/10/2026",
       "data_iso": "2026-10-08T07:00:00+00:00"
+    },
+    {
+      "titulo": "Ibovespa supera 200 mil pontos pela primeira vez após 1º turno das eleições - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdkgxRmZFMThQUmdmSjBOYlkwOW1INEw2RGd5M1Zuc1BSay1sRVVyR1phdkhvN0xKLXpQbkZtYW50YXl3YnhKeVNzNUgwY1RIZjJjb1JlREVkRkJRUTF4YWxOX2FuMzZlaERBQXo5WEFYUFZfVWVMUXB0QXd5ZWdkSTFFTFlBTjBUcXY5d1dZZWtienp0YWp0ajRvQWpsTjFoT3VWOEZrN0dLdDcxQ0IzTVZFSjlLNVBjbkxUT3o4ZktqeHIt?oc=5",
+      "categoria": "Ações",
+      "fonte": "UOL Economia",
+      "data_publicacao": "05/10/2026",
+      "data_iso": "2026-10-05T07:00:00+00:00"
     },
     {
       "titulo": "“Novo Mercado” dos FIIs? B3 revela o que vem sendo feito para melhorar governança - InfoMoney",
@@ -194,14 +202,6 @@
       "data_iso": "2026-07-10T07:00:00+00:00"
     },
     {
-      "titulo": "As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZGNuMUpKZ0VxYXpuSGFPaEoxN0RKX2JSUDJwSS1mdklpOHBrZnktQXA0SDBiU1pSVU8ydHZuSEh5Qk1NbkdyOUJOTUJmUXRaOGtVYlZrQWpaaTBIMEtnUHBGejdOYlNLbGZtRHNHRWFlNTNYbWpONW1HSDhzZVA1VTE5Z0QzdjRORmIwU0Y4TWNyYzQzWUxEMWtrWXhlRUZIVkNOeW5DV1BSVWwxTWc0MnRzMGxpR3o4Wll6SE01Vk9ndkVwWkZicjVZcXhFTUdnZUt4ci1WWWtveHpCc3ZHQk9sVUJwYlRzUTBnQWtzWWhqRmNpWUxN?oc=5",
-      "categoria": "Ações",
-      "fonte": "Bora Investir",
-      "data_publicacao": "03/07/2026",
-      "data_iso": "2026-07-03T07:00:00+00:00"
-    },
-    {
       "titulo": "Como usar ETFs na carteira? Conheça a variedade de fundos de índice disponíveis e veja como montar um portfólio só com eles - Seu Dinheiro",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORFV1Nml0VWNDYk4tQ0hKSkhYYmNLaXg1Z01jQ013S3QtS091SVpaS09rcTFjdlJ5STkxU1FOdWc3MU80UnJqTGFrcFQyNjlfYmNHTXViY0ZfS3FsNWVOak5DZC1rTEowS0ZyX3NpWGxHRjF6WmJaYlB2Mnl0eHRCd3lDdDQ0YXlIQnhVbnhaeXJrbEo5U0d3dVVRUV8tUFdnQmhGV2dKOEl6ampDMFRqbU9tclRJbWk1Qk9SLTNMcW1feUk1azBadmM5VzZkSm4zTGhiLXUwZ1d5SE1Mak9EelpwWk9zcmpOT3VfNnlGWkNreURZQkdGZVYtMzZhUQ?oc=5",
       "categoria": "Commodities",
@@ -242,18 +242,18 @@
       "data_iso": "2026-03-16T07:00:00+00:00"
     },
     {
-      "titulo": "Como a guerra do Irã pode impactar os preços e a economia do Brasil - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDNLZGU5Y1dhTkxiVUFMRGs2OWplREkta1hHdkFHYlFXM0Z6bnRMTVV1MUVMcjMyOXlsS0tiSHB6MUJsbjdhNXRkN1hZWXZXM1phZkh3cXVXeUw4ZlRVUDk1V0l1SmRyTWNkODZnUjc2ZVRGVDRPbWxnR3dFRDRwcDJGcVhSS3NNR1d1bUl4NXluOGc4ZWlnUFB2amhGU1lrRV9KdDQtcnI3RUJD?oc=5",
-      "categoria": "Commodities",
-      "fonte": "Bora Investir",
-      "data_publicacao": "03/03/2026",
-      "data_iso": "2026-03-03T08:00:00+00:00"
-    },
-    {
       "titulo": "Guerra no Oriente Médio aumenta busca de investidores por ativos seguros - UOL Economia",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMFNzbGxWbjV3UnQweFg5OHdVZ0kxb19DMWwwcHVYRWdLWFFWSkZoTl93Y18ybGYwR0g4ZVJiNkRtMHdHOVYtYmd3OExWaVBMdVlOckhfaVI4QmlBOGkycHIwM1I3cmROUjBYeHJvSGhaWWJQQzh3YkpJOW83SmhZN25TZlpDOUVIOXJKa25ZQ1BiNTZhOVZaU2psVURWdHVEVEU4X0prcmozLTVCa2t4dUhvdXZ6XzNjWEV0bnE2VkRBbVAzbzRCVQ?oc=5",
       "categoria": "Commodities",
       "fonte": "UOL Economia",
+      "data_publicacao": "03/03/2026",
+      "data_iso": "2026-03-03T08:00:00+00:00"
+    },
+    {
+      "titulo": "Como a guerra do Irã pode impactar os preços e a economia do Brasil - ISTOÉ DINHEIRO",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZdWl3SE01YVpQVld1eTg4eE9yQ2Q4VnFKOEtMNzM5Z1pqM2ozbkxsemRqZGdacVlnQlVISUp1dU9IWEpLRUFFOTBuaDZCYzRZdVNRTjJIOGswbWs0cnpNUnphdjFOWUkwZlVSVVVQbEY3QQ?oc=5",
+      "categoria": "Commodities",
+      "fonte": "ISTOÉ DINHEIRO",
       "data_publicacao": "03/03/2026",
       "data_iso": "2026-03-03T08:00:00+00:00"
     },
@@ -378,12 +378,12 @@
       "data_iso": "2016-08-30T23:42:51+00:00"
     },
     {
-      "titulo": "Dólar Comercial: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Rd0ZoR0dwUFFCTjdUZUk0NjMxNWQtSlhqSTRHeEdGaHFYSzd3YWJLMlNUR04tT180T3hsNnd6TUFOZ21pazZwTHVYeE0ySkh6LTN1RnRaRQ?oc=5",
+      "titulo": "Yuan: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6WU9vQ2JTa202WGVZMTVtQjdKMW9xVjh5cUZwZzBHSDRjeU5XRGZhYUphb29YQ045cER2bGtMb29mYVdWMlNVNEQwdTlHN3Vpa0F6eEhnN0dkVDFaQUhqY19mdEdKZw?oc=5",
       "categoria": "Câmbio",
       "fonte": "UOL Economia",
       "data_publicacao": "24/08/2016",
-      "data_iso": "2016-08-24T11:05:05+00:00"
+      "data_iso": "2016-08-24T11:03:29+00:00"
     },
     {
       "titulo": "Por que a China desvaloriza sua moeda? Há duas grandes razões - O GLOBO",
