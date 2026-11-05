@@ -1,22 +1,22 @@
 {
-  "coletado_em": "2026-11-05T02:30:21.748587+00:00",
+  "coletado_em": "2026-11-05T18:05:18.370046+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
-      "venda": 5.4778,
-      "data": "04/11/2026",
-      "data_iso": "2026-11-04",
-      "variacao_pct": -0.286,
+      "venda": 5.4621,
+      "data": "05/11/2026",
+      "data_iso": "2026-11-05",
+      "variacao_pct": -0.287,
       "fonte": "BCB / PTAX fechamento · venda",
       "url": "https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios",
       "preservado": false
     },
     "EUR": {
       "codigo": "EUR",
-      "venda": 6.1549,
-      "data": "04/11/2026",
-      "data_iso": "2026-11-04",
-      "variacao_pct": 0.08,
+      "venda": 6.1323,
+      "data": "05/11/2026",
+      "data_iso": "2026-11-05",
+      "variacao_pct": -0.367,
       "fonte": "BCB / PTAX fechamento · venda",
       "url": "https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios",
       "preservado": false
@@ -56,6 +56,14 @@
       "fonte": "InfoMoney",
       "data_publicacao": "25/09/2026",
       "data_iso": "2026-09-25T07:00:00+00:00"
+    },
+    {
+      "titulo": "Fundos imobiliários chegam a 3,3 milhões de investidores na B3 - Suno - Investimentos Inteligentes",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHNVbF9JcFVTVnBUU3A2ZVZQajI0QWFTc1pobEpwVTE1Skl4bTAtMHlZQmhvdDV0MU9XOTN1cnVHNFZXS19GSHFoVTJGd1JVN21OM3NraVlCN0dXSDJJOERYeUYtX280TUxXc0NHTmZxSktfbl9keVFwcGJ1YXQ4ckUxMU1TZU9UY0hLT3RNMHpCVDB3azRhUzRnSdIBuwNBVV95cUxQSWx4ODdZb1ZoSDBCTzhTeEllYnVhbjB5eE9seUFqR1ROaC1NZEl0V1JfZ2RZSndacHdlOS1aSEtWeU1uVUhESk13Z2NINXNrRGxCNWxFb1UtZmFLSlh6NzVkbUlhcW5jWDlfSF85SlVVanNUaURQVkwteVA1aG5xUDJIRldvbEZSNGNzQUpPSTh4ZzMyVnZqaXh3c3pMRE1lc0RYRlpXNUxXcjNHRVQtZmdSeXQtMl9xS3oyOVNKQ0dpc0xXa2tKVFUxazVNM1Azc1U2T1F6RDNHOE9ZN25zWEVKb0xaTlFkNEphek8wVC1GREhJb1NNMDREY3RxZVRQYkdPLXpLRnNsMDJZcmhEal9nUXR3WlFvX1lkdkJGN0xpNzJDMngyR0hYRWUzdVN1ZE9BN2FnV0RCVVQwbERuVlJsUUcwaXR3OGhzek42cmp3V05GMnFidFRmRHMwa2NrMlNOTmFHU0k0bVR3SkFEeUdqdmtmaHpUNFd6RTZqVTlpd0RIckFiOUZJQUd3N3RGUUNwT2xlMVNjYXhicUxwLW5LOHAyWkIzakNoLTJyb2xqM3NpZG5HdHZsYw?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Suno - Investimentos Inteligentes",
+      "data_publicacao": "18/09/2026",
+      "data_iso": "2026-09-18T07:00:00+00:00"
     },
     {
       "titulo": "Commodities caem em bloco nesta 5ª; petróleo desaba e pressão chega a grãos, café, açúcar e algodão - Notícias Agrícolas",
@@ -114,14 +122,6 @@
       "data_iso": "2026-07-03T07:00:00+00:00"
     },
     {
-      "titulo": "Investidores de FIIs estão repetindo um erro dos ciclos anteriores? - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTnpvRmZsbjl2b21LVjN4TXd5YmJBbkh5U0F1Y3llakZKcDNPQWctU0gwUWFxaHhVYm9GeVFxczhpMEx5V0g3c1kzVlFBZy1paUdHa3FBUFRWUWFXdFhLVHFIVXd0ekMyQm1IZms4bWxmWjdpM0k3ZVZocWtsLWJRNDdnWW1sNGlxT21FQWhsVjU2a2owX0lEaDBMNGNGTHZJMzQ0RUR4RFpsdEVEUlo3WHBlY1VKa1JXcEJWT01NWXJTWTFlTGdaOGxSWVJfVTdQc3VFdktReFFleE9PZVpOYlhVUHpuRkEteTFLTQ?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "01/07/2026",
-      "data_iso": "2026-07-01T07:00:00+00:00"
-    },
-    {
       "titulo": "Estas empresas abriram o caixa para comprar as próprias ações na B3 — e podem disparar mais de 60%, segundo o JP Morgan - Seu Dinheiro",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOM0xvZEhyYmpvVmEyV1BlNjUxZTNueXJQNUY4cjAzTlhUZml1cWI5dkU0UjE0N3FhVmdCWVN1Vkdua0lobWdHeVhjZTljYXNXMmJhMEVGVVlYTlRSMjlSbEJoS3N5UG1UTENCRjUxOGlQTWlfSU1iUVRyRU1xVm9XZ1FvQ3JBOTY0QzlqeVZObF8yVVl0Nm1HTllSS2lUWjNsNHd0akxhN3pHNlZGalZFU3hfYW1NVUZGNHBEeWtoblJaaExScnVyMzNtOVRHUmh0aU5POHU2V3R4MUlCMmdrYzZEQmhnc1BzSmdwRUNJOHlqV281bUVpNWFma0xRVEJJSzd4X0lB?oc=5",
       "categoria": "Ações",
@@ -178,14 +178,6 @@
       "data_iso": "2026-03-25T07:00:00+00:00"
     },
     {
-      "titulo": "Negociação diária de Fundos Imobiliários (FIIs) cresce 49,8% nos dois primeiros meses de 2026 - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLVdRYlQyVDJYLVQ5SjB2WUhFdTZzekVvSVBlaWpMbDVhYk14SlYzQkpxN09XNEtJdWpfQmRkYldueFFzWjh5aGRiSWhGZzRjOHpNVHZubG5RX205VkNFLXk4ZEJrWF8tUUhLbXI0UlpOTzY4T2RrUzdMY2hUbDI1U2VRU2pMbW1oNlEzUUkzR3F1VmRERXh3aFFERTVhYk1pN2pfSXUtV3ZGWVk0WXpPY1NpbVRqUjJ6NjIzVUJMQmdaQ2V0bzZfbjc2MnFnTTRWTzVzcVg1UVhrRTJwWVJnTVZuUnNlODNhZkV0UzZMTlI3UUh2cWxqSngxaHpxVUhUQU4yWFg2Zm83Y3c?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "17/03/2026",
-      "data_iso": "2026-03-17T07:00:00+00:00"
-    },
-    {
       "titulo": "Melhor Plataforma para Negociação de Commodities no Brasil em 2026: Top 7 Corretoras para Começar - Mitrade",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcV9KbEViVDIxS01iZzlIWHJ6UjJPbXhIV01RVG9BNFhwVVlZbEd6RW5SVGstUmNMdGNJNFVFXzMzaVhfTWNBWEZ1OG4xRmJOMmpNa1dBV3A3dHVrekxLcl9RRWJSSDhScVFqR2FJaGtYaFdFaGFEam9fd0xTOExwRlViRGN6Y2xHTmtQZ19SaFFzai1Ya0Y3SkFSSFBYdHFINUdF?oc=5",
       "categoria": "Commodities",
@@ -202,12 +194,12 @@
       "data_iso": "2026-03-03T08:00:00+00:00"
     },
     {
-      "titulo": "Irã é principal comprador de milho brasileiro; Como conflito impacta commodities? - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEExbV9NSlc2NVBOeC1xMzF5Z0F5S2lWOTN2MzB6TzQwZ00tM0tTTnpHNUZmdWM4b3JKOEIxVG5FczNtUnVXRmhuek5BeWJEQU9pTDFGRnJ0WnF3dmRGaTZiQ2ZlRzdHakROMHo3dzd0WnM4eV9uU0VRZ1JvZkZEX2tEalEwQnltZ01FM1pyUEtXeGU4Nkg0X0sxaG5Yc2lnNGhfenhfV2xZSDA1RjExSENtMEhQREZsMVHSAb8BQVVfeXFMTzBPSk5LQl9zSmVLVlozaTA2aXVCX3RBZDF4YkEtMEZDekVZclI5SmppbDZ0RUhaUmdocDlJZ2JYNE1mdlNjQmNtSTBTV0IzMVd6dUQyWVN5ZHVyZnJBRS01YkN3cEk4dXdTODhlUThMRjNDX2FpSm42cjduRDhjVlJBLXZoaC1hdzQ4bUlhTG5GY0hpcFJoS1ZCQTNRN1ZROTBCeDJTdFJPeVpVV01fTlFhTXlKUHJPVS1aRzdHNzg?oc=5",
+      "titulo": "Como commodities agrícolas são afetadas pela escalada do conflito no Oriente Médio? - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOEpibFd2WHBuMTZoMDdFb1ByS3FjV2pGQWxCbXFZRnRucUwxdG1rbmxrdjVLbVhrSFFzeV8wNGJadmRxTjJ6WVpEU2lnUWkyUnB5VGc0WGdOd3lTR0RNV29wSkFIWW5iYThVMFBXWWlHanp0ekM4bk9TOFQ2dndWVnR5WW1rMTVELUM2eWNaM3FEbVRvMkRjUU5IRFdGc3BPLUZ6Qm4zanM3QXpvbTZjREtyQmpyRDhMQW9RYTJR0gHDAUFVX3lxTE53TVVqSnVDV3daYTRINTJ5RlFxcEJZM1Mwc3AyZkwxTlNVQzR6dzQwSU5GX3k2X0JnVFFNLWtiX21Ua21icG1XcTA2SE1oT2IwbEMyV1RheE5famd3V3Fmam1rR3BDSWZSZ1loTVpzZjB6T3dPakY0YzdTaEtHR3dBaFdseTY3SnZHdTJZaGQ2NXY4UzEtdmo3R0tCeFJEejNBSjFMUFZWRmY5V0tKQjZGMFczR0xndzlON2N6VWpuYkRkZw?oc=5",
       "categoria": "Commodities",
       "fonte": "InfoMoney",
-      "data_publicacao": "03/03/2026",
-      "data_iso": "2026-03-03T08:00:00+00:00"
+      "data_publicacao": "02/03/2026",
+      "data_iso": "2026-03-02T08:00:00+00:00"
     },
     {
       "titulo": "FIIs de papel dominam lista dos que mais se valorizaram em 2026 até agora. Veja os top 10 retornos - Bora Investir",
@@ -256,6 +248,14 @@
       "fonte": "Bora Investir",
       "data_publicacao": "28/01/2026",
       "data_iso": "2026-01-28T08:00:00+00:00"
+    },
+    {
+      "titulo": "Mercado de fundos imobiliários (FIIs) atinge marca de 2,96 milhões de investidores em 2025 - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUEdtTHBhcmZyWERVRUNMTEtid3FhdndzZDNjQi1DU2pBRkhYMFBiTlFKNmgyM2JVS0JSNDNhLVk4cU9vdWdOcWJvUGNncXRDSUpsR2d6ZDV6c0xOdENUVl9CSDJxb1ZCdzROZjgwbGl1RzNxMHFIRm5uUHZOeVBMSzdoTzViTGk0TkNPQ2RTUXRnRHhDZ1N4TWVaeklwcTlJaGNRRklxNEQ5Q2UySEs3TWdMc3VmaHprRXhjZDhLVl9VQzV4R3ZWSlNHaWxCTFY3MjBsOFVTVFhQTzRlcmRXYi1sd1R2M0dVNTN0NFozQVo5TmF3aGFjb2plaC1OOVBuOVpRRzBacVU?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "21/01/2026",
+      "data_iso": "2026-01-21T08:00:00+00:00"
     },
     {
       "titulo": "B3 divulga ranking de fundos imobiliários mais negociados em 2025 - Fiis",
