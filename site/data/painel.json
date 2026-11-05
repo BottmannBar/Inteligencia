@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-05T06:45:53.537259+00:00",
+  "coletado_em": "2026-11-05T19:56:26.557257+00:00",
   "populacao": {
     "fonte": "IBGE Cidades e Estados — referência oficial 2026 (API indisponível)",
     "url": "https://www.ibge.gov.br/cidades-e-estados/",
@@ -24,14 +24,6 @@
       "data_publicacao": "03/11/2026",
       "data_iso": "2026-11-03T13:20:00+00:00",
       "categoria": "Supermercados"
-    },
-    {
-      "titulo": "CG Tech Day: especialistas abordam IA e mercado de trabalho em tecnologia – CGNotícias - Prefeitura de Campo Grande",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWxmQTdVTVgwcUI5bVdPNzBSelozSHBRbHY3NGFlZVRFSXlBME02WVhfVTA1SG5uSk5nNGQwYTNWRThwem9ONzYwbWxzcjUzQTNoZm5USkMyQS0zV2h5VFRlb0Z2SVNnQ1lIdW1BSUFKaVdvdTJ5Y2FtdkhUN0FvZ0JobzV0Z0JNcGx3Z1ZScndhQjFmQVpMYWwtS1RrckNmNFVFWDdfZER4b2JhdDZoNDBpNXlZY0k3cy0zQmZXZUxHa2hS?oc=5",
-      "fonte": "Prefeitura de Campo Grande",
-      "data_publicacao": "02/11/2026",
-      "data_iso": "2026-11-02T12:14:00+00:00",
-      "categoria": "Tecnologia"
     },
     {
       "titulo": "Varejo de alimentos sobe 6,5%, e associação de supermercados vê impacto da proibição das bets - Folha de S.Paulo",
@@ -418,6 +410,14 @@
       "categoria": "Papelaria"
     },
     {
+      "titulo": "Varejo do RN cresce pelo 14º mês consecutivo, impulsionado por farmácias, cosméticos, móveis e eletrodomésticos - Fecomércio RN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkd1Z0kxR1pjaW5uNmswVGZYRTZYUlJyT0Y3NDhxanIzR0VRYmNLSmp2S1lNSlR5RTFWbXFJdUs0Y3pZMmJqdjdaZ2xvMFhSVm9DVmpzX3liTHFOTUdGRmF5RFVoc0VVMTJtb0x1U21EWHFQNmR0YkJqZzBNcVpVd2FBNWhZUEl4djN1YmNJVmd2VU9odU10anlSN3BoZVo0VFBvNk5qM0Y5TlFxTU42YmJZUTRuUnlpODVTd3FyZjNidE5zSFF5QnBtcGs3STh0Y1F0cFZidFQyMVRTRUlj?oc=5",
+      "fonte": "Fecomércio RN",
+      "data_publicacao": "20/07/2026",
+      "data_iso": "2026-07-20T07:00:00+00:00",
+      "categoria": "Eletrodomésticos"
+    },
+    {
       "titulo": "Inflação de alimentos pesa e compromete desempenho de vendas do varejo em maio - Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGhVZWgyNThkRm9CRzBkclpQYzdqS0xTbmhSZEN3bmdFMFQtNFZzd0lJUXZuY2o2NXZVb1Z2dkhIR1k4VlBpcXYwV1owdUk0MHNGV0NsUVFFU0d6YzJscThfU2JsSmo1ZUNCNzlDYW1nelJvTUpxNEl0OXNzZzRFOUxsQllBelF5bUNjbXRFX0NQX3FSX1J1TGUyUTEwOHh5NklTT3RTM2VIdmNPS3EtTUl3N3BSS0VCeVpNYzJPeVRaZ1BtbDRuVDI2OTZCblnSAd4BQVVfeXFMTl8tMG9PelJRdkd1M3BLQnRZSU90azYtT0N6eEhPN1dLWTRCWE83TW12Q3pmdW1Pd3JkdWJ0WjVCUDZzTXJmd2d4THhPc3BiUnJtcUtZQlN0VzI3OGprcEptR28xWHFzeEZsYXBRWVRuTTNGdUNxeHNnZ2lpYzY3VXcwUXJtWURyc2FTUlRfRFNrWEFqa285M2stVE5lWFVaRlQzdkVCNWFEcHdRZUxhcDdiRGlqbkthQ3FYNW00UXpIVXZ5S2JzWE9QcVNCdTJRdDF5MktOdE8xaGtmanNn?oc=5",
       "fonte": "Valor Econômico",
@@ -447,7 +447,7 @@
       "fonte": "E-Commerce Brasil",
       "data_publicacao": "14/07/2026",
       "data_iso": "2026-07-14T07:00:00+00:00",
-      "categoria": "Eletrodomésticos"
+      "categoria": "Construção"
     },
     {
       "titulo": "Realme lança dois novos celulares na sua loja oficial no Mercado Livre - Mundo Conectado",
@@ -626,6 +626,22 @@
       "categoria": "Moda"
     },
     {
+      "titulo": "Dia de Campo de Verão 2026 reúne tecnologia, mercado e inovação - O Presente Rural",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaV9ZQzV6QWZickxUSHVqcTdvVmhFVXhsc1c2N1FqMmFBMTVVb1h1ODJxRHpqTTVaZDdpZnZRSUkzQjdiX1lPTVpVV0FhalRSYTF2UUgxSjVHSWEyemdYdVhRbVRiWkE0ZGNZYXFIX0d0dFAzMU9MV1JBTm1IckQ1MV9BOGhfVUJmTG9CVFI3R0xQRnhvYlJLeg?oc=5",
+      "fonte": "O Presente Rural",
+      "data_publicacao": "23/02/2026",
+      "data_iso": "2026-02-23T08:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Varejo físico cresce em 2025, impulsionado por construção e combustíveis - Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZy1IRFhxZ19WSlk0cTJNd0w5ejloamlwaHVFOTZVMjJVejhyTllSM0ttS0Frd0hwMzBZdDZhaWlZX3gwOHRZWml1WW4xUHl5WnIza2RHRWdwWC10ai1WN01zMlRrelEyem5uWXAxV2x4MVQtUzJVUlhwMTQzOUNiNnNOOFB5ZHFRSXpZc0JlRm9BNUxyR09NeEJOWnpqUFY1UkQyQmNhYXgtbUhVRTdaWjBhLXlWd0haUm5aLVBseFl0M0RV?oc=5",
+      "fonte": "Times Brasil | CNBC",
+      "data_publicacao": "26/01/2026",
+      "data_iso": "2026-01-26T08:00:00+00:00",
+      "categoria": "Construção"
+    },
+    {
       "titulo": "Vendas do varejo de alimentos seguem fracas apesar do recuo da inflação - Economic News Brasil",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOREtfMXZ0Y2Z6RkFDNkhZSE9zM0pCNG5ZWDBWaDAyM0lOTE9XVFlGMWhIM2RNV1VJZkRNVjR1YThGNlFaR0NHUDBiMHFCc3RMbXRBcENZTFV6U05hVFM0SXkwUVBZTy0wNHpobUE0X2kwVGVpQ2dtVXJXcm5IektfclNXX3Z3a29SMnZKNHNpV2lFelE?oc=5",
       "fonte": "Economic News Brasil",
@@ -680,6 +696,14 @@
       "data_publicacao": "15/11/2025",
       "data_iso": "2025-11-15T08:00:00+00:00",
       "categoria": "Moda"
+    },
+    {
+      "titulo": "E-commerce de PMEs cresce no interior do Brasil, revela Loggi - E-Commerce Brasil",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSkluejNNbVR5MDFmSVFKVHNGYkdGOXBDQzdDb1JWdkdoZ0ZyMVJJcC1kTTJpRVdyd1VOLXpSdjRYS2hMOHpKaWZacXJiMGN5SVdTOTZyMmt5QmRBdGtiUXRjdEZnX3cxajBWa0N5c0NfWEVfNnl0MHRKeC1QdlZEMzFXaTQ3M00zenJHcFVGOXFmZE9jWEZTQUFrUnE5WW12S3lEdXRXcw?oc=5",
+      "fonte": "E-Commerce Brasil",
+      "data_publicacao": "30/10/2025",
+      "data_iso": "2025-10-30T07:00:00+00:00",
+      "categoria": "Papelaria"
     },
     {
       "titulo": "Setor de moda cresce mais que o varejo em 2025 - GBLJeans",
@@ -791,14 +815,6 @@
       "fonte": "PublishNews",
       "data_publicacao": "11/02/2021",
       "data_iso": "2021-02-11T08:00:00+00:00",
-      "categoria": "Papelaria"
-    },
-    {
-      "titulo": "Segundo IBGE, setor de ‘Livros, Jornais, Revistas e Papelaria’ caiu 15,7% em setembro - PublishNews",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmY1N0xULTZrUkxkQzA5dDZmYkFUWlMybjRVOFRELUtxcXVmdGJLdlJ6Um12VEZfS0ZaZ09sN0U3ZUVxWk04eWFRaGR4V1RkYjNELUItT2hmSHlzdlBGdHRGQVVSMDNKOFpKUTdTQzBFcDU4cWdVeDBBM21pWllQU0lKN2RwdThmWUMxTHQzZ2ZoYWpwM2tJTkZrUUtqTTBwMy1aanFqQy1UdlV3YWVCU1QwTU5xbkVkVURUSVY0N2ppTmlnYWZkTmZn?oc=5",
-      "fonte": "PublishNews",
-      "data_publicacao": "13/11/2019",
-      "data_iso": "2019-11-13T08:00:00+00:00",
       "categoria": "Papelaria"
     }
   ],
