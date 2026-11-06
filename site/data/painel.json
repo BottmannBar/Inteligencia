@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-06T06:44:19.810368+00:00",
+  "coletado_em": "2026-11-06T19:24:00.331199+00:00",
   "populacao": {
     "fonte": "IBGE Cidades e Estados — referência oficial 2026 (API indisponível)",
     "url": "https://www.ibge.gov.br/cidades-e-estados/",
@@ -26,11 +26,19 @@
       "categoria": "Supermercados"
     },
     {
-      "titulo": "Varejo de alimentos sobe 6,5%, e associação de supermercados vê impacto da proibição das bets - Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVHVxd01LZFZ0dGdELUs5NGU4SnN1SXhzM3VZNUtCczN3elRUdXkwZmlyS014Z0V4MS1uZ0F6Zzc2blVVOFJkUTZKQmNGQVNSejlOMFFlcGE2NjF3QWhhTkdLV0Uxbl9pWjhQMnUtYkoyWjJUZjhiTkZYVTJXdXFrSDd6dWo4UjdkbEN2RWMxaEhHU3VIdGJfN2Y1ZkNUdjY2bHpRQzlNMDZ1RHNuTUNKdTlBZVNQaWx1cndLeG5FLUUyVXMzTWR4akNUVTNTXzZaMVQzS2E1YVlldw?oc=5",
-      "fonte": "Folha de S.Paulo",
+      "titulo": "CG Tech Day: especialistas abordam IA e mercado de trabalho em tecnologia – CGNotícias - Prefeitura de Campo Grande",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWxmQTdVTVgwcUI5bVdPNzBSelozSHBRbHY3NGFlZVRFSXlBME02WVhfVTA1SG5uSk5nNGQwYTNWRThwem9ONzYwbWxzcjUzQTNoZm5USkMyQS0zV2h5VFRlb0Z2SVNnQ1lIdW1BSUFKaVdvdTJ5Y2FtdkhUN0FvZ0JobzV0Z0JNcGx3Z1ZScndhQjFmQVpMYWwtS1RrckNmNFVFWDdfZER4b2JhdDZoNDBpNXlZY0k3cy0zQmZXZUxHa2hS?oc=5",
+      "fonte": "Prefeitura de Campo Grande",
+      "data_publicacao": "02/11/2026",
+      "data_iso": "2026-11-02T12:14:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Varejo de alimentos sobe 6,5%, e associação de supermercados vê impacto da proibição das bets - Jornal de Brasília",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSVlUTjl3T0xYTU90ZkZIcXJjM1ZhVHNGb1FMeG5NX0sxWDFXZ1pYbS1zTGpzRVQ3MUpUZGdfeklYbXJfNl91VXJnQjFNaDcwM1l0c2o1WUd3ejloczdFNFVwckR3REJabGg0WVN3dHpyRERQNWlWLUduV1Y4NFRyMW03akRBSEw0dFZ4dV81QWdaSHFoZWxWb01SQ0lBS2N2TGlrUURaSGdXU0RNbE1zc0kxTFFDZzhfQUlBSUhxbGtzQ1hscUFXS3UxN0dxNUtFcTVmRjVadkE?oc=5",
+      "fonte": "Jornal de Brasília",
       "data_publicacao": "30/10/2026",
-      "data_iso": "2026-10-30T20:08:00+00:00",
+      "data_iso": "2026-10-30T20:21:29+00:00",
       "categoria": "Supermercados"
     },
     {
@@ -62,7 +70,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNzFqMV9mXzM3Y2Z3TmFCaGQ1b1VIUk0xSWdINTVzMTNCLUtNbGdINUNQYUx5UDRwLVlEcXdobnBESTk0c2VpSGlaQjRfUFJsYjA0eDRoWFdEeWVyaGRnTkZKbC1MbzdkdnItdTktTWdoQjNNRlg2bERLeVRnaUk4b3lRVUxuNEpvWE5sS0ZXLURhRWhtbk5lcGdxTWNPeHlic1N4cXg2Z0xHN0lseDZwa1ZBRnp3WEJCcHcxNHlESUJqTmRQUHc?oc=5",
       "fonte": "Agência Brasil",
       "data_publicacao": "28/10/2026",
-      "data_iso": "2026-10-28T18:11:00+00:00",
+      "data_iso": "2026-10-28T07:00:00+00:00",
       "categoria": "Supermercados"
     },
     {
@@ -80,6 +88,14 @@
       "data_publicacao": "18/10/2026",
       "data_iso": "2026-10-18T07:00:00+00:00",
       "categoria": "Combustíveis"
+    },
+    {
+      "titulo": "Galaxy A58 vazou, RedMagic 12 Pro Plus chegou e novos celulares no BR | Plantão TC - TudoCelular.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkFESkdSZUpXTENGWjhGZnlkRmRaWEV0bm02VGY1X0dkWHZyYk02RFdQUk9MRzlzYllkY0ZRWXJ3LVJXZ2Z5VVloUUp6aXRDQmRUbUhDTTNKUjZBWU1jbTJjTGVGX20xN3pzbXktVExJX1FTaUhBc2FDVy1Fc01VbXA2SEVscEdJODlUUkRza1VHdWZSQV92eG40MHdvVVU?oc=5",
+      "fonte": "TudoCelular.com",
+      "data_publicacao": "15/10/2026",
+      "data_iso": "2026-10-15T07:00:00+00:00",
+      "categoria": "Celulares"
     },
     {
       "titulo": "Brasil: Varejo cresce apenas 0,1% em agosto e vendas de móveis e eletrodomésticos despencam - ADVFN",
@@ -162,6 +178,14 @@
       "categoria": "Celulares"
     },
     {
+      "titulo": "Confira dez novidades dos novos celulares que chegam ao mercado - Extra online",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMVJfQUpMQ3hueUN6VHNVb1pNUHo1aWVQNlprU3JndW8wbDV6QUVvcjZld1oxdzB1U0VnOGFZbEtFRThWTUNHNDdBQnJRbGxFRUpDbFZRc1lNRlM3NWgxSUFHNW9pQmdyT1FGUE5oTllsTjg5c3ZESGlzRGxZZE5yUjFaTTBDTmxBcTNUZW01R05nQkNMNXJXNF9BUTVVZ0xtbGEwOVc5TzB0MXgwY3FjbGxjSGZYZVhSMWVVRDR2WFloWk1RSUtNYdIB1wFBVV95cUxQenBfREJxR0JWWkNIOVVPRWs0amVwendNM1d2VGlTTGlIUEF4M29UMWE5SFNjQXlsNkR1WWtfYnMxRmdtSUthcnJVQ2R1MGcycWQyYUVHZXRUZ0ZqTHd0bDU1ZFQ5bUFrNi00UmE2WnJuSHJRNTVSeFVaVDJOSHhWY0pmZDBEdWpiMXdpdXYtcTlncGh0VjRURUFEcUxEbFU2c185RE5lVFB5RXlwOG1mdDhIZ1JWenFBLWN1eXVUckxrT0tZSVpER3dQOTVRekR4TXdkaG5uRQ?oc=5",
+      "fonte": "Extra online",
+      "data_publicacao": "23/09/2026",
+      "data_iso": "2026-09-23T07:00:00+00:00",
+      "categoria": "Celulares"
+    },
+    {
       "titulo": "Varejo ampliado deve crescer 1,5% em setembro, aponta IBEVAR-FIA - E-Commerce Brasil",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3c0dl9pWG9uY2ZxYlZtSEdjWXhCTWFxTjNfRHc3Tzk4Njl1dlREdkJJTEZHMC03M3ZQQzFNLWZXVWVVR0VjVk00VDBQdUlaQUZqSnlUY1Y4cl9nR3YzaXBVM3MyWUpFSjVacGNzZU1veHV1TFJNaFFtOGJNcWtoX2xodk51c1pmUFV4d0NzZ1hJRE5Iemc?oc=5",
       "fonte": "E-Commerce Brasil",
@@ -234,6 +258,14 @@
       "categoria": "Construção"
     },
     {
+      "titulo": "Ranking das 37 maiores do varejo de moda em 2025 - GBLJeans",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFlkNFpxWlQzVWphenlrRWVFbnkxS3k4bHQxRUxJR3lpUnhObUp6Nkg2TVVOV0pRV1BfNVVrcllTbVMwWWg1UG1WOEVDQmhBVG9NeFNTWXQ1TE5URXFaWEs2cGRqZXF1djFKdWZJOHNYMlM2Q29UWjRBU2J0QzJCeGNQcnBOMndDWktBWVVhbkVqQQ?oc=5",
+      "fonte": "GBLJeans",
+      "data_publicacao": "01/09/2026",
+      "data_iso": "2026-09-01T07:00:00+00:00",
+      "categoria": "Moda"
+    },
+    {
       "titulo": "Redes de farmácias criam ecossistema para impulsionar K-Beauty no Brasil - Abradilan",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnZ0YThUUEl1bjZDRzZDc1lUQ1o1eEpOcnVuRmNNMmt6bUg1ZmxOaDhFVEFwdzhodVFWaDZ4THgtRzZNNEVNNTJIV09UQlJHemFzVU1KTzBjSVZqSkhSaTA2VjJxVjRMeWdUQ2tUTXIwekNVR0I3WGxLaWtnRHcyWEZRclJaUTlod2lvWlFhYkVVanBDY0pPWjlaMk9JZzI4TWt6bmxaSEpYUQ?oc=5",
       "fonte": "Abradilan",
@@ -304,6 +336,14 @@
       "data_publicacao": "11/08/2026",
       "data_iso": "2026-08-11T07:00:00+00:00",
       "categoria": "Construção"
+    },
+    {
+      "titulo": "Podcast Motor1 #326: como a tecnologia está mudando o mercado de autopeças no Brasil - Motor1.com Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdmhYOS1RX2x1YXpoRmwzU2pmcUVaVWNoWnJPWFg3eV9JLW83dGZQQWd4YlNQUmZ0NEpkMlVTRzZvMHVzSlFyYnFrdG5HajJ1d3NzMXg4eDFFV1JnNFpac3hIa1dqZmxVM1dnZ1F3RjR4SktVcGI2VEdJTl9xSHZ3S0lDUC1OeEotMnc?oc=5",
+      "fonte": "Motor1.com Brasil",
+      "data_publicacao": "07/08/2026",
+      "data_iso": "2026-08-07T07:00:00+00:00",
+      "categoria": "Automotivo"
     },
     {
       "titulo": "Efeito Lula: Brasil volta a vender mais livros e mercado editorial registra crescimento em 2026 - Revista Fórum",
@@ -394,14 +434,6 @@
       "categoria": "Papelaria"
     },
     {
-      "titulo": "Varejo do RN cresce pelo 14º mês consecutivo, impulsionado por farmácias, cosméticos, móveis e eletrodomésticos - Fecomércio RN",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkd1Z0kxR1pjaW5uNmswVGZYRTZYUlJyT0Y3NDhxanIzR0VRYmNLSmp2S1lNSlR5RTFWbXFJdUs0Y3pZMmJqdjdaZ2xvMFhSVm9DVmpzX3liTHFOTUdGRmF5RFVoc0VVMTJtb0x1U21EWHFQNmR0YkJqZzBNcVpVd2FBNWhZUEl4djN1YmNJVmd2VU9odU10anlSN3BoZVo0VFBvNk5qM0Y5TlFxTU42YmJZUTRuUnlpODVTd3FyZjNidE5zSFF5QnBtcGs3STh0Y1F0cFZidFQyMVRTRUlj?oc=5",
-      "fonte": "Fecomércio RN",
-      "data_publicacao": "20/07/2026",
-      "data_iso": "2026-07-20T07:00:00+00:00",
-      "categoria": "Eletrodomésticos"
-    },
-    {
       "titulo": "Inflação de alimentos pesa e compromete desempenho de vendas do varejo em maio - Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGhVZWgyNThkRm9CRzBkclpQYzdqS0xTbmhSZEN3bmdFMFQtNFZzd0lJUXZuY2o2NXZVb1Z2dkhIR1k4VlBpcXYwV1owdUk0MHNGV0NsUVFFU0d6YzJscThfU2JsSmo1ZUNCNzlDYW1nelJvTUpxNEl0OXNzZzRFOUxsQllBelF5bUNjbXRFX0NQX3FSX1J1TGUyUTEwOHh5NklTT3RTM2VIdmNPS3EtTUl3N3BSS0VCeVpNYzJPeVRaZ1BtbDRuVDI2OTZCblnSAd4BQVVfeXFMTl8tMG9PelJRdkd1M3BLQnRZSU90azYtT0N6eEhPN1dLWTRCWE83TW12Q3pmdW1Pd3JkdWJ0WjVCUDZzTXJmd2d4THhPc3BiUnJtcUtZQlN0VzI3OGprcEptR28xWHFzeEZsYXBRWVRuTTNGdUNxeHNnZ2lpYzY3VXcwUXJtWURyc2FTUlRfRFNrWEFqa285M2stVE5lWFVaRlQzdkVCNWFEcHdRZUxhcDdiRGlqbkthQ3FYNW00UXpIVXZ5S2JzWE9QcVNCdTJRdDF5MktOdE8xaGtmanNn?oc=5",
       "fonte": "Valor Econômico",
@@ -432,6 +464,14 @@
       "data_publicacao": "14/07/2026",
       "data_iso": "2026-07-14T07:00:00+00:00",
       "categoria": "Eletrodomésticos"
+    },
+    {
+      "titulo": "Puxada por moda e calçados, confiança do comércio volta a crescer em junho - DComercio",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXktdXZIZmotajEwbFlVVWcyaDJqMldYWUtYNkc3SnRLNUxzaFhCY0tPbl9Cd2picm9EYk5wVjRNbXFJbmRjMVlmaHJwcEFKRkluZG4ta194RVFIeVJVcFByUTRYaDhRNmFhXzU2ZXBqTkhJUFNzZDhFcFgwNEd0RDhwdXJKcTBPVmFHdlQtRjlldmd0a1YzeXduY24zLUF4Rm1BVEJKbEhsSmRDNnpNVQ?oc=5",
+      "fonte": "DComercio",
+      "data_publicacao": "30/06/2026",
+      "data_iso": "2026-06-30T07:00:00+00:00",
+      "categoria": "Moda"
     },
     {
       "titulo": "Realme lança dois novos celulares na sua loja oficial no Mercado Livre - Mundo Conectado",
@@ -466,28 +506,12 @@
       "categoria": "Construção"
     },
     {
-      "titulo": "Brasileiros abandonam celulares novos e impulsionam mercado de usados - band.com.br",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2p5bTV4WHhwb2kxd2FMcllBTjQteUE3bHBRdVZOTV9FeHF2MXVXVTRtaERZbzhDVFJncWdjVnU2LUhUemZYdGpMVkJ0SzJpdnZ3ejZ5Vmhtb2NSTWRTOTA1Y0ZEX1JfV2pLSGg0X3M0YnBaSXN5T3laQW5vcUVSUFRKbnZsd1l1N29odU40YnlTUWNzTFViOVdkUHBJdmVwSEh1Vg?oc=5",
-      "fonte": "band.com.br",
-      "data_publicacao": "08/06/2026",
-      "data_iso": "2026-06-08T07:00:00+00:00",
-      "categoria": "Celulares"
-    },
-    {
       "titulo": "5 novidades no mercado de celulares que você precisa conhecer - CartaCapital",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNElGbGQxbHU5UE5QdmNfLV9uaDNWZUpEaDhPTVFuQ0xPbE9ZLWhhRUp4Mm9oVjNYaFJEaW5YZXctbE1wcVJpUjJOSmtfQ2FheV96aUstZmlwS2daYUkwNGM4Wk5lSTZTSVA3NDFRdElXaVhKTmFnSjJWNVRqemdrdVJDUDIyT2Ztdk82aUphNHFHckxUcDhYbHRDTzMzT1kxSXQySDFn?oc=5",
       "fonte": "CartaCapital",
       "data_publicacao": "25/05/2026",
       "data_iso": "2026-05-25T07:00:00+00:00",
       "categoria": "Celulares"
-    },
-    {
-      "titulo": "Salão de Pequim: 7 tendências que vão transformar o mercado automotivo brasileiro - Seu Dinheiro",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb2xXSUZKM0ZhVUlaVGswNk5PVVFzeHdkUTNYVlY4UEtpV2hyVG92NWhZaGR0c2lHNGpGbjB6SUZ5MVZoMEdObFJtdWNsVFJHVzJ3VktiN3EwaUg5bFhzX0JCa2JtNmJIZ05FNzJyNjBOQ1NNSnpfakVENS15VldkRHNKMUotbHZhSmNOOXpKMFVIZ0N1cHpzRGxLN2NyclQ5YUxYMTN0N2QzSG5SSmVVMzVKY3U1UFM1SHBBbWN3cWIxVG80RjdpYQ?oc=5",
-      "fonte": "Seu Dinheiro",
-      "data_publicacao": "21/05/2026",
-      "data_iso": "2026-05-21T07:00:00+00:00",
-      "categoria": "Automotivo"
     },
     {
       "titulo": "Os mecanismos de defesa do mercado de combustíveis - JOTA Info",
@@ -520,6 +544,14 @@
       "data_publicacao": "11/05/2026",
       "data_iso": "2026-05-11T07:00:00+00:00",
       "categoria": "Construção"
+    },
+    {
+      "titulo": "Dia das Mães deve movimentar 37,91 bilhões de reais no varejo; 78% dos consumidores pretendem presentear, mostra pesquisa CNDL/SPC Brasil - Confederação Nacional de Dirigentes Lojistas",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPM3B0THdXVTdlTFhURWN4YTd1VldjdENHUXRkY04zUkVtU0pzOVZacm1hdzJuR0JtYl9BSFRBRUZJM1V4T0djei0zVHlKVks2MG1DRGFiVHFia3FBb2V5aHh0NHlZOUF3YWN6WFVjS0toWk5DLXF3MFI2Yk92OW5PSWVqS0MtdlhPdS12UzdZaHJ5a1NvenYydUNGSmgzVUZnbDRNaFE0T2FGWnB6TkxvdVN6VktkTUdsUnlmWVVLdlZiR3MxNjZaTTQ1akpHQVJHamNoSF9lRTF1R3R4Rjk5SWZqUFVBaUw0T2hFaHFraWplTHIxaUE?oc=5",
+      "fonte": "Confederação Nacional de Dirigentes Lojistas",
+      "data_publicacao": "30/04/2026",
+      "data_iso": "2026-04-30T11:33:19+00:00",
+      "categoria": "Moda"
     },
     {
       "titulo": "Distribuidoras ganham margem no mercado de combustíveis - Safra",
@@ -578,14 +610,6 @@
       "categoria": "Farmácia"
     },
     {
-      "titulo": "S26 Ultra, Signature e Find X9: novos celulares elevam o mercado brasileiro - UOL",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSUk2NURTSC1KMzlPQU5VTjR6bDB6TjNLdGVhdjJQZllEc24zUDdmZ0tyZ01pQmRLZ0JDV3lZczhNd0hwQlQxSnpURmhpbFZfTUtFcjFvLWxuMXF4MjFsM09peTg1R1pnM2t3cTF4TkJIemhhQnhXVlZzV1B1WVM0UDdxZWRQbGU1Sl9oUXRRcTIyU3pCZXVSanptQjJvbGZkcmxnYVZoUjRnT1d5NmN5UnJDdXJCRVAwS2EteGJtRElmcWZsb1VJbWdkT3hkMDdjTEJtYnpubjVWQlk4?oc=5",
-      "fonte": "UOL",
-      "data_publicacao": "19/03/2026",
-      "data_iso": "2026-03-19T07:00:00+00:00",
-      "categoria": "Celulares"
-    },
-    {
       "titulo": "Reajuste do diesel mostra limitações do mercado no Brasil, diz FUP - Agência Brasil",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUG5XTlVmT1VTLVUzZDJfX3RTZjk2Z0hrU21wc0UybzIwWHdRalFNVnFoRUoxQU5JNDBQbmRRaWs1R0VRM1ktaHNKS3llRnRTWUVnVl9nVVF3M0oyZy1mVURoSUlMekIwVEpURU9raHlGYmZVZDB0WFFEMk16OG9VeDNiSjhzbXdvNGtVanlZc1VaLWE3bHFPOUJYeU5fdTBScUNLNzRqZWhQbGh2Z3dOMl9Ic1F1SG1sYmN1dlFNUFk?oc=5",
       "fonte": "Agência Brasil",
@@ -624,14 +648,6 @@
       "data_publicacao": "24/02/2026",
       "data_iso": "2026-02-24T08:00:00+00:00",
       "categoria": "Moda"
-    },
-    {
-      "titulo": "Dia de Campo de Verão 2026 reúne tecnologia, mercado e inovação - O Presente Rural",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaV9ZQzV6QWZickxUSHVqcTdvVmhFVXhsc1c2N1FqMmFBMTVVb1h1ODJxRHpqTTVaZDdpZnZRSUkzQjdiX1lPTVpVV0FhalRSYTF2UUgxSjVHSWEyemdYdVhRbVRiWkE0ZGNZYXFIX0d0dFAzMU9MV1JBTm1IckQ1MV9BOGhfVUJmTG9CVFI3R0xQRnhvYlJLeg?oc=5",
-      "fonte": "O Presente Rural",
-      "data_publicacao": "23/02/2026",
-      "data_iso": "2026-02-23T08:00:00+00:00",
-      "categoria": "Tecnologia"
     },
     {
       "titulo": "Varejo físico cresce em 2025, impulsionado por construção e combustíveis - Times Brasil | CNBC",
@@ -674,6 +690,14 @@
       "categoria": "Moda"
     },
     {
+      "titulo": "Material de construção: pressão e transformação - Mercado&Consumo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnlIc0ZnM0hYS3pRZHFfUkg5aUpqazhwWDhTSEpQX25aM2IyWjJfSkRVVzk4RnJlaGlTLVc2dWpQQks0VWZoQlJnYWQydnZhdHpTZ19SLXJBcXotNWplaXptZFA5dTAwa2dXektselRUbFltdlI0Y0lsY2hIT2llc2x1R0d5SWp0V0RMRE5NSU9lNzNZdVpaeFZoOW96UdIBowFBVV95cUxPNVRtX0ZUZHZtREJmZGFkRlJhUlc4LXBiaGlkYzRQN2hkY0F5VGs5VEx4Tlo3Vjd5YnNfNjRwWGI2RDlqNllzbnpoTHpFVUx3WFJOZExHci0wWXloVWxUdFJjMlpMNlJBNzdjd1JSNTVhUXpMWXI3aUg1bW5fY2ZiclB5SjBzZ2c1WkdKYTVZRE81dUFHazBSd25wU1ZEc2F6QjYw?oc=5",
+      "fonte": "Mercado&Consumo",
+      "data_publicacao": "19/12/2025",
+      "data_iso": "2025-12-19T08:00:00+00:00",
+      "categoria": "Construção"
+    },
+    {
       "titulo": "Promoções do varejo da Black Friday derrubam preços de eletrodomésticos e TVs em novembro, diz IBGE - Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcmZfNU9nb00xcE1xZ0VuOFp5Y3FHTGo5OE0xZzlJSHhpZFJJbUJtbnlBcmFPMllXWk4yX3FyVWc0ZkZzRi1LbGVOWlk2V0l3d3JYLWlWVjFQZHlRUnFudVk4T0Rxd0FVWHdNTzhrUmRZcjNsaUwzUERKYmJESXNGbDdudWxBS1V1R1VCNHZjYmk3QU1vSzBXWjJBdVB5UjAzVlF6QjJOd1ZoanRLRDd2NXAxMUFYd05hbEV2bnBVVURWb1g5Zmk5YmZyYWctV3AxV1k1a3VFZG5Gck9yNkk2U2dUNTZ1MGlsNWfSAfgBQVVfeXFMUHNnb3ktY2FZU2hXWUxhejZUXzQyQnVra29uckZGYnh2cWVSWHhLVVBxUHJKSVg1bElxRHRhQXVGMEdPSk9FQ01GWXhRRnYyS05nN2VKOENBOVZLcDBJMVBQTGc4X3BNRDBCU0NsSFBHWXN3NlZwWERtWTExVHBiTVZOYmdGTHdHLXpfOG5paVBGdG15djc3SEFUb1c2elBVeFZwVmVMUkd0S3VJTVNZT0NzMWdkeXFUT3o3WmRsTFd3MGtyaktiRFd6SjFrbnh2M0F6cVJyckN1UTlMZFNzZlFhYlJ0TGRUeTQ1dnhfRHc0b2tjRXV2aFo?oc=5",
       "fonte": "Valor Econômico",
@@ -698,14 +722,6 @@
       "categoria": "Moda"
     },
     {
-      "titulo": "Setor de moda cresce mais que o varejo em 2025 - GBLJeans",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUNRY3IyOXAtY09IMXpmeEFkOUViZUVmaTlCSnBFQWVsaUlvVGR5UThxYzVKU3pBVjIwb0NpYU5ySS1CcUxzY2o5d1lsVXdteTdKcUZoTWRjUHFKcTJrYlYtcThtV1VQdTNfZExtSTVsSmp6ZlVJMDlLYnQ4R0lwRTA5NmxxX3FMcWo0MTNIQXBwdHVDejRYM00xZFJxakI4?oc=5",
-      "fonte": "GBLJeans",
-      "data_publicacao": "20/10/2025",
-      "data_iso": "2025-10-20T07:00:00+00:00",
-      "categoria": "Moda"
-    },
-    {
       "titulo": "3 tendências que transformarão o mercado de papelaria nos próximos anos - Mundo do Marketing",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaURseTdZUmVrUl8zSENjZ3FxZVZFdnJtZ182ZGUwV2xMdzZXSHJtSDlkbDNFR0NGVGE3bnIyWU1pc2RHQVNFWE1rcXdRUDJWbUhlRkYxYUpjREhRaW5IU3RjTEt4akpLekZ0aHJCdzlGSGxITGtXSUtfQjRyaDZtTHo2djQzSVdiNm1aaHBzLUNGbnYtdXFlNTczeHRCYmVzaG1kUnF3?oc=5",
       "fonte": "Mundo do Marketing",
@@ -722,11 +738,19 @@
       "categoria": "Moda"
     },
     {
-      "titulo": "As 12 maiores empresas de moda do Brasil em 2024 - GBLJeans",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTBTT2h2NWJrOGNvcTJHaUtzQkhYcWI0OFJobTFOY09Gbzh4SDhaYTZOWkZzd2YyaEZqSUN0ZkhNcUtkZ21nbjd0bVhZcmozNUlZOFFGSms3UnVXRVVtbWtsTURFZ3EyNXhfYWc5SjJhb0lncFp2dTRMeWo0YUtsTmVLemhPNXJQMk1hUEtacTA5QQ?oc=5",
-      "fonte": "GBLJeans",
-      "data_publicacao": "15/04/2025",
-      "data_iso": "2025-04-15T07:00:00+00:00",
+      "titulo": "De Hisense a Midea: marcas chinesas avançam no Brasil e provocam mudanças no varejo - Bloomberg Linea Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1IzQ3F5VlNkaFRFalh2RU9XejFfTHh0cWZUYkVOR0ZUM2YyOWVHTGRWSmVVR2NPZDN2aDhTNVRCWXBWZ1V1Y1VQX1YtUVBkY3VhWGkxZV9nbEkwUXJ3RHZPeGJmMWJtQnM0b0lGQUVKTEpjQXR1aVNWNFBEZXNsSEY1STVDdnBqVUowd2U1QzhqOWdBZThwQ1pBSmloN3FDSUxZcm5TRXFVSEhGbXNWVWd1MlltcEVqSjlhV2RlMDd1VEHSAdcBQVVfeXFMTUtHTUptYmVhZzloRF9EMURGSmw0dWphZWVhWjJqTksxbFRaUVVESVo5U3FFVjZCMjZaODBDelp4c3dCNXZ2VHVyVWpvbTJKSmFJaWgxa1RHY05CcHFlMlBMa3VNcmxQQ25QazVpVEZ1cmRhdUZrSkpGa3ZoX0xPa1NaSjEtWTVfb3p5U0diczdNTjRCYUlxRTVHRFZQRGx0dHM4dDlCdEVYVW5IcGF5WWtSUlB1X2xGWVExRVBZVXgwbDhZZWYzYlM5NGFjN3cxM2tmNTlHQzg?oc=5",
+      "fonte": "Bloomberg Linea Brasil",
+      "data_publicacao": "13/05/2025",
+      "data_iso": "2025-05-13T07:00:00+00:00",
+      "categoria": "Eletrodomésticos"
+    },
+    {
+      "titulo": "Varejo de moda: Crescimento, desafios e inovações no Brasil - L'Officiel Brasil",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KNDZhbWNfSnphZ2JIRVRNOWFMN3FYbVQ4ZDBHTmFfbHhnaTZWRzZSZ013OUl2aG8yM2N6ZGFkaFg0TkZrbHliUk1sX3BKalo3RklYRXZWYkI1cklZNDJMby1wV0toRVpPYS1JcGpVN0tpNXM?oc=5",
+      "fonte": "L'Officiel Brasil",
+      "data_publicacao": "24/03/2025",
+      "data_iso": "2025-03-24T07:00:00+00:00",
       "categoria": "Moda"
     },
     {
@@ -770,14 +794,6 @@
       "categoria": "Papelaria"
     },
     {
-      "titulo": "As 37 maiores do varejo de moda no Brasil - GBLJeans",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFJSUDcyR2dPYjJSMDRKRkQyZjZZMENSQ3dIZ0o1WG04LURndGVIZW5TeV9FUnBEbWI2c0htUmpZWGRjTi1rLVdMUjRaMkNLaExEdTh3Mmh3cGk5d3BBQ3pqMEc2VHViMzB2Z0ZiX1FFMjBSVzRhUjFWbmZCZnkwOVNUS0hjS2xnemRLR3U0aw?oc=5",
-      "fonte": "GBLJeans",
-      "data_publicacao": "03/09/2024",
-      "data_iso": "2024-09-03T07:00:00+00:00",
-      "categoria": "Moda"
-    },
-    {
       "titulo": "Desempenho do varejo goiano mostra reação do mercado de papelaria - Jornal Opção",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVW4zRHl2bTctcm91N3ZpSmpfTldWdEt5YVJXZ1F1VGh4TFZlcUZqQnJlM2N2RG4zMUNVcmFmcVZBQXVHdnZUQk5OaE1kU01DTmU2ZjA0NnNzZWgwMDh6aW5wUXhBQzRwT2NwQmwyeFZ6VkwtQ1JFQ2tCWlk2bXA5QmZZcUtJNXhoMzl2VkE4bFRUTnpLRzljYkV1R0ZEd0lMczF0bE45a3BHR0tManotWkpLUXFWWEdiTW95WVVn?oc=5",
       "fonte": "Jornal Opção",
@@ -786,19 +802,11 @@
       "categoria": "Papelaria"
     },
     {
-      "titulo": "As 38 maiores do varejo de moda no Brasil - GBLJeans",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnJaS3lhNWRna1ZCSGZ5Ny1rRW9qblBWaHFKSnJvbUQ0VXFiUDNsRXpuVjI4UVFiMG56SkdxUUpnTjNUbmNicXRsT1FIRkdrd0tjZXFLR1dhR3cyMmhjdzdCV1FTNk4yOGRqUW5QV2lPT2lRQ1NGM2tCVUZkVU41cUZ2S2xGWEs2?oc=5",
-      "fonte": "GBLJeans",
-      "data_publicacao": "29/08/2023",
-      "data_iso": "2023-08-29T07:00:00+00:00",
-      "categoria": "Moda"
-    },
-    {
-      "titulo": "IBGE: venda de ‘Livros, jornais, revistas e papelaria’ cresce 5% em junho - PublishNews",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFB6OGFUX0hoNkR4M1NBR1Z3eW81bUVuWkc4UXQ4ZV9zaE9xUjE2azhMUHYxWVZpalg5SHB6S1UxQUFUbGpKcUFndk5MNW1FWU5MSlllSFBNRnA0ZU9mMDg3UElndlEwa0NoWEpMZjEwb3dKV1BxWHM2Z0lKUXAwQkdQTTJQVDlwTHp0eVZndUNtTG1HZVZjVVlZcVo4NVNyR2VoUFMxZjlSMjF2NTVrWVJyMDBXRk1sVmJR?oc=5",
+      "titulo": "Livraria da Vila inaugura sua primeira unidade em Brasília - PublishNews",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanFHQXQwdWtrSWJhUC1HZzFPZ25BaVp6SUl3d2RCVXNpZDdpcE5LWUhxRVhkdEJFaGE0anl2eXJfOEUxcnNNaENncHNSLTlXT090b2ZTT3RoNVZwY2tWVUdSRnAxbDlVTXoxMlFCTWxHcWVwTDFybTFrNVNQdVVjaGRvaFVPakNSMzhnZXBJYWVwTzlGMi1IOWlla21ZZlJtc3owYVVOWTd4cHp2R3Rj?oc=5",
       "fonte": "PublishNews",
-      "data_publicacao": "12/08/2021",
-      "data_iso": "2021-08-12T07:00:00+00:00",
+      "data_publicacao": "27/05/2022",
+      "data_iso": "2022-05-27T07:00:00+00:00",
       "categoria": "Papelaria"
     },
     {
