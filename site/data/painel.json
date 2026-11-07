@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-07T12:59:35.279271+00:00",
+  "coletado_em": "2026-11-07T21:49:53.657815+00:00",
   "populacao": {
     "fonte": "IBGE Cidades e Estados — referência oficial 2026 (API indisponível)",
     "url": "https://www.ibge.gov.br/cidades-e-estados/",
@@ -250,14 +250,6 @@
       "categoria": "Construção"
     },
     {
-      "titulo": "Veja os 50 carros mais vendidos do Brasil em agosto de 2026 - Autoesporte",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVEpodlVOeGlSeDJZNU1OQk1DM3ByVTJVdW5jUDlZR3VMQVRWekdKc2VNeDcta3ZMdXVoUEtGZW9NVWZ2VGwxMGRpcUZKU1ZjdVN4dkdFSmR6TENlNEFGeFhUd1dwSTh3S3c5Sm56VmZtYUJZZkNUYTlaTldhX3lYaXpiX1BNUEp6NXZ6cHp4R0pYV0x1ckNGX3NzRUVNSUJ0alFxNGpsN1g1bjVPRUlfUmdJWnZPbTZFemd2bE9MdTViOE82UDk0UzZn0gHYAUFVX3lxTE5kOXdSRDVWVWlqSkpzN25xVUZlanpNZXJZdmlJSEhpMzNLVDkxUVM2eVJsNkhPNF85SGFBTlk4Qi12N0FoQVJ4QnpiejFDd3Z5Vkg1RmlWeTN4RXBYU2haWUFMYzlJY0I3NkluYzUxWVdRS2FKR0Y2UUtmS1ZZQS14d3lkakxlem1FS1JPeTJucUlJR0w4ejNwN1hXRl9wczBTaFA1OEdMd1hrZEdINTdFeGRyckNzaEstM3NuczhiX2c3RzNvQTVKUVZoeEJCT0tON3dfS1JBSg?oc=5",
-      "fonte": "Autoesporte",
-      "data_publicacao": "01/09/2026",
-      "data_iso": "2026-09-01T07:00:00+00:00",
-      "categoria": "Automotivo"
-    },
-    {
       "titulo": "Ranking das 37 maiores do varejo de moda em 2025 - GBLJeans",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFlkNFpxWlQzVWphenlrRWVFbnkxS3k4bHQxRUxJR3lpUnhObUp6Nkg2TVVOV0pRV1BfNVVrcllTbVMwWWg1UG1WOEVDQmhBVG9NeFNTWXQ1TE5URXFaWEs2cGRqZXF1djFKdWZJOHNYMlM2Q29UWjRBU2J0QzJCeGNQcnBOMndDWktBWVVhbkVqQQ?oc=5",
       "fonte": "GBLJeans",
@@ -442,14 +434,6 @@
       "categoria": "Supermercados"
     },
     {
-      "titulo": "Febre das figurinhas da Copa faz setor de livros e papelarias disparar; veja o aumento - Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2lnbE5pa1l6bW02cFhnRFBIel9IY0NHV0E2NW9sSzlIRGRQUV9oVGs1NHE1M2NvT2tQLVFBZk9NRHdSSGx4Z1B0Zm53OXZVV2NhbkF5UkdqS0FjMUhyaFdzSlpHaVNBZzNraUZoZFVNQVd2ZTIzRHJkemw3TU9ObF9ubU1sUy13ak1BWElVdGtEZw?oc=5",
-      "fonte": "Times Brasil | CNBC",
-      "data_publicacao": "17/07/2026",
-      "data_iso": "2026-07-17T07:00:00+00:00",
-      "categoria": "Papelaria"
-    },
-    {
       "titulo": "O rali de tecnologia está com os dias contados? Veja o impacto para o Ibovespa, segundo analistas - Money Times",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcXA4T3M1ZjRwcHd6bmFnR3hLazE2YnVCZ3lhTGw5OTB1aEZicU9UVFFQLVFaSndOSUpDMmVzMFc2bUlTbG1lRnlSbnBtb1NnRkw0NXp5Mm93MTJQeDBQeDVIWVBtTWIwZHVseTVDYmpjeXg2UnF2VF9EY1JiS0xELVR2WmNqdVJCVWJvYkZ5c1NZYTZ1WXBXdzBKWHNvWkxNc0VUVVphalpzbjh3bjFXLU9UY2RydEJZdTdsaU1keXNzM2w0NXc0SDVDQQ?oc=5",
       "fonte": "Money Times",
@@ -464,14 +448,6 @@
       "data_publicacao": "14/07/2026",
       "data_iso": "2026-07-14T07:00:00+00:00",
       "categoria": "Eletrodomésticos"
-    },
-    {
-      "titulo": "Puxada por moda e calçados, confiança do comércio volta a crescer em junho - DComercio",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXktdXZIZmotajEwbFlVVWcyaDJqMldYWUtYNkc3SnRLNUxzaFhCY0tPbl9Cd2picm9EYk5wVjRNbXFJbmRjMVlmaHJwcEFKRkluZG4ta194RVFIeVJVcFByUTRYaDhRNmFhXzU2ZXBqTkhJUFNzZDhFcFgwNEd0RDhwdXJKcTBPVmFHdlQtRjlldmd0a1YzeXduY24zLUF4Rm1BVEJKbEhsSmRDNnpNVQ?oc=5",
-      "fonte": "DComercio",
-      "data_publicacao": "30/06/2026",
-      "data_iso": "2026-06-30T07:00:00+00:00",
-      "categoria": "Moda"
     },
     {
       "titulo": "Realme lança dois novos celulares na sua loja oficial no Mercado Livre - Mundo Conectado",
@@ -528,6 +504,22 @@
       "data_publicacao": "19/05/2026",
       "data_iso": "2026-05-19T07:00:00+00:00",
       "categoria": "Automotivo"
+    },
+    {
+      "titulo": "Setor automotivo cresce 16,8% no Brasil em abril de 2026 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnRmcHZzRENwTmJhRVZJUXhSdVRXSnhad3l4YTM5RDNDdzZuc2tISFgteENZYUZUdGFRaGpJa1dDajNSTzZ5TGRMUEdZNGhWclExUVdBeXM2V2tTeDZ5al9IQzZKeEZYMnhLdXRGTGtvMUNHWUVhZnZhUWdQZGxneTVJTVNYbWNWYkxiSGo1UWRyQ2tlckNXVVFNUEZUZFk?oc=5",
+      "fonte": "Poder360",
+      "data_publicacao": "15/05/2026",
+      "data_iso": "2026-05-15T07:00:00+00:00",
+      "categoria": "Automotivo"
+    },
+    {
+      "titulo": "Varejo tem queda disseminada em abril, aponta Stone - Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTRid1lwX2tOUmJKTllqeWIyTVBzc2NvVmlpTHJRWjJ0UHd4dEdxQll3TlpIb3kzdC1vWHhOenFvdlYzTzNNVWxxSGVuaUtBQWtOa1pnSmdrTHZ5WWxIS3dNM2x0MENTcFF5U2NTNnhLbTk5cC1xMEZMZnNEVFdVWDIzQjNvWkw4bF8td3M2blg5VmRKeVZjeGhNWWxvUDZUUDRPd3BmTWtGUdIBuAFBVV95cUxPZXVueEp6UlRkLURxeld4RjlmRjRnSzJtTUQ5NHh5Q0NoWldnVE5Td1M4RExlTy1LUkotU3pxYkdGS016V2l6QWZMNzZ5U0hpT0N4aXltZUUzVXBGdjNsY3dhZ1VJVFQ0WGhuV0llOVU1TjdYRGVNZTdhV0hnNHhHZXo0LUtHaGFGcktMazdWUlhGYUg0X3VNQUYyeHdMYWVid1luVHpSQnlGZ29xTjZpUnZ3blRMT1Ry?oc=5",
+      "fonte": "Valor Econômico",
+      "data_publicacao": "11/05/2026",
+      "data_iso": "2026-05-11T07:00:00+00:00",
+      "categoria": "Construção"
     },
     {
       "titulo": "Distribuidoras ganham margem no mercado de combustíveis - Safra",
@@ -610,9 +602,9 @@
       "categoria": "Combustíveis"
     },
     {
-      "titulo": "Pressão por B16 e por reajuste da Petrobras: mercado nacional de combustíveis reage à alta do petróleo - Agência eixos",
+      "titulo": "Pressão por B16 e por reajuste da Petrobras: mercado nacional de combustíveis reage à alta do petróleo - eixos",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2hncGROMWo3SERIZlZPaTZGd3FEMWN4SVlaaklWOC1FYkpDNzBEWXVVSW42VTRla0R5ZlhjcjhPcmFvdGpSMkxqamRfYmVXZXR3dksybktsYzZOdWtFcGZJdlpPRU15Y0luUnZqQTBjQUtFc1hjMFRQeFp5ZDJjcG1rc21CT3JBb2RrWi1hMEhnbXhmSzk4QUhVX2dKSnhjNXJsUGRvaFpuSElqNU11TTB3ZUQ0TXp6YThRenEwZDZqY3BvYVRyOXViQ3dObURCczNxcnZ4cl83alRiRzQtTlRfXzI?oc=5",
-      "fonte": "Agência eixos",
+      "fonte": "eixos",
       "data_publicacao": "05/03/2026",
       "data_iso": "2026-03-05T08:00:00+00:00",
       "categoria": "Combustíveis"
@@ -703,6 +695,14 @@
       "fonte": "Poder360",
       "data_publicacao": "15/11/2025",
       "data_iso": "2025-11-15T08:00:00+00:00",
+      "categoria": "Moda"
+    },
+    {
+      "titulo": "Setor de moda cresce mais que o varejo em 2025 - GBLJeans",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUNRY3IyOXAtY09IMXpmeEFkOUViZUVmaTlCSnBFQWVsaUlvVGR5UThxYzVKU3pBVjIwb0NpYU5ySS1CcUxzY2o5d1lsVXdteTdKcUZoTWRjUHFKcTJrYlYtcThtV1VQdTNfZExtSTVsSmp6ZlVJMDlLYnQ4R0lwRTA5NmxxX3FMcWo0MTNIQXBwdHVDejRYM00xZFJxakI4?oc=5",
+      "fonte": "GBLJeans",
+      "data_publicacao": "20/10/2025",
+      "data_iso": "2025-10-20T07:00:00+00:00",
       "categoria": "Moda"
     },
     {
