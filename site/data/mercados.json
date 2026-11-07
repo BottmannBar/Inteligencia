@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-06T17:31:39.060790+00:00",
+  "coletado_em": "2026-11-07T01:58:06.727439+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
@@ -33,6 +33,14 @@
     }
   },
   "noticias": [
+    {
+      "titulo": "FIIs com maiores retornos em setembro; veja os destaques do mês - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZmxUQjZWeGNIWlpsYXgyZXM0N084MHhQR3NMNmdHWmd3RmpfVWFtSXE5dC13UHBJcThpOWV6enhZVkRUUklYVEM3bkJKX0dWSWVNeTZSTWlRWnF5T095QkVKZ1MwZlppbXJKc2NLbVVIWkNXNTNQWF9sbDR4WUhEck5lWWRyN3pheF9aLVF2eFNxMXBnTVlwVHlSUXJJSFN4MC1tLWkwMWtOQkpUUDhILVBqbGF4QXpTN2gyRTVuYWYtMXlGQU5fTTlhT3lpNlZNT0o2akZDZVJ1OHhSRmpQRlZLbGhzV28?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "16/10/2026",
+      "data_iso": "2026-10-16T07:00:00+00:00"
+    },
     {
       "titulo": "Ouro sobe nesta quinta com dólar mais fraco e alívio nos Treasuries - BPMoney",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkFoN0lGVHlENlgzTFpyOWFqcmU5V1VEbjBvSUEwczJEbVJrVWQ3a1dZdmFUa1ZVMXd4Q3lRYTVkZkRxVTdmMUIzak9JdVZuOWh5WXBrNnBEMVVQU1NIb0FnQU5fOUhSOEdiUXFqa21aek5UcG5SREhGRS1vTFB1MHRIOFRGbUNHQk1IUw?oc=5",
@@ -112,14 +120,6 @@
       "fonte": "EBC Financial Group",
       "data_publicacao": "10/07/2026",
       "data_iso": "2026-07-10T07:00:00+00:00"
-    },
-    {
-      "titulo": "FIIs de papel puxam desempenho no 1º semestre; confira destaques e perspectivas - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOckpHY005MExqVWFtcGVYSXJFckhOQWZhZjE5YU50V0psMjNjU3BjTlhvRm1HdmFXOHBlY2EyazNFeXl0VTVCQ1p0T0pCbl8yX2RncUJjVWg3ODVmWUZBRE9sTFVvRHRocWl4WjZnbmhUaUtXdmtudkpocFFhTlluYy1UVmoxRm1rNW85UmQyS2pORnBNSmxpcGJybjNZWnlNaVVXUHJOYjVDQ0xNLUZ6bG05Yllmbm5tb09yRjZMQUZIbGZld2RpbkFKaGgzUWNMdW5FcTVBam9SUzl4Zzl6U0JiQmo5Umk2dThMYzhxeVJqRXFHWHMyOGFjZFc?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "08/07/2026",
-      "data_iso": "2026-07-08T07:00:00+00:00"
     },
     {
       "titulo": "As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir",
@@ -346,14 +346,6 @@
       "data_iso": "2023-08-12T00:58:19+00:00"
     },
     {
-      "titulo": "Dólar? Euro? Libra? Yuan? Saiba como escolher a melhor moeda para formar uma reserva internacional - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWZvdGhrR2VtX1dHODVodmRsa0haVGZqRHFpWjJac2VFdVV4aDhSX0RHUC1UMThocmhDNTZuSkNZSmRXY05xWDFuYzM5TnhHUW1vVzNoOWZIZnQxTU9QU29ZT3JES0Jfalo2UXJnZEpBd1JiRVl2NkRmZ3I2cTlPN0hmb3R5QWVHZEdGMWFXbFZycWt2WU5lZ1FQTl9NeE9ZeXg3OUhhX1F5SHV5YldnNmphUTFyNDFyMjR3MEdCRjJmaFVxbFVzM09tdktUUWRDMldrZdIB2gFBVV95cUxPOE56eFIybUZpcGswOHZsSUtMN09LSkZrMlN4clFHaVpJOWJlUnFWTm9ZVzhfUGVGay0tTDU3SlMwWlpoTTlkUy1aQ0ptWjlkSVJnckEyNHVjOEpLb1dZR1JMU0tDMm5PLWhkbmpySllqdEdvT29QeWpVWmxFTjdyMXNjSGpmYW94cVhvU01nbEMxRTRzc185TkxiRHdidmhkX3FYYjhvQTg5Q210VE9ibDNUWnpXOEFMdV9pOFAwUGxlVHhJMXJld1l0RG9VTUlHcV9TX29vb3ZJZw?oc=5",
-      "categoria": "Câmbio",
-      "fonte": "InfoMoney",
-      "data_publicacao": "07/06/2023",
-      "data_iso": "2023-06-07T07:00:00+00:00"
-    },
-    {
       "titulo": "Operações comerciais entre Brasil e China sem uso de dólar devem ter início em julho - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUVBDRDZyOGtDS0MyZHRWc2FvRFI5MHRrZEZTcWVMOFR5ZGlKdzM5X2hjOVZHMmZiQkFJcG9rTHZuWURMMnpsSERzMEpyVU03d19qYjZ2a1hydjZhSkxPMlZHU2xpSVZSRWxiYXUxRUxJQU1JTWJNdFdXRGlHdmhkZVo2NFBKSlVVT2MzS1RrUF93bzh4dWlfaGE4Vkl5MUZfdlVtelk2c3RLQUp1Si1lYXAwZnh0YTJYWVFyOThiMXRydkJOVkludE0wbmhQQVkzSFdr?oc=5",
       "categoria": "Câmbio",
@@ -378,12 +370,12 @@
       "data_iso": "2016-08-30T23:42:51+00:00"
     },
     {
-      "titulo": "Yuan: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6WU9vQ2JTa202WGVZMTVtQjdKMW9xVjh5cUZwZzBHSDRjeU5XRGZhYUphb29YQ045cER2bGtMb29mYVdWMlNVNEQwdTlHN3Vpa0F6eEhnN0dkVDFaQUhqY19mdEdKZw?oc=5",
+      "titulo": "Dólar Comercial: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Rd0ZoR0dwUFFCTjdUZUk0NjMxNWQtSlhqSTRHeEdGaHFYSzd3YWJLMlNUR04tT180T3hsNnd6TUFOZ21pazZwTHVYeE0ySkh6LTN1RnRaRQ?oc=5",
       "categoria": "Câmbio",
       "fonte": "UOL Economia",
       "data_publicacao": "24/08/2016",
-      "data_iso": "2016-08-24T11:03:29+00:00"
+      "data_iso": "2016-08-24T11:05:05+00:00"
     },
     {
       "titulo": "Por que a China desvaloriza sua moeda? Há duas grandes razões - O GLOBO",
