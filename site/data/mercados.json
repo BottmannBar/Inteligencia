@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-08T01:28:14.652779+00:00",
+  "coletado_em": "2026-11-08T16:42:49.237212+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
@@ -64,14 +64,6 @@
       "fonte": "InfoMoney",
       "data_publicacao": "25/09/2026",
       "data_iso": "2026-09-25T07:00:00+00:00"
-    },
-    {
-      "titulo": "Fundos imobiliários chegam a 3,3 milhões de investidores na B3 - Suno - Investimentos Inteligentes",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHNVbF9JcFVTVnBUU3A2ZVZQajI0QWFTc1pobEpwVTE1Skl4bTAtMHlZQmhvdDV0MU9XOTN1cnVHNFZXS19GSHFoVTJGd1JVN21OM3NraVlCN0dXSDJJOERYeUYtX280TUxXc0NHTmZxSktfbl9keVFwcGJ1YXQ4ckUxMU1TZU9UY0hLT3RNMHpCVDB3azRhUzRnSdIBoAFBVV95cUxNSzFVV3VXLUZ1aU0yMXBVOXVLeXN3TEZwdkpMOHp6M3ZtOHdyR2NBWWhuNDlKc3l2R25mZ05PeVh1MkZ4TzNMX1lja0VZenN4WFBCaVF0UURSc0pGbTFYZy1KdU15ZXEzdmNvOTlQNXM0WDE2U0ZRb3N5bEVJb3QxQmE0cE96cjBUSzY2WVdpY1BzOTBtU0dnUDZ2ZFItaGhV?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Suno - Investimentos Inteligentes",
-      "data_publicacao": "18/09/2026",
-      "data_iso": "2026-09-18T07:00:00+00:00"
     },
     {
       "titulo": "Commodities caem em bloco nesta 5ª; petróleo desaba e pressão chega a grãos, café, açúcar e algodão - Notícias Agrícolas",
@@ -162,14 +154,6 @@
       "data_iso": "2026-05-12T07:00:00+00:00"
     },
     {
-      "titulo": "Por que analistas estrangeiros indicam que Brasil vive 'momento de ouro' na economia - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOeTFwT3I2OGFvQXU4U1JsNnAyN1RBTUxtZ0xTLXZ3M0xyOGxaeUxmZWtBYXlVSWNfTVFUVHNsTkp5TUF1Z2dWZWdDNGNEc0FlUlVDY282SVEwdVRVNEgteExn0gFnQVVfeXFMT1JZbkJHaUNQME1NUU9WV0NvVy1FeEhsMWh0SWRPdVVUbFd5dzlIWG1zdkpTSDBiQVB1Yjh1S3FiajlLTzlGQThBQkVUaTVSWW5tQzRUUTZ4aXdvNmFWNXBNb0ZhRERrWQ?oc=5",
-      "categoria": "Commodities",
-      "fonte": "BBC",
-      "data_publicacao": "28/04/2026",
-      "data_iso": "2026-04-28T07:00:00+00:00"
-    },
-    {
       "titulo": "As 20 ações que mais subiram no começo de 2026; Petrobras e PetroRio lideram ranking - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaWtUV0tUWFJhSFFDNVcwTktfYnNrZ2tKb0hrcWFKQVZaclZHTmtLdE1Xd0R2QXlZUGRpSG5lV3RyLW5MNlQzenZ3UmhxTFh4YzV2RGZ4MGZhXzBnZFpHSjU3eXRweDhnS0dFSG5MS2ZmTG1GREMzaEc2Z1VPU19iZmo3ajg4ZzdWRW82ZkNTN0JCNDhINFpTR2JERUhjVDlhNkdGODJSdC1KOTYwbHhhTFdCZ1NpcklKbmpCaXQ3a29udGNhVUVhSGFJQy1LX3hRanVUeGdjbFEwNUxndXp0aWlTYnJOc1Y0U1lVMUZrVzY?oc=5",
       "categoria": "Ações",
@@ -224,6 +208,22 @@
       "fonte": "InfoMoney",
       "data_publicacao": "03/03/2026",
       "data_iso": "2026-03-03T08:00:00+00:00"
+    },
+    {
+      "titulo": "Como commodities agrícolas são afetadas pela escalada do conflito no Oriente Médio? - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOEpibFd2WHBuMTZoMDdFb1ByS3FjV2pGQWxCbXFZRnRucUwxdG1rbmxrdjVLbVhrSFFzeV8wNGJadmRxTjJ6WVpEU2lnUWkyUnB5VGc0WGdOd3lTR0RNV29wSkFIWW5iYThVMFBXWWlHanp0ekM4bk9TOFQ2dndWVnR5WW1rMTVELUM2eWNaM3FEbVRvMkRjUU5IRFdGc3BPLUZ6Qm4zanM3QXpvbTZjREtyQmpyRDhMQW9RYTJR0gHDAUFVX3lxTE53TVVqSnVDV3daYTRINTJ5RlFxcEJZM1Mwc3AyZkwxTlNVQzR6dzQwSU5GX3k2X0JnVFFNLWtiX21Ua21icG1XcTA2SE1oT2IwbEMyV1RheE5famd3V3Fmam1rR3BDSWZSZ1loTVpzZjB6T3dPakY0YzdTaEtHR3dBaFdseTY3SnZHdTJZaGQ2NXY4UzEtdmo3R0tCeFJEejNBSjFMUFZWRmY5V0tKQjZGMFczR0xndzlON2N6VWpuYkRkZw?oc=5",
+      "categoria": "Commodities",
+      "fonte": "InfoMoney",
+      "data_publicacao": "02/03/2026",
+      "data_iso": "2026-03-02T08:00:00+00:00"
+    },
+    {
+      "titulo": "FIIs de papel dominam lista dos que mais se valorizaram em 2026 até agora. Veja os top 10 retornos - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPMGJFN0NhdDB4LXd1b1Z5ODF1TFFtcDVXbE5UTFhBN25HclllZW9YYW55bFJkMmxvcEI5MWZKeXBsazIwVG5zT05oSmxaTklycXVub09JcWtRdEl0dDVCaFd2TnN3UkxDLS02VndvSUdrdWVZRnRuV0NuN3l2WXV4UGJHd09aMU1VVzdVV0sycmN3VEQ2czRjZEJkZUNPaW04VWVsVzBoRHNaakVDZk91Y2lOMlJHaUNyLWx3LXhiTUNlSktKeWtMd0Fma1pwV2s0SEJfRnlpTTBwbmRSVmkyejZqZVEyQnVuU3ZBMVRpUC1mRk4zTDJTXzJfRlM2SlN1b3cxamc2dnI0bExEWkp4U1pxZHdkUQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "23/02/2026",
+      "data_iso": "2026-02-23T08:00:00+00:00"
     },
     {
       "titulo": "Além do Ibovespa B3: conheça os índices de ações que mais renderam - Bora Investir",
@@ -378,12 +378,12 @@
       "data_iso": "2016-08-30T23:42:51+00:00"
     },
     {
-      "titulo": "Yuan: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6WU9vQ2JTa202WGVZMTVtQjdKMW9xVjh5cUZwZzBHSDRjeU5XRGZhYUphb29YQ045cER2bGtMb29mYVdWMlNVNEQwdTlHN3Vpa0F6eEhnN0dkVDFaQUhqY19mdEdKZw?oc=5",
+      "titulo": "Dólar Comercial: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Rd0ZoR0dwUFFCTjdUZUk0NjMxNWQtSlhqSTRHeEdGaHFYSzd3YWJLMlNUR04tT180T3hsNnd6TUFOZ21pazZwTHVYeE0ySkh6LTN1RnRaRQ?oc=5",
       "categoria": "Câmbio",
       "fonte": "UOL Economia",
       "data_publicacao": "24/08/2016",
-      "data_iso": "2016-08-24T11:03:29+00:00"
+      "data_iso": "2016-08-24T11:05:05+00:00"
     },
     {
       "titulo": "Por que a China desvaloriza sua moeda? Há duas grandes razões - O GLOBO",
