@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-08T16:42:49.237212+00:00",
+  "coletado_em": "2026-11-09T01:45:16.177345+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
@@ -56,6 +56,14 @@
       "fonte": "BPMoney",
       "data_publicacao": "08/10/2026",
       "data_iso": "2026-10-08T07:00:00+00:00"
+    },
+    {
+      "titulo": "Ibovespa B3 sobe 0,46%, com apoio de ações de petroleiras; dólar vai a R$ 5,22 - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGZYZU8wVXpnaXMxd1lqZkY2Wi1iREtmVGZkMzZzT0pkbUQtRHFCaWNZMUY4bkxOU1F5aXZ5Q0IxNlFOSFJod2swaFJsQnNmUThlTlRNN01sYnF6Y3lBNHBIRzdQN2N1ck9OZmdFT24ySTVhbkdMaFhqLXVpT3o3WUtJVmQ1X3BRNWFyV1FtQ2p6ekJaS1dzWHNJS3ZxX1kydjZ5U3FaeUstOWp3cVJuTkR3RWV0TXVtU2VtN0h3?oc=5",
+      "categoria": "Ações",
+      "fonte": "Bora Investir",
+      "data_publicacao": "01/10/2026",
+      "data_iso": "2026-10-01T07:00:00+00:00"
     },
     {
       "titulo": "“Novo Mercado” dos FIIs? B3 revela o que vem sendo feito para melhorar governança - InfoMoney",
@@ -130,6 +138,14 @@
       "data_iso": "2026-07-10T07:00:00+00:00"
     },
     {
+      "titulo": "Existe um dividend yield mínimo para investir em FIIs? - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcU9nVGdfUVRHQmhmZjlLeWF1dFIwZEZlZFZpa3RxeHFiVXAxdi1Zekdobm1CeXc1b2prc3BHdmxCOXRJYzVSdmctQWVEYUJ2Rm9xVnJJMjZ3aE90ajJkRW1Xajdic1NBNEp1WmJ5MmJkOUlIQi1HclVZeVpRSVhZTEVGY0VFM1JEeWRwcUhYZlBwQjlQVlRwMGFDc0lnbXZzamNPSkd0ekU0U1lYbHNDZjdOZExnd0tRRXFsRUdtVlUyZ2NyaU5HRDY0ZmRNRURDTTBzM1Y0TUFINzQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "07/07/2026",
+      "data_iso": "2026-07-07T07:00:00+00:00"
+    },
+    {
       "titulo": "As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZGNuMUpKZ0VxYXpuSGFPaEoxN0RKX2JSUDJwSS1mdklpOHBrZnktQXA0SDBiU1pSVU8ydHZuSEh5Qk1NbkdyOUJOTUJmUXRaOGtVYlZrQWpaaTBIMEtnUHBGejdOYlNLbGZtRHNHRWFlNTNYbWpONW1HSDhzZVA1VTE5Z0QzdjRORmIwU0Y4TWNyYzQzWUxEMWtrWXhlRUZIVkNOeW5DV1BSVWwxTWc0MnRzMGxpR3o4Wll6SE01Vk9ndkVwWkZicjVZcXhFTUdnZUt4ci1WWWtveHpCc3ZHQk9sVUJwYlRzUTBnQWtzWWhqRmNpWUxN?oc=5",
       "categoria": "Ações",
@@ -168,14 +184,6 @@
       "fonte": "Bora Investir",
       "data_publicacao": "25/03/2026",
       "data_iso": "2026-03-25T07:00:00+00:00"
-    },
-    {
-      "titulo": "O ciclo de cortes na Selic começou. Como ficam seus FIIs? - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ0RxaXJUdko3WUI3VlJ3NXhjNGxpZXlsRTFmbUs4a0ZpM0RTdWRvZnRBY2gwNkNnZk5GaFNaVDVReHJFcFdkMjd2SWxJM3NWcUhRa0MtRWY3SnozYnNuSy1lMEFGRzZwYlJWVFdXM3VqLW43TmdPTi0zNnNiNjBaYzctOFNTOC1MUzBLUGdKdFdGcUJTbnd2ZTRrVVNOMmFzZi15QUtEdHFjTXViNDlvS19jdlB5d3NHOVpKOTBPM0JRcEVQWVphUlpMNHBGWVZyRVAxNU1mOHFKeDBzcnc?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "24/03/2026",
-      "data_iso": "2026-03-24T07:00:00+00:00"
     },
     {
       "titulo": "Negociação diária de Fundos Imobiliários (FIIs) cresce 49,8% nos dois primeiros meses de 2026 - Bora Investir",
@@ -288,14 +296,6 @@
       "fonte": "Bora Investir",
       "data_publicacao": "18/12/2025",
       "data_iso": "2025-12-18T08:00:00+00:00"
-    },
-    {
-      "titulo": "Adeus, B3: por que empresas estão deixando a bolsa mesmo com o Ibovespa em recorde? - G1",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTJGanVJSXU3S1k5enFWSnBzWW8zeDhqMVBqazA4LUF6anpIRnB2QnptM2FaTlZLUUpsTlVUSTl5UzNYUzZIdVI0V3lKV3FzOFNYdEpUWDVHbnRuM010SjFZc2x0N3BYcDBaTDdBb0Izd1dZalB0RXNNX3pWWGR3RUY0cTk3YndHbzFuZDNXcTMwbDFGX3ctWVkwSjVfNm5RVlN5aFNHWGxxZjVQRjNJbkNab1k3d1hlbWE1VHJIcmxPNDhI0gHTAUFVX3lxTE1KaFYwZmJTam5HQ0NxSHZwMzlPWEt2VmVYcmUtcWk4UjE2UXJwSUhjX3k1VzBGbDVJd0xaaVVRQlZIT0JaV3E0cGp4LWs0eWdCbVRrV3FnWXg3SFNaS1R4enRvODV5YWJ1bHk0aG9iSGRpU093YXRhUVZSYm5fMVBtbFNrUkxjZkJuQW5SZ21FcUo5cVFvUHY4MGVkX1RtSlZBcXA5TG5LQ3E0ZEw5NElBaVJyM1I4ZkRsT3llRS1MS2RJX3hpeENtOV9oUVRIOU9oWTg?oc=5",
-      "categoria": "Ações",
-      "fonte": "G1",
-      "data_publicacao": "28/11/2025",
-      "data_iso": "2025-11-28T08:00:00+00:00"
     },
     {
       "titulo": "Por que o yuan cresce, mas está longe de desbancar o dólar - DW.com",
