@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-09T06:26:29.863455+00:00",
+  "coletado_em": "2026-11-09T22:21:18.135716+00:00",
   "populacao": {
     "fonte": "IBGE Cidades e Estados — referência oficial 2026 (API indisponível)",
     "url": "https://www.ibge.gov.br/cidades-e-estados/",
@@ -96,6 +96,14 @@
       "data_publicacao": "18/10/2026",
       "data_iso": "2026-10-18T07:00:00+00:00",
       "categoria": "Combustíveis"
+    },
+    {
+      "titulo": "No Brasil, mercado de trabalho de profissões ligadas à tecnologia cresce até 740% em dez anos - FecomercioSP",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWRXN2dBbUtlODZGUS1lTnRrQUpLaHp3T3NPcHJIUHdGT3ZfZWNvNmlnQlM2cENWZVgyQnJTZzlLVkFZUWxzZnhJVU9JLTVHa3VJNUV3cjRjd3ZyM3VwZDZHNTVqejFYb0t6QUt4RUFhcklvclBjTmhJWGFGVnh0aFZyMkJfRkhvekJiSnRHMzFiYk0wNmYtUGNVTEtzNW5XbGJNR0VrbW8zYUFDQ0xoRkg3alRWQzljb01PWDJFWGdxY00?oc=5",
+      "fonte": "FecomercioSP",
+      "data_publicacao": "17/10/2026",
+      "data_iso": "2026-10-17T21:44:43+00:00",
+      "categoria": "Tecnologia"
     },
     {
       "titulo": "Brasil: Varejo cresce apenas 0,1% em agosto e vendas de móveis e eletrodomésticos despencam - ADVFN",
@@ -258,14 +266,6 @@
       "categoria": "Farmácia"
     },
     {
-      "titulo": "Tecnologia e dados são chave para mercado de carbono ganhar escala - Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnB4SXdYS1pkMWNQQWV0ZlFrbVBXY1M5dU43QkZjbVFwQ252azFtU1VLV3Zta3B4N3FJMXBIYzM4VFBzUWFTZUR0M2RvajBncDFPRUFva2NQWGJSaXQxUnRGcTZDS2MwbkptVDQ2VUNBRFZNTlcwVGQwM2dvVVdFLXFoeGV3dTkxNVV5T21NUUxldUtVa2ZHQllyOWlfaWVpczludlV5Qjl0eHc1T09kYm8wbW1abG9iVUkzOXdHeFnSAc8BQVVfeXFMT3NXMXk3R2xRZ1RDMkFXVWtxb2Z0d3lCSC1oaDFBT1lwYjVwcUQ2M0hFNUMzR2I0VW5aUlBuVUNYV3E1WDYyaXRfSDZyUlpGOC1PVXBFOGp2RllUMVgzQ0xYOVNNM2dmeHV4aFIzazlSREszbTh4OU1IZ1k5MEk2b2tpMGkwSzN3STJ3UWJGQmVIelFFcDNnUktkaDYzM1luOWRveEc2c2V4VWNuaEJrWGFiM0hsMlZSMmpNU3dCRzRwS2NxNmZYekhsSkJCV2pV?oc=5",
-      "fonte": "Valor Econômico",
-      "data_publicacao": "26/08/2026",
-      "data_iso": "2026-08-26T07:00:00+00:00",
-      "categoria": "Tecnologia"
-    },
-    {
       "titulo": "Análise: Crise em Moscou pressiona mercado global de diesel - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbmZ5a0VmZkQxQ0J2eXRYYnlnQlg1emNyckF3VS02eGdiclFzb28wV3cxQXdab3VBWlpGN2N0aDNhYjNqXzl2NjR0RkZuVmtGNmdJd1hvR0JrUGJHVnFpM195TUExU3N0Nzh2WDNmN1AwMVh2VFZMWngxellrd05RTzRBdl84ZTVOU0hOMHRkMXRXN3FiUXRxb3g4VHhINnoxWUZQUm1STkdJSE1JNEFrVFV4T29wNnJlY0paM1A1My1yQ01GdFdocm8tT2NCcnhIQUE?oc=5",
       "fonte": "CNN Brasil",
@@ -410,12 +410,12 @@
       "categoria": "Papelaria"
     },
     {
-      "titulo": "O rali de tecnologia está com os dias contados? Veja o impacto para o Ibovespa, segundo analistas - Money Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcXA4T3M1ZjRwcHd6bmFnR3hLazE2YnVCZ3lhTGw5OTB1aEZicU9UVFFQLVFaSndOSUpDMmVzMFc2bUlTbG1lRnlSbnBtb1NnRkw0NXp5Mm93MTJQeDBQeDVIWVBtTWIwZHVseTVDYmpjeXg2UnF2VF9EY1JiS0xELVR2WmNqdVJCVWJvYkZ5c1NZYTZ1WXBXdzBKWHNvWkxNc0VUVVphalpzbjh3bjFXLU9UY2RydEJZdTdsaU1keXNzM2w0NXc0SDVDQQ?oc=5",
-      "fonte": "Money Times",
-      "data_publicacao": "15/07/2026",
-      "data_iso": "2026-07-15T07:00:00+00:00",
-      "categoria": "Tecnologia"
+      "titulo": "Comércio de livros, jornais, revistas e papelaria dispara com venda de álbum e figurinhas da Copa, diz IBGE - Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMG0xbTdBLVk1RnE1Z3R1SUE3djc5UEZGeGx4VVB2WVhva3FqLXZaWWFzZG1HOUhpTXRpYVV2WTdiaENsOXlIejZ3X3M5TEtLcnh2M0RoZ3NNRTZaQ0dCTlBzMDdLVm9MRTdZaVFZSFc3RlZfcm1sX2w1TnlfblI5TXFlQUZZdTBRdUd6dkFFc1pIZDFNd3FDMExDZzlId3cwYzU2YWtjR01PVnptMEh4dE9rZ29pTXNmV2ZQX2dNSEJtcTZod2xtVUpjVEZQTUFVZWhHb052YnNtdE1ENkZOVkZ6bUdmMk1rUTZaUDctaDd0Z9IBgAJBVV95cUxQX2pnWUktVU1jYkx5TGhOTEF4dnowbHlyS0I4cF92b2Z2SFN1TUsxWkhJNDViclg0Q2xKZmVkdFJzWnZsQUVNVlcydEU4XzR5cUY1cjdKbkRiZGJSSXREbDN3QkRMMmxISUdFYmszSUZfd2Ixb2xYd2NHUDFIMUFuem1HNTh4Q3djUVM0cVREZmdpNG15V0JNNFdVbm94dkw1aTdOOUE3ZWtLMUZzN0dHOXFWVXpZbHBDWWdBOTZ1dWtaQVhqSlY0Z2R1b1ZxQ05VczNBcGQtbVRzVHNwVzhpTmhIcVRaOEJnYzJhQ0MwV016alhFVWlZNFdXYjBSUjky?oc=5",
+      "fonte": "Valor Econômico",
+      "data_publicacao": "16/07/2026",
+      "data_iso": "2026-07-16T07:00:00+00:00",
+      "categoria": "Papelaria"
     },
     {
       "titulo": "Varejo cresce 4,2% no segundo trimestre de 2026 - E-Commerce Brasil",
@@ -456,6 +456,14 @@
       "data_publicacao": "16/06/2026",
       "data_iso": "2026-06-16T07:00:00+00:00",
       "categoria": "Construção"
+    },
+    {
+      "titulo": "Brasileiros abandonam celulares novos e impulsionam mercado de usados - band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2p5bTV4WHhwb2kxd2FMcllBTjQteUE3bHBRdVZOTV9FeHF2MXVXVTRtaERZbzhDVFJncWdjVnU2LUhUemZYdGpMVkJ0SzJpdnZ3ejZ5Vmhtb2NSTWRTOTA1Y0ZEX1JfV2pLSGg0X3M0YnBaSXN5T3laQW5vcUVSUFRKbnZsd1l1N29odU40YnlTUWNzTFViOVdkUHBJdmVwSEh1Vg?oc=5",
+      "fonte": "band.com.br",
+      "data_publicacao": "08/06/2026",
+      "data_iso": "2026-06-08T07:00:00+00:00",
+      "categoria": "Celulares"
     },
     {
       "titulo": "5 novidades no mercado de celulares que você precisa conhecer - CartaCapital",
@@ -602,12 +610,12 @@
       "categoria": "Combustíveis"
     },
     {
-      "titulo": "Mercado Livre traz ofertas em celulares Galaxy e outros produtos Samsung - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc3dlZk9sQ29aaFdYS29WalE5QXBWMmo0R2JCNWFJMVg0TnJmVDFEQVR6TGlnUExVTnYzcXNMWUF0cXlsWW1Id05UQnNDekFlN2daMHVtajI2SEZGRmNBdmlIT0paTUxmNlhzMlpMYk4wX2s5cE9NX3NvcGJDRDB5dnFoUnVrZlFGNy0zeUFqaHpJY1ZHZFdMcWF0aUdUd3NybnFGZnRjeVRab2VWUFJ0Z0JyVGs2amV0akVsOFVCRUNJUVIyNUV0UF9zbWTSAdIBQVVfeXFMTlpHTm1XaGpNYU9pMUM0cWNtdy1IWDg1aTFoOTRLREt4MGt6c1VpQTRXTFA0S3pWYTRZOU9oTlExUF9OWmtSeTZOZE1EZWtZeE9oNWlxUHo0N1ZnNnJQYnpOZlBjZjdvNHdqbzdhWV91NEJ2ZV9nbERhaWJxSVdLUlo2OThNdHpHem9aVE1qMm9TbHJrYUp1aDBvRVJmU2pMWEthb2tUX2NnYkNXdFNvSDZ6WElVQWtEYk93UDFPY19TN2U3NU05c1dRSTluLVd2T3BR?oc=5",
-      "fonte": "Estadão",
-      "data_publicacao": "09/03/2026",
-      "data_iso": "2026-03-09T07:00:00+00:00",
-      "categoria": "Celulares"
+      "titulo": "Livraria Leitura prevê 143 lojas e investimento de R$ 15 milhões em 2026 - Diário do Comércio",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2sxdDgzYUtlR3UtcUR0a3BxVzFMaktXOGtiRjhWcDlXa0NaRlBSWU4xajEzVmpDbVdmd0IwTGswY19HcWRfa1Q5M2liVUtELUcyWTBOUFYwVFI4VDA0eURONU83clFoSG5HMUZNdkd1NVRrdktZcUJKWi1SSFE2LTBtWUY?oc=5",
+      "fonte": "Diário do Comércio",
+      "data_publicacao": "11/03/2026",
+      "data_iso": "2026-03-11T07:00:00+00:00",
+      "categoria": "Papelaria"
     },
     {
       "titulo": "Varejo de moda acumula alta de 1,30% em 2025 - GBLJeans",
@@ -616,6 +624,14 @@
       "data_publicacao": "24/02/2026",
       "data_iso": "2026-02-24T08:00:00+00:00",
       "categoria": "Moda"
+    },
+    {
+      "titulo": "Dia de Campo de Verão 2026 reúne tecnologia, mercado e inovação - O Presente Rural",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaV9ZQzV6QWZickxUSHVqcTdvVmhFVXhsc1c2N1FqMmFBMTVVb1h1ODJxRHpqTTVaZDdpZnZRSUkzQjdiX1lPTVpVV0FhalRSYTF2UUgxSjVHSWEyemdYdVhRbVRiWkE0ZGNZYXFIX0d0dFAzMU9MV1JBTm1IckQ1MV9BOGhfVUJmTG9CVFI3R0xQRnhvYlJLeg?oc=5",
+      "fonte": "O Presente Rural",
+      "data_publicacao": "23/02/2026",
+      "data_iso": "2026-02-23T08:00:00+00:00",
+      "categoria": "Tecnologia"
     },
     {
       "titulo": "Como o boom dos atacarejos mudou o mapa do varejo de alimentos na última década - Estadão",
@@ -674,14 +690,6 @@
       "categoria": "Moda"
     },
     {
-      "titulo": "Material de construção: pressão e transformação - Mercado&Consumo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnlIc0ZnM0hYS3pRZHFfUkg5aUpqazhwWDhTSEpQX25aM2IyWjJfSkRVVzk4RnJlaGlTLVc2dWpQQks0VWZoQlJnYWQydnZhdHpTZ19SLXJBcXotNWplaXptZFA5dTAwa2dXektselRUbFltdlI0Y0lsY2hIT2llc2x1R0d5SWp0V0RMRE5NSU9lNzNZdVpaeFZoOW96UdIBowFBVV95cUxPNVRtX0ZUZHZtREJmZGFkRlJhUlc4LXBiaGlkYzRQN2hkY0F5VGs5VEx4Tlo3Vjd5YnNfNjRwWGI2RDlqNllzbnpoTHpFVUx3WFJOZExHci0wWXloVWxUdFJjMlpMNlJBNzdjd1JSNTVhUXpMWXI3aUg1bW5fY2ZiclB5SjBzZ2c1WkdKYTVZRE81dUFHazBSd25wU1ZEc2F6QjYw?oc=5",
-      "fonte": "Mercado&Consumo",
-      "data_publicacao": "19/12/2025",
-      "data_iso": "2025-12-19T08:00:00+00:00",
-      "categoria": "Construção"
-    },
-    {
       "titulo": "Promoções do varejo da Black Friday derrubam preços de eletrodomésticos e TVs em novembro, diz IBGE - Valor Econômico",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcmZfNU9nb00xcE1xZ0VuOFp5Y3FHTGo5OE0xZzlJSHhpZFJJbUJtbnlBcmFPMllXWk4yX3FyVWc0ZkZzRi1LbGVOWlk2V0l3d3JYLWlWVjFQZHlRUnFudVk4T0Rxd0FVWHdNTzhrUmRZcjNsaUwzUERKYmJESXNGbDdudWxBS1V1R1VCNHZjYmk3QU1vSzBXWjJBdVB5UjAzVlF6QjJOd1ZoanRLRDd2NXAxMUFYd05hbEV2bnBVVURWb1g5Zmk5YmZyYWctV3AxV1k1a3VFZG5Gck9yNkk2U2dUNTZ1MGlsNWfSAfgBQVVfeXFMUHNnb3ktY2FZU2hXWUxhejZUXzQyQnVra29uckZGYnh2cWVSWHhLVVBxUHJKSVg1bElxRHRhQXVGMEdPSk9FQ01GWXhRRnYyS05nN2VKOENBOVZLcDBJMVBQTGc4X3BNRDBCU0NsSFBHWXN3NlZwWERtWTExVHBiTVZOYmdGTHdHLXpfOG5paVBGdG15djc3SEFUb1c2elBVeFZwVmVMUkd0S3VJTVNZT0NzMWdkeXFUT3o3WmRsTFd3MGtyaktiRFd6SjFrbnh2M0F6cVJyckN1UTlMZFNzZlFhYlJ0TGRUeTQ1dnhfRHc0b2tjRXV2aFo?oc=5",
       "fonte": "Valor Econômico",
@@ -703,6 +711,14 @@
       "fonte": "Poder360",
       "data_publicacao": "15/11/2025",
       "data_iso": "2025-11-15T08:00:00+00:00",
+      "categoria": "Moda"
+    },
+    {
+      "titulo": "Setor de moda cresce mais que o varejo em 2025 - GBLJeans",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUNRY3IyOXAtY09IMXpmeEFkOUViZUVmaTlCSnBFQWVsaUlvVGR5UThxYzVKU3pBVjIwb0NpYU5ySS1CcUxzY2o5d1lsVXdteTdKcUZoTWRjUHFKcTJrYlYtcThtV1VQdTNfZExtSTVsSmp6ZlVJMDlLYnQ4R0lwRTA5NmxxX3FMcWo0MTNIQXBwdHVDejRYM00xZFJxakI4?oc=5",
+      "fonte": "GBLJeans",
+      "data_publicacao": "20/10/2025",
+      "data_iso": "2025-10-20T07:00:00+00:00",
       "categoria": "Moda"
     },
     {
@@ -730,11 +746,11 @@
       "categoria": "Moda"
     },
     {
-      "titulo": "As 12 maiores empresas de moda do Brasil em 2024 - GBLJeans",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTBTT2h2NWJrOGNvcTJHaUtzQkhYcWI0OFJobTFOY09Gbzh4SDhaYTZOWkZzd2YyaEZqSUN0ZkhNcUtkZ21nbjd0bVhZcmozNUlZOFFGSms3UnVXRVVtbWtsTURFZ3EyNXhfYWc5SjJhb0lncFp2dTRMeWo0YUtsTmVLemhPNXJQMk1hUEtacTA5QQ?oc=5",
-      "fonte": "GBLJeans",
-      "data_publicacao": "15/04/2025",
-      "data_iso": "2025-04-15T07:00:00+00:00",
+      "titulo": "Varejo de moda: Crescimento, desafios e inovações no Brasil - L'Officiel Brasil",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KNDZhbWNfSnphZ2JIRVRNOWFMN3FYbVQ4ZDBHTmFfbHhnaTZWRzZSZ013OUl2aG8yM2N6ZGFkaFg0TkZrbHliUk1sX3BKalo3RklYRXZWYkI1cklZNDJMby1wV0toRVpPYS1JcGpVN0tpNXM?oc=5",
+      "fonte": "L'Officiel Brasil",
+      "data_publicacao": "24/03/2025",
+      "data_iso": "2025-03-24T07:00:00+00:00",
       "categoria": "Moda"
     },
     {
@@ -791,30 +807,6 @@
       "fonte": "Jornal Opção",
       "data_publicacao": "18/01/2024",
       "data_iso": "2024-01-18T08:00:00+00:00",
-      "categoria": "Papelaria"
-    },
-    {
-      "titulo": "As 38 maiores do varejo de moda no Brasil - GBLJeans",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnJaS3lhNWRna1ZCSGZ5Ny1rRW9qblBWaHFKSnJvbUQ0VXFiUDNsRXpuVjI4UVFiMG56SkdxUUpnTjNUbmNicXRsT1FIRkdrd0tjZXFLR1dhR3cyMmhjdzdCV1FTNk4yOGRqUW5QV2lPT2lRQ1NGM2tCVUZkVU41cUZ2S2xGWEs2?oc=5",
-      "fonte": "GBLJeans",
-      "data_publicacao": "29/08/2023",
-      "data_iso": "2023-08-29T07:00:00+00:00",
-      "categoria": "Moda"
-    },
-    {
-      "titulo": "IBGE: venda de ‘Livros, jornais, revistas e papelaria’ cresce 5% em junho - PublishNews",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFB6OGFUX0hoNkR4M1NBR1Z3eW81bUVuWkc4UXQ4ZV9zaE9xUjE2azhMUHYxWVZpalg5SHB6S1UxQUFUbGpKcUFndk5MNW1FWU5MSlllSFBNRnA0ZU9mMDg3UElndlEwa0NoWEpMZjEwb3dKV1BxWHM2Z0lKUXAwQkdQTTJQVDlwTHp0eVZndUNtTG1HZVZjVVlZcVo4NVNyR2VoUFMxZjlSMjF2NTVrWVJyMDBXRk1sVmJR?oc=5",
-      "fonte": "PublishNews",
-      "data_publicacao": "12/08/2021",
-      "data_iso": "2021-08-12T07:00:00+00:00",
-      "categoria": "Papelaria"
-    },
-    {
-      "titulo": "Varejo de livros, jornais, revistas e papelaria cai 30,6% em 2020, aponta IBGE - PublishNews",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVQ5TVRfenduVF9yaWcxaGlVOW1fc25ZWkVpVEphaFZlSm5oaGZVa1ZTRy1uTUVXc25HaWkxOVc5eVlKR3lhNU5GU0VsRFJkZ2VMT2pRbEtsZDZRY01ZdmhtYWRESXl4STdKa2R0eTh6TnBla2JSdXgxUGdrT1Z0c0ZSU0JWUmdOM2U3RW1reGJvWlJ5OF9tck5BeHVpTFVHeWlGdnQxaExYSkMyWWs4MWkxQUhTRVRNcmlwbG5XQ0dEUkE?oc=5",
-      "fonte": "PublishNews",
-      "data_publicacao": "11/02/2021",
-      "data_iso": "2021-02-11T08:00:00+00:00",
       "categoria": "Papelaria"
     }
   ],
