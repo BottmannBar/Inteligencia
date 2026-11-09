@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-08T22:04:09.214947+00:00",
+  "coletado_em": "2026-11-09T06:26:29.863455+00:00",
   "populacao": {
     "fonte": "IBGE Cidades e Estados — referência oficial 2026 (API indisponível)",
     "url": "https://www.ibge.gov.br/cidades-e-estados/",
@@ -82,20 +82,20 @@
       "categoria": "Celulares"
     },
     {
+      "titulo": "Semana de Tecnologia da Fatec Praia Grande conecta ensino e mercado - Centro Paula Souza",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlV3U0ZLZXdaUDZyMy0yS3VqRk5HSE1GNUFfZkQ0dUpEQlo2RDQxM0NJdTJENHZVYXlVYjB2TW85YWxzaWg4Q3oxMWh0Zm9pRDdoN2hBZHhLbTFOODliVDNaUGRxd2gwc3pkWm1hRVpvd09EYmxDR01yYmx0UzlRMG9OTTBqd1NRNzUyU3JBQjRXc2tjNmlJN2Zn?oc=5",
+      "fonte": "Centro Paula Souza",
+      "data_publicacao": "19/10/2026",
+      "data_iso": "2026-10-19T07:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
       "titulo": "David Zylbersztajn | Sem transparência, não há confiança no mercado de combustíveis - Poder360",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUEJMOHg0M3pjSU9uY2dONXV1Z3o5MVVjV01PUl9jMnBmTHkzdmtzaWpjeHRVaHR2US1vRjQxdmN5TEtlaG5YR2NfQUxGb3JJbDVWdlVIT3JOeHYyVF9KdmdJYjFmU0NmMkVpdzJTeEsyTWhGZTh2WHR4YUtmcFpZSTJSUVprNjdRYXZvZDJJWS1sNzBDanVnWTkzZkFxdw?oc=5",
       "fonte": "Poder360",
       "data_publicacao": "18/10/2026",
       "data_iso": "2026-10-18T07:00:00+00:00",
       "categoria": "Combustíveis"
-    },
-    {
-      "titulo": "Galaxy A58 vazou, RedMagic 12 Pro Plus chegou e novos celulares no BR | Plantão TC - TudoCelular.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkFESkdSZUpXTENGWjhGZnlkRmRaWEV0bm02VGY1X0dkWHZyYk02RFdQUk9MRzlzYllkY0ZRWXJ3LVJXZ2Z5VVloUUp6aXRDQmRUbUhDTTNKUjZBWU1jbTJjTGVGX20xN3pzbXktVExJX1FTaUhBc2FDVy1Fc01VbXA2SEVscEdJODlUUkRza1VHdWZSQV92eG40MHdvVVU?oc=5",
-      "fonte": "TudoCelular.com",
-      "data_publicacao": "15/10/2026",
-      "data_iso": "2026-10-15T07:00:00+00:00",
-      "categoria": "Celulares"
     },
     {
       "titulo": "Brasil: Varejo cresce apenas 0,1% em agosto e vendas de móveis e eletrodomésticos despencam - ADVFN",
@@ -272,6 +272,14 @@
       "data_publicacao": "25/08/2026",
       "data_iso": "2026-08-25T07:00:00+00:00",
       "categoria": "Combustíveis"
+    },
+    {
+      "titulo": "Recuperação judicial de Casas Bahia, Marabraz e Tok&Stok escancara os gargalos do varejo - Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQnhIWFFfRS1GWnktUHJJODZxSGlkRWtqSTJJOEI4WGd2UW03Zl9lLWJTeUxadXB3SEpOX09DblFCSlhLOHVNNHkwMUlIMFBEWWNuclJ2TDZObjdtTHQ4ZVNObV9VMldXSHVnLV82TXhVbzBoMlFRUWhGd05KVWJjNkZQWlpHcVkzWkFnbENzNWt1MkxhLUd4ekZtektMbmtoLXRjTWdSbUctVHk1V0xJS0h2MlpRcWl4dkZyalIzNE1pejA4?oc=5",
+      "fonte": "Times Brasil | CNBC",
+      "data_publicacao": "17/08/2026",
+      "data_iso": "2026-08-17T07:00:00+00:00",
+      "categoria": "Eletrodomésticos"
     },
     {
       "titulo": "Suplementos, concierge e menos remédios: a proposta de luxo da Drogaria Iguatemi - InfoMoney",
@@ -490,6 +498,14 @@
       "categoria": "Automotivo"
     },
     {
+      "titulo": "Varejo tem queda disseminada em abril, aponta Stone - Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTRid1lwX2tOUmJKTllqeWIyTVBzc2NvVmlpTHJRWjJ0UHd4dEdxQll3TlpIb3kzdC1vWHhOenFvdlYzTzNNVWxxSGVuaUtBQWtOa1pnSmdrTHZ5WWxIS3dNM2x0MENTcFF5U2NTNnhLbTk5cC1xMEZMZnNEVFdVWDIzQjNvWkw4bF8td3M2blg5VmRKeVZjeGhNWWxvUDZUUDRPd3BmTWtGUdIBuAFBVV95cUxPZXVueEp6UlRkLURxeld4RjlmRjRnSzJtTUQ5NHh5Q0NoWldnVE5Td1M4RExlTy1LUkotU3pxYkdGS016V2l6QWZMNzZ5U0hpT0N4aXltZUUzVXBGdjNsY3dhZ1VJVFQ0WGhuV0llOVU1TjdYRGVNZTdhV0hnNHhHZXo0LUtHaGFGcktMazdWUlhGYUg0X3VNQUYyeHdMYWVid1luVHpSQnlGZ29xTjZpUnZ3blRMT1Ry?oc=5",
+      "fonte": "Valor Econômico",
+      "data_publicacao": "11/05/2026",
+      "data_iso": "2026-05-11T07:00:00+00:00",
+      "categoria": "Construção"
+    },
+    {
       "titulo": "Distribuidoras ganham margem no mercado de combustíveis - Safra",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUwxdVpOcGl6MG90RnUzQWlwcEVTX1IyX1QyTmFMZmVSSHNLTHFOZTdiczdkRG55cmFNaFV4aEh6WUhrYXlwSE9jVTA5bUl2OEprUmlycnR1Qkh5UWUzel9tOFc3dUtlZUt6UHRzSlRTWW12ZjNZb0ZhR01rSGZJWlc4NDVIWTJycVFkLTFjTQ?oc=5",
       "fonte": "Safra",
@@ -546,6 +562,22 @@
       "categoria": "Farmácia"
     },
     {
+      "titulo": "Importação de combustível despenca, e ANP vê 'situação excepcional de risco' - Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWExT3RJQVNSNEZQa3RuT1dNQW5pajhJdmxfem1mcGVrdWtnNXllZi16REI0cG10WDVjYWp4dUJrUk1ZalJxeXFSMllkUmtfclc4anRwbzc4bGJYN3pjNDVEcFE1N0s4cFg2UENkOGxCRjRPVDZGanFndGowR2pWNVNHTTA2RVZhWWFWbHg5SGIxLS1qa3JjeXVZT0VQUDZPYTVMNHdYMFRCSDN3b21hRm13M0VNWkJWZGN0NjVfaXIwejDSAcgBQVVfeXFMUFQwcjNZUUQ0ZjRhQzB6Um9Fd01pYUZHaUM0dXlrekZyUXZSMmZoalBoaXgtTEd5bTVOcW9vc21UWExCNi1pRzVUU01nLXp1OGhaX3N6Z2E2MEVRWEczaTZlMGZBQ3MtTjNlamJ2YVRReVY2ZEp6VWhJZUpfZ1ZDbXRpWl9sRXJVNVoxTjZqV1VOamtlYTBfODgxaVRkalZHUVliYWdlWGxsQlBEOG5wdGxTMUVUcTFiWDdqZXYzS2k1Z2E2WmgtRVM?oc=5",
+      "fonte": "Folha de S.Paulo",
+      "data_publicacao": "20/03/2026",
+      "data_iso": "2026-03-20T07:00:00+00:00",
+      "categoria": "Combustíveis"
+    },
+    {
+      "titulo": "S26 Ultra, Signature e Find X9: novos celulares elevam o mercado brasileiro - UOL",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSUk2NURTSC1KMzlPQU5VTjR6bDB6TjNLdGVhdjJQZllEc24zUDdmZ0tyZ01pQmRLZ0JDV3lZczhNd0hwQlQxSnpURmhpbFZfTUtFcjFvLWxuMXF4MjFsM09peTg1R1pnM2t3cTF4TkJIemhhQnhXVlZzV1B1WVM0UDdxZWRQbGU1Sl9oUXRRcTIyU3pCZXVSanptQjJvbGZkcmxnYVZoUjRnT1d5NmN5UnJDdXJCRVAwS2EteGJtRElmcWZsb1VJbWdkT3hkMDdjTEJtYnpubjVWQlk4?oc=5",
+      "fonte": "UOL",
+      "data_publicacao": "19/03/2026",
+      "data_iso": "2026-03-19T07:00:00+00:00",
+      "categoria": "Celulares"
+    },
+    {
       "titulo": "Reajuste do diesel mostra limitações do mercado no Brasil, diz FUP - Agência Brasil",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUG5XTlVmT1VTLVUzZDJfX3RTZjk2Z0hrU21wc0UybzIwWHdRalFNVnFoRUoxQU5JNDBQbmRRaWs1R0VRM1ktaHNKS3llRnRTWUVnVl9nVVF3M0oyZy1mVURoSUlMekIwVEpURU9raHlGYmZVZDB0WFFEMk16OG9VeDNiSjhzbXdvNGtVanlZc1VaLWE3bHFPOUJYeU5fdTBScUNLNzRqZWhQbGh2Z3dOMl9Ic1F1SG1sYmN1dlFNUFk?oc=5",
       "fonte": "Agência Brasil",
@@ -570,12 +602,12 @@
       "categoria": "Combustíveis"
     },
     {
-      "titulo": "Pressão por B16 e por reajuste da Petrobras: mercado nacional de combustíveis reage à alta do petróleo - eixos",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2hncGROMWo3SERIZlZPaTZGd3FEMWN4SVlaaklWOC1FYkpDNzBEWXVVSW42VTRla0R5ZlhjcjhPcmFvdGpSMkxqamRfYmVXZXR3dksybktsYzZOdWtFcGZJdlpPRU15Y0luUnZqQTBjQUtFc1hjMFRQeFp5ZDJjcG1rc21CT3JBb2RrWi1hMEhnbXhmSzk4QUhVX2dKSnhjNXJsUGRvaFpuSElqNU11TTB3ZUQ0TXp6YThRenEwZDZqY3BvYVRyOXViQ3dObURCczNxcnZ4cl83alRiRzQtTlRfXzI?oc=5",
-      "fonte": "eixos",
-      "data_publicacao": "05/03/2026",
-      "data_iso": "2026-03-05T08:00:00+00:00",
-      "categoria": "Combustíveis"
+      "titulo": "Mercado Livre traz ofertas em celulares Galaxy e outros produtos Samsung - Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc3dlZk9sQ29aaFdYS29WalE5QXBWMmo0R2JCNWFJMVg0TnJmVDFEQVR6TGlnUExVTnYzcXNMWUF0cXlsWW1Id05UQnNDekFlN2daMHVtajI2SEZGRmNBdmlIT0paTUxmNlhzMlpMYk4wX2s5cE9NX3NvcGJDRDB5dnFoUnVrZlFGNy0zeUFqaHpJY1ZHZFdMcWF0aUdUd3NybnFGZnRjeVRab2VWUFJ0Z0JyVGs2amV0akVsOFVCRUNJUVIyNUV0UF9zbWTSAdIBQVVfeXFMTlpHTm1XaGpNYU9pMUM0cWNtdy1IWDg1aTFoOTRLREt4MGt6c1VpQTRXTFA0S3pWYTRZOU9oTlExUF9OWmtSeTZOZE1EZWtZeE9oNWlxUHo0N1ZnNnJQYnpOZlBjZjdvNHdqbzdhWV91NEJ2ZV9nbERhaWJxSVdLUlo2OThNdHpHem9aVE1qMm9TbHJrYUp1aDBvRVJmU2pMWEthb2tUX2NnYkNXdFNvSDZ6WElVQWtEYk93UDFPY19TN2U3NU05c1dRSTluLVd2T3BR?oc=5",
+      "fonte": "Estadão",
+      "data_publicacao": "09/03/2026",
+      "data_iso": "2026-03-09T07:00:00+00:00",
+      "categoria": "Celulares"
     },
     {
       "titulo": "Varejo de moda acumula alta de 1,30% em 2025 - GBLJeans",
@@ -584,14 +616,6 @@
       "data_publicacao": "24/02/2026",
       "data_iso": "2026-02-24T08:00:00+00:00",
       "categoria": "Moda"
-    },
-    {
-      "titulo": "Dia de Campo de Verão 2026 reúne tecnologia, mercado e inovação - O Presente Rural",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaV9ZQzV6QWZickxUSHVqcTdvVmhFVXhsc1c2N1FqMmFBMTVVb1h1ODJxRHpqTTVaZDdpZnZRSUkzQjdiX1lPTVpVV0FhalRSYTF2UUgxSjVHSWEyemdYdVhRbVRiWkE0ZGNZYXFIX0d0dFAzMU9MV1JBTm1IckQ1MV9BOGhfVUJmTG9CVFI3R0xQRnhvYlJLeg?oc=5",
-      "fonte": "O Presente Rural",
-      "data_publicacao": "23/02/2026",
-      "data_iso": "2026-02-23T08:00:00+00:00",
-      "categoria": "Tecnologia"
     },
     {
       "titulo": "Como o boom dos atacarejos mudou o mapa do varejo de alimentos na última década - Estadão",
@@ -631,14 +655,6 @@
       "fonte": "Agência Brasil",
       "data_publicacao": "15/01/2026",
       "data_iso": "2026-01-15T08:00:00+00:00",
-      "categoria": "Eletrodomésticos"
-    },
-    {
-      "titulo": "Varejo brasileiro fecha 2025 com queda de 0,5%, aponta Índice do Varejo Stone - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0NxYm5sSm9yeEx3R3h4WGxrXzREUXFndXBWekFMdDdNNldyRFlfVk1NOVBSanppTXo5NmJEQmJnc0xaN3d2SDZBeWZ1ZUtER0hTU083LTB5Nk5hWXdjRVNlRzBHTXBzR2VaSHJ0NDE1dGd3c1pYOFJ3WWdqM3U0aEwxQnpqbnczLWY3VXdHSHAzWTROZEV3aUJoTjRZYV8ybzV5bHZPUXJfX1dVQ2tVaHdVb9IBuAFBVV95cUxNTGVGZVFzUWpuN0FwYl9QSkZJN3Frck9UR180b0tDOGNGRnhSMnEwYzBiTmlhTEJ0YlNUWllXSVJyaHdhWm1OcVo3Ti1STUhoT1dObjNCRC1FejNmVFctRG55SGMwSVZHWFRrUXFSTHY0eVUycngxYXJlME9FaW5oYzRKYWVtV0lzaV90WUI2bF9JUlMxTnlXOGlQeEQ5cVdOZXk3RXV2WGoxZjh5YmFUaXpGTTZDSFVz?oc=5",
-      "fonte": "InfoMoney",
-      "data_publicacao": "14/01/2026",
-      "data_iso": "2026-01-14T08:00:00+00:00",
       "categoria": "Eletrodomésticos"
     },
     {
@@ -784,14 +800,6 @@
       "data_publicacao": "29/08/2023",
       "data_iso": "2023-08-29T07:00:00+00:00",
       "categoria": "Moda"
-    },
-    {
-      "titulo": "Motorola coloca dois novos celulares no mercado e prepara mais lançamentos - TeleSíntese",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHEycklSWUdVdWl6NHdUWVQzWDA3ZURTT0JON0lyZDhJZWlSdjZhbEQ3c08zVmdpMVlRYjRmcnc3VUtSRDJpV0xCMzZIMnYzLWNCWHBubVR5MlhJTzEtQVpmS1NmTnR3dm1TVGlwbGpBcEhadWhwUVV1dnJvZThDQVJybmctb3JxdEdKd0JWenVldGlibFpxQW95Z1R3UWFLOHBxLQ?oc=5",
-      "fonte": "TeleSíntese",
-      "data_publicacao": "08/06/2022",
-      "data_iso": "2022-06-08T07:00:00+00:00",
-      "categoria": "Celulares"
     },
     {
       "titulo": "IBGE: venda de ‘Livros, jornais, revistas e papelaria’ cresce 5% em junho - PublishNews",
