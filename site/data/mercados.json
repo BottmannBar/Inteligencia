@@ -1,22 +1,22 @@
 {
-  "coletado_em": "2026-11-10T04:09:49.583164+00:00",
+  "coletado_em": "2026-11-10T17:54:28.386869+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
-      "venda": 5.5146,
-      "data": "09/11/2026",
-      "data_iso": "2026-11-09",
-      "variacao_pct": 0.242,
+      "venda": 5.584,
+      "data": "10/11/2026",
+      "data_iso": "2026-11-10",
+      "variacao_pct": 1.258,
       "fonte": "BCB / PTAX fechamento · venda",
       "url": "https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios",
       "preservado": false
     },
     "EUR": {
       "codigo": "EUR",
-      "venda": 6.1741,
-      "data": "09/11/2026",
-      "data_iso": "2026-11-09",
-      "variacao_pct": 0.691,
+      "venda": 6.2317,
+      "data": "10/11/2026",
+      "data_iso": "2026-11-10",
+      "variacao_pct": 0.933,
       "fonte": "BCB / PTAX fechamento · venda",
       "url": "https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios",
       "preservado": false
@@ -66,6 +66,14 @@
       "data_iso": "2026-09-17T07:00:00+00:00"
     },
     {
+      "titulo": "FIIs buscam espaço em índices e ETFs internacionais - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcTRtWGpJanhfbkhYVmotcDFQdUxRWUpGQjZ5YUs2WXYzaVdMQ2tGQm9zVU0zVVNaZkhCUUlKc0NneTRWM0VTNWoxMnFhRzJVYkNkMTN0S3h2VkFMU0NoNThRWFBxc1JGRW9BYlJIZ215SDlYQ1o0YmNOOXRfTTh2VkVPeVJZR09hZFhtTEJZVTVSRTJva1pmbnJ3QzJUeV9UY2dUWkxfbDdNVVRtVUFXUnBNUVZOTzFKbWlYMEdDd2JRSVE3RHZNeDVBMjcxQVFieWdXQjV4a1o?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "18/08/2026",
+      "data_iso": "2026-08-18T07:00:00+00:00"
+    },
+    {
       "titulo": "B3 amplia mercado a termo e inclui 99 novos FIIs; veja o que muda para o investidor - Fiis",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUwzODNvRXN5dzh4M1ZZbjVkTVBJLXByNURIbUFqVXdGejVYLWVOamZfMGQwYm1rYVlSbWlXMzQ4SXVVaEt0eXBUMm5GOEVIVEZ2U1FHalN2Q3dyUjNGbGl5eUtxQnVpRjZMblRjTHo2enFJSENPWHFyMkRqbVoyQ2NZVTQxWlo1M2JxN0lveVhsTXpidS1PYnI1OUhVMTJxRnBQeDJCbXA3OHczaGZ0NTBB?oc=5",
       "categoria": "FIIs",
@@ -80,6 +88,22 @@
       "fonte": "Acontecendo Aqui",
       "data_publicacao": "17/08/2026",
       "data_iso": "2026-08-17T07:00:00+00:00"
+    },
+    {
+      "titulo": "Agenda de dividendos: confira quais FIIs pagam na primeira semana de agosto - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaC1abmNSVWVsQ1R3QWd3U1J1dmZrdXp6em13T3F1U1k5bm1vcXlwRXNaSjlSMXZHcjlGSEJFRHI2ZklqblNGelNpdDFUZDZmNmxKTGpkbUVsMDBHVElFX1hmWnY1dDF0a3oyZHpOUGl1bUg2Uk5WR3A2LTFUU1R6RERITTVuZVJSd0VWV1BCNmFVZDg3RXE0cGdIakZ6SFZBWjRMMHlHM0pOS0JMRWVGbEdSd0IzQQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "03/08/2026",
+      "data_iso": "2026-08-03T07:00:00+00:00"
+    },
+    {
+      "titulo": "Investimentos em bolsa no 2º semestre: quais as perspectivas e setores para ficar de olho - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN1FKUkFNNXJHT0xHbFpfell6X0VMRUp2eWprTWR6YjVZYldPbVhwMmIwbktOVmhUcDhjU2hfWnBIcUN2WktfSkNDeGx3RWY2ek9hMDBJMFdDeU9CbjRrMnJBWnh5eUcyQ3BOTXpNemtOdEFYS0JSZFFOc2s4dnVOM1F1QVhLc2xfRVlHWk80QWhiNEQzVFhlaTNpdkF1VENpTHZROW94R0JDeXBONGRoR2kwQk93SGpSVzIyMXBSb1BfcU5hQVZpMDA2akhzN0JlS3FuVWMwT1NCQ3g0QmtsZGZBN0FzYnpPR0w0VFFQQQ?oc=5",
+      "categoria": "Ações",
+      "fonte": "Bora Investir",
+      "data_publicacao": "29/07/2026",
+      "data_iso": "2026-07-29T07:00:00+00:00"
     },
     {
       "titulo": "As 10 moedas que mais valorizaram em 2026 - Remessa Online",
@@ -106,14 +130,6 @@
       "data_iso": "2026-07-10T07:00:00+00:00"
     },
     {
-      "titulo": "Existe um dividend yield mínimo para investir em FIIs? - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcU9nVGdfUVRHQmhmZjlLeWF1dFIwZEZlZFZpa3RxeHFiVXAxdi1Zekdobm1CeXc1b2prc3BHdmxCOXRJYzVSdmctQWVEYUJ2Rm9xVnJJMjZ3aE90ajJkRW1Xajdic1NBNEp1WmJ5MmJkOUlIQi1HclVZeVpRSVhZTEVGY0VFM1JEeWRwcUhYZlBwQjlQVlRwMGFDc0lnbXZzamNPSkd0ekU0U1lYbHNDZjdOZExnd0tRRXFsRUdtVlUyZ2NyaU5HRDY0ZmRNRURDTTBzM1Y0TUFINzQ?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "07/07/2026",
-      "data_iso": "2026-07-07T07:00:00+00:00"
-    },
-    {
       "titulo": "As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZGNuMUpKZ0VxYXpuSGFPaEoxN0RKX2JSUDJwSS1mdklpOHBrZnktQXA0SDBiU1pSVU8ydHZuSEh5Qk1NbkdyOUJOTUJmUXRaOGtVYlZrQWpaaTBIMEtnUHBGejdOYlNLbGZtRHNHRWFlNTNYbWpONW1HSDhzZVA1VTE5Z0QzdjRORmIwU0Y4TWNyYzQzWUxEMWtrWXhlRUZIVkNOeW5DV1BSVWwxTWc0MnRzMGxpR3o4Wll6SE01Vk9ndkVwWkZicjVZcXhFTUdnZUt4ci1WWWtveHpCc3ZHQk9sVUJwYlRzUTBnQWtzWWhqRmNpWUxN?oc=5",
       "categoria": "Ações",
@@ -138,14 +154,6 @@
       "data_iso": "2026-05-12T07:00:00+00:00"
     },
     {
-      "titulo": "Bolsa cai mais de 2% e atinge menor nível desde o fim de março - Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjE0enQ1cUZrYzN4UWFja3pDdEpwczdLVXhDb0QxUV9wTlF5UlppLW84SlVsUXREa3d5WkFnbHpqR0lRZS1LTEhpeFZRc0kzWXN2S3daNlhSUzZvTWFOMy1tbXBfZV9GQlB3WXFjZlpoQXFoX0xPemttYURSWng3aGUzajdNa2JKRlAwUWNfUGZweTlLSWVBUC1sZlEzTUVEQ2ltVE0taEtFTW52TEtjWW8xbDNKSGFWeWVR?oc=5",
-      "categoria": "Ações",
-      "fonte": "Agência Brasil",
-      "data_publicacao": "07/05/2026",
-      "data_iso": "2026-05-07T07:00:00+00:00"
-    },
-    {
       "titulo": "Por que analistas estrangeiros indicam que Brasil vive 'momento de ouro' na economia - BBC",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOeTFwT3I2OGFvQXU4U1JsNnAyN1RBTUxtZ0xTLXZ3M0xyOGxaeUxmZWtBYXlVSWNfTVFUVHNsTkp5TUF1Z2dWZWdDNGNEc0FlUlVDY282SVEwdVRVNEgteExn0gFnQVVfeXFMT1JZbkJHaUNQME1NUU9WV0NvVy1FeEhsMWh0SWRPdVVUbFd5dzlIWG1zdkpTSDBiQVB1Yjh1S3FiajlLTzlGQThBQkVUaTVSWW5tQzRUUTZ4aXdvNmFWNXBNb0ZhRERrWQ?oc=5",
       "categoria": "Commodities",
@@ -168,14 +176,6 @@
       "fonte": "Bora Investir",
       "data_publicacao": "25/03/2026",
       "data_iso": "2026-03-25T07:00:00+00:00"
-    },
-    {
-      "titulo": "Negociação diária de Fundos Imobiliários (FIIs) cresce 49,8% nos dois primeiros meses de 2026 - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLVdRYlQyVDJYLVQ5SjB2WUhFdTZzekVvSVBlaWpMbDVhYk14SlYzQkpxN09XNEtJdWpfQmRkYldueFFzWjh5aGRiSWhGZzRjOHpNVHZubG5RX205VkNFLXk4ZEJrWF8tUUhLbXI0UlpOTzY4T2RrUzdMY2hUbDI1U2VRU2pMbW1oNlEzUUkzR3F1VmRERXh3aFFERTVhYk1pN2pfSXUtV3ZGWVk0WXpPY1NpbVRqUjJ6NjIzVUJMQmdaQ2V0bzZfbjc2MnFnTTRWTzVzcVg1UVhrRTJwWVJnTVZuUnNlODNhZkV0UzZMTlI3UUh2cWxqSngxaHpxVUhUQU4yWFg2Zm83Y3c?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "17/03/2026",
-      "data_iso": "2026-03-17T07:00:00+00:00"
     },
     {
       "titulo": "Melhor Plataforma para Negociação de Commodities no Brasil em 2026: Top 7 Corretoras para Começar - Mitrade",
@@ -210,6 +210,14 @@
       "data_iso": "2026-03-02T08:00:00+00:00"
     },
     {
+      "titulo": "Dividendos de FIIs: confira a agenda dos fundos que pagam na última semana de fevereiro - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOcTE5THF5ZFgxbGhuNERPZ0F6R21pSHhJZ1VRQmV4a3Rtcm1TT01TOExheVNYWjlseWNiS3haeW5MS1Y0VHppLVJYREpYazBZa2JJeVo0Q0pTWFh4S2xTaVVsc3RWM3hMUHB5bzA5NzBSbDIwQ1dlQTdaUVYtV0MyXzNHM3duajdUU1JIeE5tSnRmT25Bem1JWURDRXh1d0pyb0s0X0o0Q0t4amtQQ0xCdHhramR1c242WXdzWUNtRkVjOWNTNWpxX3ROY2RwblU1Z1pzeDBSaEVLT3FJMU1IY3hxei1rRE0zUXZEZG9SelY5UzR2bjkxZGtfSW9hdjNRR0dHVWEyUQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "23/02/2026",
+      "data_iso": "2026-02-23T08:00:00+00:00"
+    },
+    {
       "titulo": "FIIs de papel dominam lista dos que mais se valorizaram em 2026 até agora. Veja os top 10 retornos - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPMGJFN0NhdDB4LXd1b1Z5ODF1TFFtcDVXbE5UTFhBN25HclllZW9YYW55bFJkMmxvcEI5MWZKeXBsazIwVG5zT05oSmxaTklycXVub09JcWtRdEl0dDVCaFd2TnN3UkxDLS02VndvSUdrdWVZRnRuV0NuN3l2WXV4UGJHd09aMU1VVzdVV0sycmN3VEQ2czRjZEJkZUNPaW04VWVsVzBoRHNaakVDZk91Y2lOMlJHaUNyLWx3LXhiTUNlSktKeWtMd0Fma1pwV2s0SEJfRnlpTTBwbmRSVmkyejZqZVEyQnVuU3ZBMVRpUC1mRk4zTDJTXzJfRlM2SlN1b3cxamc2dnI0bExEWkp4U1pxZHdkUQ?oc=5",
       "categoria": "FIIs",
@@ -224,14 +232,6 @@
       "fonte": "Bora Investir",
       "data_publicacao": "09/02/2026",
       "data_iso": "2026-02-09T08:00:00+00:00"
-    },
-    {
-      "titulo": "Bolsa cai mais de 2% em dia de forte correção no mercado - Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEpXMTlGX0xDbTBjeWRvZ0RpMVY3X25aUkNtXzlBMnFRLU9iRXJiZ1o1X3J3UDgwU2FKTUFkektwRTV3ZXBEaUFQb1BfWHVHNTBCMEVPNl91Zjk2YWQ5SjRzNDdiTXRTNUo2THRpYktaOUVMVEVPZzZESW10ck85N19uM3Z5M3dNSDlWemgwVHdGSmdzQk9GV1NxMjdEMzdxX19WR2prTkhmbE1fWGYySlZkSQ?oc=5",
-      "categoria": "Ações",
-      "fonte": "Agência Brasil",
-      "data_publicacao": "04/02/2026",
-      "data_iso": "2026-02-04T08:00:00+00:00"
     },
     {
       "titulo": "Ibovespa B3 tem maior valorização em janeiro desde 2006. Saiba como usar o índice para investir - Bora Investir",
@@ -266,20 +266,20 @@
       "data_iso": "2026-01-20T08:00:00+00:00"
     },
     {
-      "titulo": "Conheça os 3 fatores que devem impulsionar os FIIs em 2026 - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzUwUE5WZzZzTlNJVzUzMG5hYWpzNkt6ck5FVFc4RUw5SDRQeVFtbWVOR1Vqc3BuR0V3LUpCZXJJdjM3VE0zMkhBdFVjcjBHa2ZZOWR5YmVzbzc3cDRHYmdDYmRqMGdYYmpBRkVicUZBNVU1elVwV2VNeFV6c05YbmJmMWUySHZpczU3QkJmbFZ1N1pJRXRDaGxOS3h0OXd3UzRvdDdLbUl3Tjk0eGVIV2Vuc28xUGdMVFFCVlpWQUctMVRweTdhNVJ2YWYzWmVGVEpod0RLcTdibG1RcEFSTFV3?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "15/01/2026",
-      "data_iso": "2026-01-15T08:00:00+00:00"
-    },
-    {
       "titulo": "Agenda de dividendos de FIIs: saiba os fundos que pagam na semana de 12 de janeiro - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2stOXFnVkFtQmNEal9MamkycDFueTYxSGFHcDdBU1VBZXlmeUhrcElWa09fZEZTWFJVamF2TzY0OWIyTVNaQ2UwdUJBSHFFTlkzTHZmdjFHOVFFdmF6eC14Ujk1WlJsLU8xY1JZaDhMM1RMazlkMi1Bemdia1ZDX18xNmZ6QkJrVkJsNnk0SWlCX2pBaGltUmNPMHZ3M0x5d1ExVEdhN1RScFgtb1E1ZjY2TkZQYVJUdHFUaWtZTQ?oc=5",
       "categoria": "FIIs",
       "fonte": "Bora Investir",
       "data_publicacao": "12/01/2026",
       "data_iso": "2026-01-12T08:00:00+00:00"
+    },
+    {
+      "titulo": "Conheça as ações que mais pagaram dividendos em 2025 - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeTYxb2VlRmNQWFZQc2t6ZVRIUVhJREgtdHAxZFBGLXpHZENkSTB1OE5uMXhnb3FOVkFseTIwbERQbUptXzJQV0tZMWdBdDd2ZS1mQlFWY2J3dk5XalcxYXZzU0tPeVd0ZThubG5DMGxySk1tbnV2enh6NHZpeHE5X0c0RGJHdWQ3NWhxVXpkdm5PNTEteUZwRUxpazBZdmF4Y2lQdk5QaXNyM3hTcXVzem1EMWRvNFFNeUVzNy1jbmJpNldLVHBN?oc=5",
+      "categoria": "Ações",
+      "fonte": "Bora Investir",
+      "data_publicacao": "08/01/2026",
+      "data_iso": "2026-01-08T08:00:00+00:00"
     },
     {
       "titulo": "Conheça as ações do Ibovespa B3 que mais pagaram dividendos em 2025 até agora - Bora Investir",
@@ -346,14 +346,6 @@
       "data_iso": "2023-08-12T00:58:19+00:00"
     },
     {
-      "titulo": "Dólar? Euro? Libra? Yuan? Saiba como escolher a melhor moeda para formar uma reserva internacional - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWZvdGhrR2VtX1dHODVodmRsa0haVGZqRHFpWjJac2VFdVV4aDhSX0RHUC1UMThocmhDNTZuSkNZSmRXY05xWDFuYzM5TnhHUW1vVzNoOWZIZnQxTU9QU29ZT3JES0Jfalo2UXJnZEpBd1JiRVl2NkRmZ3I2cTlPN0hmb3R5QWVHZEdGMWFXbFZycWt2WU5lZ1FQTl9NeE9ZeXg3OUhhX1F5SHV5YldnNmphUTFyNDFyMjR3MEdCRjJmaFVxbFVzM09tdktUUWRDMldrZdIB2gFBVV95cUxPOE56eFIybUZpcGswOHZsSUtMN09LSkZrMlN4clFHaVpJOWJlUnFWTm9ZVzhfUGVGay0tTDU3SlMwWlpoTTlkUy1aQ0ptWjlkSVJnckEyNHVjOEpLb1dZR1JMU0tDMm5PLWhkbmpySllqdEdvT29QeWpVWmxFTjdyMXNjSGpmYW94cVhvU01nbEMxRTRzc185TkxiRHdidmhkX3FYYjhvQTg5Q210VE9ibDNUWnpXOEFMdV9pOFAwUGxlVHhJMXJld1l0RG9VTUlHcV9TX29vb3ZJZw?oc=5",
-      "categoria": "Câmbio",
-      "fonte": "InfoMoney",
-      "data_publicacao": "07/06/2023",
-      "data_iso": "2023-06-07T07:00:00+00:00"
-    },
-    {
       "titulo": "Operações comerciais entre Brasil e China sem uso de dólar devem ter início em julho - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUVBDRDZyOGtDS0MyZHRWc2FvRFI5MHRrZEZTcWVMOFR5ZGlKdzM5X2hjOVZHMmZiQkFJcG9rTHZuWURMMnpsSERzMEpyVU03d19qYjZ2a1hydjZhSkxPMlZHU2xpSVZSRWxiYXUxRUxJQU1JTWJNdFdXRGlHdmhkZVo2NFBKSlVVT2MzS1RrUF93bzh4dWlfaGE4Vkl5MUZfdlVtelk2c3RLQUp1Si1lYXAwZnh0YTJYWVFyOThiMXRydkJOVkludE0wbmhQQVkzSFdr?oc=5",
       "categoria": "Câmbio",
@@ -376,6 +368,14 @@
       "fonte": "UOL Economia",
       "data_publicacao": "30/08/2016",
       "data_iso": "2016-08-30T23:42:51+00:00"
+    },
+    {
+      "titulo": "Euro: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tN3M2V1dSMU92bEx4N21YQnpqeW5CNlF4V1hLV3FvTnB1Z0h4ZHcxb2x6elJ2NXRrc3FuWDg1azZnbHh3bV81ZEJwcEM4MGxURll2VmdUMzdOa2U5UndLUVNyVlFlaTJIRkRBcy1JMHktQQ?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "UOL Economia",
+      "data_publicacao": "24/08/2016",
+      "data_iso": "2016-08-24T11:03:43+00:00"
     },
     {
       "titulo": "Yuan: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
