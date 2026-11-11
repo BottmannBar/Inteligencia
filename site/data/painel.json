@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-10T19:43:11.910270+00:00",
+  "coletado_em": "2026-11-11T06:18:45.802428+00:00",
   "populacao": {
     "fonte": "IBGE Cidades e Estados — referência oficial 2026 (API indisponível)",
     "url": "https://www.ibge.gov.br/cidades-e-estados/",
@@ -18,20 +18,20 @@
   },
   "noticias": [
     {
+      "titulo": "O carro mudou, o cliente também: Leonardo Dall’Olio analisa nova fase do mercado automotivo brasileiro - Economic News Brasil",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTZzUk5wbzlSdHFtb3NlMHlQWlFaZktFOU5yR201VTVBYjdQck8xc3JoUzN2cTNPUHhwbUF3M1dZZm13bktONmZMbGNXbGhyWENlQ2laeE9xcEhNMXo5bnUzdDRuZ1RYZ3pLLVNrSk53Y09uZ2hhSjQ0YU1paExGeFpnWnhra2hTeXdYN3lBTlJWZ3VLeTV1Qw?oc=5",
+      "fonte": "Economic News Brasil",
+      "data_publicacao": "10/11/2026",
+      "data_iso": "2026-11-10T22:48:00+00:00",
+      "categoria": "Automotivo"
+    },
+    {
       "titulo": "EXCLUSIVO: Varejo deve fechar 2026 quase estagnado, e móveis e eletrodomésticos devem vender 10% menos em novembro - Times Brasil | CNBC",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRE91a2d4NEU3OXd2bmhWOEhPTm5FQmpSdTUxVDlROWRlazZ3eG0yM04ycGhvRHk1TmRWdmZRcDhHZzBsUndnWkxiYkpvcGVPcGtCNjBrVDY5bXhwLXJJQTgyMFJFVE0tdXlHb25VSFpQWmZuTzZnWjhQTml3azdwRzIxcmpHMVNsODV4eDNqdl92V09WWXVOWkdOcXE3R2JfVXRIVHl0bHByLW9YY3lMMEJhRE5aZjBReUdBOFZ0dmdHc3M?oc=5",
       "fonte": "Times Brasil | CNBC",
       "data_publicacao": "08/11/2026",
       "data_iso": "2026-11-08T10:15:00+00:00",
       "categoria": "Eletrodomésticos"
-    },
-    {
-      "titulo": "Canetas emagrecedoras impulsionam busca por vitaminas e suplementos - Grupo Jota Sidney",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPak1EUzRzVXRsaTl2UFljWmdQYVljTG5VU2ZqY0gybmNUWVNJdVhiNWMzeUpNR2hUTmw4RGFVY2Y5YXZMdW1FOEp6WnFBWU5NMmMzQUl0LUNWeU40NGJxVnRPSlgwRC1VTEY3V3FNY3l3SDNtanNOc01aV0J0TVRPZ0JtVEdWUHlSX2NyLVRtaFVSX2dSXzRLUC1udGZrRnBVUExfNGttMFg5Xy1uZkdnWWwyTlVSazg0VWhhRXBmRzhYbXBzaUNTeUEzbkhZTTNFUmxqSzRtcG5BeUZtUWFUYVRGMkbSAeoBQVVfeXFMT0c3U0UwMjNZX3hCakhzM0xkbjdvNXhEZVROMjhsRFRJLVo2amtMR19vRVlCTTBrbGVkY1JYY1NVM0UydGZ0aVk3WndkRE95TWZvRS04V2VSdFVkWlI2UFJyd2Q2Y25rRkl6SEZ2NGV6cXQ1TS1HbjBrX01CcDBsSURsLWJMQkdKNFBJd2hyMTlQMEt3cVZIODBQZjQwcXJfLVNLbDE0SjNsUUVuSHF5ajBDa0lrYUdDMi1ka1UtMGtYbThkaG55ZXB5c25Md2N1UW1TT0hYLTRmWEpaU2VjemVMXzVCX3hwa3ZR?oc=5",
-      "fonte": "Grupo Jota Sidney",
-      "data_publicacao": "06/11/2026",
-      "data_iso": "2026-11-06T20:11:19+00:00",
-      "categoria": "Farmácia"
     },
     {
       "titulo": "Veja os 50 carros mais vendidos do Brasil em outubro de 2026 - Autoesporte",
@@ -66,12 +66,28 @@
       "categoria": "Tecnologia"
     },
     {
+      "titulo": "A disputa no balcão da farmácia: CEO da Pague Menos abre o jogo sobre o Mercado Livre - NeoFeed",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHpMbVRLSkJYZ2JiWlJYTW9uMXdUSUtzV3Yyc1ZMNy14WVI3RHJ6RzNoZkFYUndSc3NBa0x6WWdfTDBCNEZRb1JlMnlxeTlVNld0Tmd5QXZNZU5VTmxBV2hfZzdpOGgtekxmUEppa2IyZjFrUWFVUjIwRTRsYWF0eEpLRjhxUG5UbHAwdEZpeTR2V3VNckwtX2pGZFlmQXVUaHpRVEdsVUd1dG1MWWxmM2pjREZjbzJR?oc=5",
+      "fonte": "NeoFeed",
+      "data_publicacao": "30/10/2026",
+      "data_iso": "2026-10-30T07:00:00+00:00",
+      "categoria": "Farmácia"
+    },
+    {
       "titulo": "Celulares seminovos ganham espaço e pressionam mercado de aparelhos novos - Hora Campinas",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFJpRjBxeFpKcFpzOEw2ZWpvV1gzRVA1ZzliZGxWcFpLM2tBRGVVVGZNTjlHQ09xSEREMVhDcUFGMEo2ajR6NWtXTXpLX1lNU253V2NqZFVqT0N6RTVwSlVZdVE3dFJBdlRGalZmWk83RHVuNm1JbFo4cVlVTzcxcjBsN0ZWUHFDOXlyT2R4MDJyWFFWdTJTS0ZOLWkzaFdnNmVTYg?oc=5",
       "fonte": "Hora Campinas",
       "data_publicacao": "29/10/2026",
       "data_iso": "2026-10-29T21:55:22+00:00",
       "categoria": "Celulares"
+    },
+    {
+      "titulo": "Associação de supermercados associa aumento no consumo de alimentos no Brasil ao fim das bets - Folha do Estado da Bahia",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcm5GRGpnWHdaMHE4NDBqNGxiUk12YnVIeFFVUFN5aEg1ejB2NEF6TUZjOUE0WE50VlVpcWhBMEEwUFF3cWVUSTdQdUk4QUxPanhsWThTd3lCYXZOOFVNOXJsUGhiU093aXBjaW51dGM0dFFKTS1ud2RVWlE2NEJod2pvbGRDOEhsOUFTSUZzREU1RjVfMnFOUlRheDVnQ2ZjS0o3R3NZc3Rwb1FoWEdwMmpVTjRTVzVQODg0RUhaRHNOR2RBVm5kWnBoTXpwVDhselZ1STh3?oc=5",
+      "fonte": "Folha do Estado da Bahia",
+      "data_publicacao": "28/10/2026",
+      "data_iso": "2026-10-28T20:39:48+00:00",
+      "categoria": "Supermercados"
     },
     {
       "titulo": "Consumo de alimentos cresce após proibição das bets no país, diz Abras - Agência Brasil",
@@ -94,7 +110,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlV3U0ZLZXdaUDZyMy0yS3VqRk5HSE1GNUFfZkQ0dUpEQlo2RDQxM0NJdTJENHZVYXlVYjB2TW85YWxzaWg4Q3oxMWh0Zm9pRDdoN2hBZHhLbTFOODliVDNaUGRxd2gwc3pkWm1hRVpvd09EYmxDR01yYmx0UzlRMG9OTTBqd1NRNzUyU3JBQjRXc2tjNmlJN2Zn?oc=5",
       "fonte": "Centro Paula Souza",
       "data_publicacao": "19/10/2026",
-      "data_iso": "2026-10-19T07:00:00+00:00",
+      "data_iso": "2026-10-19T13:11:53+00:00",
       "categoria": "Tecnologia"
     },
     {
@@ -394,20 +410,20 @@
       "categoria": "Papelaria"
     },
     {
-      "titulo": "Inflação de alimentos pesa e compromete desempenho de vendas do varejo em maio | Brasil - Valor Econômico",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGhVZWgyNThkRm9CRzBkclpQYzdqS0xTbmhSZEN3bmdFMFQtNFZzd0lJUXZuY2o2NXZVb1Z2dkhIR1k4VlBpcXYwV1owdUk0MHNGV0NsUVFFU0d6YzJscThfU2JsSmo1ZUNCNzlDYW1nelJvTUpxNEl0OXNzZzRFOUxsQllBelF5bUNjbXRFX0NQX3FSX1J1TGUyUTEwOHh5NklTT3RTM2VIdmNPS3EtTUl3N3BSS0VCeVpNYzJPeVRaZ1BtbDRuVDI2OTZCblk?oc=5",
+      "titulo": "Varejo do RN cresce pelo 14º mês consecutivo, impulsionado por farmácias, cosméticos, móveis e eletrodomésticos - Fecomércio RN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdkd1Z0kxR1pjaW5uNmswVGZYRTZYUlJyT0Y3NDhxanIzR0VRYmNLSmp2S1lNSlR5RTFWbXFJdUs0Y3pZMmJqdjdaZ2xvMFhSVm9DVmpzX3liTHFOTUdGRmF5RFVoc0VVMTJtb0x1U21EWHFQNmR0YkJqZzBNcVpVd2FBNWhZUEl4djN1YmNJVmd2VU9odU10anlSN3BoZVo0VFBvNk5qM0Y5TlFxTU42YmJZUTRuUnlpODVTd3FyZjNidE5zSFF5QnBtcGs3STh0Y1F0cFZidFQyMVRTRUlj?oc=5",
+      "fonte": "Fecomércio RN",
+      "data_publicacao": "20/07/2026",
+      "data_iso": "2026-07-20T07:00:00+00:00",
+      "categoria": "Eletrodomésticos"
+    },
+    {
+      "titulo": "Inflação de alimentos pesa e compromete desempenho de vendas do varejo em maio - Valor Econômico",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGhVZWgyNThkRm9CRzBkclpQYzdqS0xTbmhSZEN3bmdFMFQtNFZzd0lJUXZuY2o2NXZVb1Z2dkhIR1k4VlBpcXYwV1owdUk0MHNGV0NsUVFFU0d6YzJscThfU2JsSmo1ZUNCNzlDYW1nelJvTUpxNEl0OXNzZzRFOUxsQllBelF5bUNjbXRFX0NQX3FSX1J1TGUyUTEwOHh5NklTT3RTM2VIdmNPS3EtTUl3N3BSS0VCeVpNYzJPeVRaZ1BtbDRuVDI2OTZCblnSAd4BQVVfeXFMTl8tMG9PelJRdkd1M3BLQnRZSU90azYtT0N6eEhPN1dLWTRCWE83TW12Q3pmdW1Pd3JkdWJ0WjVCUDZzTXJmd2d4THhPc3BiUnJtcUtZQlN0VzI3OGprcEptR28xWHFzeEZsYXBRWVRuTTNGdUNxeHNnZ2lpYzY3VXcwUXJtWURyc2FTUlRfRFNrWEFqa285M2stVE5lWFVaRlQzdkVCNWFEcHdRZUxhcDdiRGlqbkthQ3FYNW00UXpIVXZ5S2JzWE9QcVNCdTJRdDF5MktOdE8xaGtmanNn?oc=5",
       "fonte": "Valor Econômico",
       "data_publicacao": "17/07/2026",
       "data_iso": "2026-07-17T07:00:00+00:00",
       "categoria": "Supermercados"
-    },
-    {
-      "titulo": "Febre das figurinhas da Copa faz setor de livros e papelarias disparar; veja o aumento - Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2lnbE5pa1l6bW02cFhnRFBIel9IY0NHV0E2NW9sSzlIRGRQUV9oVGs1NHE1M2NvT2tQLVFBZk9NRHdSSGx4Z1B0Zm53OXZVV2NhbkF5UkdqS0FjMUhyaFdzSlpHaVNBZzNraUZoZFVNQVd2ZTIzRHJkemw3TU9ObF9ubU1sUy13ak1BWElVdGtEZw?oc=5",
-      "fonte": "Times Brasil | CNBC",
-      "data_publicacao": "17/07/2026",
-      "data_iso": "2026-07-17T07:00:00+00:00",
-      "categoria": "Papelaria"
     },
     {
       "titulo": "Comércio de livros, jornais, revistas e papelaria dispara com venda de álbum e figurinhas da Copa, diz IBGE - Valor Econômico",
@@ -423,7 +439,7 @@
       "fonte": "E-Commerce Brasil",
       "data_publicacao": "14/07/2026",
       "data_iso": "2026-07-14T07:00:00+00:00",
-      "categoria": "Eletrodomésticos"
+      "categoria": "Construção"
     },
     {
       "titulo": "Realme lança dois novos celulares na sua loja oficial no Mercado Livre - Mundo Conectado",
@@ -474,14 +490,6 @@
       "categoria": "Celulares"
     },
     {
-      "titulo": "Salão de Pequim: 7 tendências que vão transformar o mercado automotivo brasileiro - Seu Dinheiro",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb2xXSUZKM0ZhVUlaVGswNk5PVVFzeHdkUTNYVlY4UEtpV2hyVG92NWhZaGR0c2lHNGpGbjB6SUZ5MVZoMEdObFJtdWNsVFJHVzJ3VktiN3EwaUg5bFhzX0JCa2JtNmJIZ05FNzJyNjBOQ1NNSnpfakVENS15VldkRHNKMUotbHZhSmNOOXpKMFVIZ0N1cHpzRGxLN2NyclQ5YUxYMTN0N2QzSG5SSmVVMzVKY3U1UFM1SHBBbWN3cWIxVG80RjdpYQ?oc=5",
-      "fonte": "Seu Dinheiro",
-      "data_publicacao": "21/05/2026",
-      "data_iso": "2026-05-21T07:00:00+00:00",
-      "categoria": "Automotivo"
-    },
-    {
       "titulo": "Os mecanismos de defesa do mercado de combustíveis - JOTA Info",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3BNUEh2Vnk2Y3ZPcUNBZTFsbTRIUHFLS29SeU9YZUZadXd0RXY1ajI2a0NkVDRtTVpsQk0ycnZsUFVZTi1aSTN0OXZrRWFBeGpXdVMzWVdtRTBmWlc1NnQwb0RqWFFxeXRkTFVFQndzVlVIVWRmekJlS212NkRfYzhxUXhGeGU1M0stOE1oQ2dETHRmWV9nMA?oc=5",
       "fonte": "JOTA Info",
@@ -511,14 +519,6 @@
       "fonte": "Valor Econômico",
       "data_publicacao": "11/05/2026",
       "data_iso": "2026-05-11T07:00:00+00:00",
-      "categoria": "Construção"
-    },
-    {
-      "titulo": "Venda da Telhanorte expõe crise no varejo de construção e acelera saída da Saint-Gobain do Brasil - Economic News Brasil",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnplY0NWTmhpYXZvNFp0R0c4MGRsVDFodG5mVGEtb09DaE4xamJIQnBxdm1sRS12VXlaTi13Sl83b1ctN3pzSUFoNUdJaU9oaEZCYkpESWtnUjVXLUpMQzZMcm81amFXdmZGTHNvSW9GNXc2enp4VExqaUdFMXpIRWdwYU9CNmF1d0pfR1BwNS13ZU0?oc=5",
-      "fonte": "Economic News Brasil",
-      "data_publicacao": "04/05/2026",
-      "data_iso": "2026-05-04T07:00:00+00:00",
       "categoria": "Construção"
     },
     {
@@ -666,14 +666,6 @@
       "categoria": "Supermercados"
     },
     {
-      "titulo": "Setor de hipermercados e alimentos fecha 2025 com queda de 4,6% - SuperVarejo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXJiLTc0amJLT2FvXzkwaUtvQldSUnlKM1FtVmliVHpFeExNenVnS0tVaHgzbjBiMjU3SVBEeTRBTkd6QkhFWjNXTzh2bXBmQlFteHZ5X1pWMEt3aW5lNTZTb2hpM1d6NXhhLUp3VjB1YWNSWV81Y2pMb05YcUJEZU5ja1lrbXI3LVZRQTItc29IcHdMUGFxNzU0UGZ6S0JYdHkw?oc=5",
-      "fonte": "SuperVarejo",
-      "data_publicacao": "23/01/2026",
-      "data_iso": "2026-01-23T08:00:00+00:00",
-      "categoria": "Supermercados"
-    },
-    {
       "titulo": "Vendas no varejo cresceram 1,5% até novembro de 2025 - Agência Brasil",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjA2VzlZMkt6OTVCQnNfekZfaENFQ0hBR3lKMm5GZUVVQTQ3S3VGNFFkcGNZQ1RmTEltYWg4dGtVMF9PcVF4UHFNQ0MwQU5RUHlrU0oyVXJZNTJBdEdjSTB4VXJ6VEt3Sm5DWWExM2lNbjd2SHFZbWZOYUQ2MkdGT0lfT1VWZnJDNTdrRFBiRUprVW5walVNT1pXXzZJV19PMnVaRjIyMGQ1WWdT?oc=5",
       "fonte": "Agência Brasil",
@@ -696,6 +688,14 @@
       "data_publicacao": "13/01/2026",
       "data_iso": "2026-01-13T08:00:00+00:00",
       "categoria": "Moda"
+    },
+    {
+      "titulo": "Material de construção: pressão e transformação - Mercado&Consumo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnlIc0ZnM0hYS3pRZHFfUkg5aUpqazhwWDhTSEpQX25aM2IyWjJfSkRVVzk4RnJlaGlTLVc2dWpQQks0VWZoQlJnYWQydnZhdHpTZ19SLXJBcXotNWplaXptZFA5dTAwa2dXektselRUbFltdlI0Y0lsY2hIT2llc2x1R0d5SWp0V0RMRE5NSU9lNzNZdVpaeFZoOW96UdIBowFBVV95cUxPNVRtX0ZUZHZtREJmZGFkRlJhUlc4LXBiaGlkYzRQN2hkY0F5VGs5VEx4Tlo3Vjd5YnNfNjRwWGI2RDlqNllzbnpoTHpFVUx3WFJOZExHci0wWXloVWxUdFJjMlpMNlJBNzdjd1JSNTVhUXpMWXI3aUg1bW5fY2ZiclB5SjBzZ2c1WkdKYTVZRE81dUFHazBSd25wU1ZEc2F6QjYw?oc=5",
+      "fonte": "Mercado&Consumo",
+      "data_publicacao": "19/12/2025",
+      "data_iso": "2025-12-19T08:00:00+00:00",
+      "categoria": "Construção"
     },
     {
       "titulo": "Promoções do varejo da Black Friday derrubam preços de eletrodomésticos e TVs em novembro, diz IBGE - Valor Econômico",
@@ -751,6 +751,14 @@
       "fonte": "Meio e Mensagem",
       "data_publicacao": "31/07/2025",
       "data_iso": "2025-07-31T07:00:00+00:00",
+      "categoria": "Papelaria"
+    },
+    {
+      "titulo": "Varejo cresce 0,8% em março e atinge o maior patamar da série - Agência de Notícias - IBGE",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUXFZUi1CcllVZDVVd3I0TDkwTjZUUFFQeS1iTlVUQXNwelYydXBrV1hKZVN2Y3NTa0J3aldYQXdJV0lxSF85RjVRRmZ4cnBZTFhmbU92b3pYQld6VTR3UmNsNHJfV2NfVTZVb0VmeDlKLUVXT1VEbUZCQzZXYUJBX09TRUFDMURkX0huVVpIb2F2dmRpd2NZTWVMLS1lSWRTS1ZWajB5c3V3M0Vsd09iV0J5R0lYQUdZakNXdjk2SXhUWGdTSHVmOHlQZFNYUGg4a2hWTWdTMlJwYjRWOWFUTnZMamFmZnZRRkM0?oc=5",
+      "fonte": "Agência de Notícias - IBGE",
+      "data_publicacao": "15/05/2025",
+      "data_iso": "2025-05-15T07:00:00+00:00",
       "categoria": "Papelaria"
     },
     {
