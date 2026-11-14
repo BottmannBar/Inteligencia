@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-13T17:47:28.122743+00:00",
+  "coletado_em": "2026-11-14T02:29:04.123946+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
@@ -33,6 +33,14 @@
     }
   },
   "noticias": [
+    {
+      "titulo": "Ibovespa sobe aos 171,5 mil pontos após aprovação de ajuste fiscal; B3 cai - BPMoney",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVGV6bkRoVEJOUURiNlVXblZhX09adVNxX2VSSWhOQkRtS2FpX09waHZEcl9UTlZZcVNmN0gyUFc1QlFOaUR5d2xlbkFSWWhoc0FaYWpsdzhzSUFsclFCVjY3N19QYXlYRjE5b1hTbHY2TlU4QnEzRHZIaUFoQjZySEhaanRzTHRxS1FWUFFQR0FjV1BBVTYySW9jUnoxZWJGd183X2pKbG4?oc=5",
+      "categoria": "Ações",
+      "fonte": "BPMoney",
+      "data_publicacao": "13/11/2026",
+      "data_iso": "2026-11-13T13:20:39+00:00"
+    },
     {
       "titulo": "Agenda de dividendos dos FIIs: confira os fundos que pagam nesta terceira semana de outubro - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV3E1Ry0xbm1ldzFkZGFWMzdCMm5WbkJ6ODJpWWR0NWVsTmJBOFZqSi1PV3ZRaWJUZ0xRLWNRSWFtZEpvNVBjTGJpdTZJNnNjNnJ2TERiMXF0RU05QUpZTzJueFd4U1FCb2hrVUJLTnlaLTIwaF9aT2VqODRGbG5uYVhBcXpwUXVSM3czMmxFNFduM1ZwS3ZwVVNPSHluYWgxZFdWZmxGOElkTFBRQXBkZEJQUS1KNW1uZ2RKbFk4Ym9rVjQ4d1VPT0stOTlVV0FQQXNQNVo4aG5fMTVhNDg1dzF6cjZZREVuRUw4Mi1XaWt4MTJDdUdSX0dNeXdpNTFUSWtmQWZzTUZrakJp?oc=5",
@@ -122,14 +130,6 @@
       "data_iso": "2026-07-10T07:00:00+00:00"
     },
     {
-      "titulo": "FIIs de papel puxam desempenho no 1º semestre; confira destaques e perspectivas - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOckpHY005MExqVWFtcGVYSXJFckhOQWZhZjE5YU50V0psMjNjU3BjTlhvRm1HdmFXOHBlY2EyazNFeXl0VTVCQ1p0T0pCbl8yX2RncUJjVWg3ODVmWUZBRE9sTFVvRHRocWl4WjZnbmhUaUtXdmtudkpocFFhTlluYy1UVmoxRm1rNW85UmQyS2pORnBNSmxpcGJybjNZWnlNaVVXUHJOYjVDQ0xNLUZ6bG05Yllmbm5tb09yRjZMQUZIbGZld2RpbkFKaGgzUWNMdW5FcTVBam9SUzl4Zzl6U0JiQmo5Umk2dThMYzhxeVJqRXFHWHMyOGFjZFc?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "08/07/2026",
-      "data_iso": "2026-07-08T07:00:00+00:00"
-    },
-    {
       "titulo": "As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZGNuMUpKZ0VxYXpuSGFPaEoxN0RKX2JSUDJwSS1mdklpOHBrZnktQXA0SDBiU1pSVU8ydHZuSEh5Qk1NbkdyOUJOTUJmUXRaOGtVYlZrQWpaaTBIMEtnUHBGejdOYlNLbGZtRHNHRWFlNTNYbWpONW1HSDhzZVA1VTE5Z0QzdjRORmIwU0Y4TWNyYzQzWUxEMWtrWXhlRUZIVkNOeW5DV1BSVWwxTWc0MnRzMGxpR3o4Wll6SE01Vk9ndkVwWkZicjVZcXhFTUdnZUt4ci1WWWtveHpCc3ZHQk9sVUJwYlRzUTBnQWtzWWhqRmNpWUxN?oc=5",
       "categoria": "Ações",
@@ -210,20 +210,20 @@
       "data_iso": "2026-02-23T08:00:00+00:00"
     },
     {
+      "titulo": "Clube FII: 3 milhões de investidores em Fundos Imobiliários. Por que este marco é tão importante - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUVk5S1JnYVFGYlNNMDVGVDRsc3kwcndQZU9DcHlRMWc5b3ZxX2VSazdoNG1NdzlRSUo3MnB1SEVzRjdCc2Z5c1padTZuckg3RXF2SGFHZzlsenNoU09WX01iZkdLUW85ZG9DekI1X1dDek9oN21UVVBIekExOGxYMl81dXcxV3IzbWdsZkhJYU9vVGk2TUlvLU8yX25FbGdvLTNQNkVuc0s2QnVsSWJ1NjM4NUI4ODNTNHpKY203UmpMMmJfU1o4WmdHT3I0bjN6bS13?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "17/02/2026",
+      "data_iso": "2026-02-17T08:00:00+00:00"
+    },
+    {
       "titulo": "Além do Ibovespa B3: conheça os índices de ações que mais renderam - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNam5hVVQ3dUV5T3c5eU1IOGI3ODRjZVVuNEw4T1RPNDlUMHdBOGJBMjFWLWQ2Tzd2QTF5ZTdfUFM5TEQzZ2ZaMnRrNHZvWEZ6dmlYRE4xaHhLVkoxZ1ZROUJTeWVHVWlzVUttd1pZWm85cUdXSmtvSENuNTZBSkhOdDFVYWtmelhsTVNtZ3ZMWUFfaXRzdXhCd2w2OGxDWnpRbm9oellBVXVmc1JXSEFTTHV6YkdQZ2ZUUjJEWXduNmoxelZZUVlqb3VzOHpmNktucjFMX0VFTQ?oc=5",
       "categoria": "Ações",
       "fonte": "Bora Investir",
       "data_publicacao": "09/02/2026",
       "data_iso": "2026-02-09T08:00:00+00:00"
-    },
-    {
-      "titulo": "Bolsa cai mais de 2% em dia de forte correção no mercado - Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEpXMTlGX0xDbTBjeWRvZ0RpMVY3X25aUkNtXzlBMnFRLU9iRXJiZ1o1X3J3UDgwU2FKTUFkektwRTV3ZXBEaUFQb1BfWHVHNTBCMEVPNl91Zjk2YWQ5SjRzNDdiTXRTNUo2THRpYktaOUVMVEVPZzZESW10ck85N19uM3Z5M3dNSDlWemgwVHdGSmdzQk9GV1NxMjdEMzdxX19WR2prTkhmbE1fWGYySlZkSQ?oc=5",
-      "categoria": "Ações",
-      "fonte": "Agência Brasil",
-      "data_publicacao": "04/02/2026",
-      "data_iso": "2026-02-04T08:00:00+00:00"
     },
     {
       "titulo": "Ibovespa B3 tem maior valorização em janeiro desde 2006. Saiba como usar o índice para investir - Bora Investir",
@@ -338,6 +338,14 @@
       "data_iso": "2023-08-12T00:58:19+00:00"
     },
     {
+      "titulo": "Dólar? Euro? Libra? Yuan? Saiba como escolher a melhor moeda para formar uma reserva internacional - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWZvdGhrR2VtX1dHODVodmRsa0haVGZqRHFpWjJac2VFdVV4aDhSX0RHUC1UMThocmhDNTZuSkNZSmRXY05xWDFuYzM5TnhHUW1vVzNoOWZIZnQxTU9QU29ZT3JES0Jfalo2UXJnZEpBd1JiRVl2NkRmZ3I2cTlPN0hmb3R5QWVHZEdGMWFXbFZycWt2WU5lZ1FQTl9NeE9ZeXg3OUhhX1F5SHV5YldnNmphUTFyNDFyMjR3MEdCRjJmaFVxbFVzM09tdktUUWRDMldrZdIB2gFBVV95cUxPOE56eFIybUZpcGswOHZsSUtMN09LSkZrMlN4clFHaVpJOWJlUnFWTm9ZVzhfUGVGay0tTDU3SlMwWlpoTTlkUy1aQ0ptWjlkSVJnckEyNHVjOEpLb1dZR1JMU0tDMm5PLWhkbmpySllqdEdvT29QeWpVWmxFTjdyMXNjSGpmYW94cVhvU01nbEMxRTRzc185TkxiRHdidmhkX3FYYjhvQTg5Q210VE9ibDNUWnpXOEFMdV9pOFAwUGxlVHhJMXJld1l0RG9VTUlHcV9TX29vb3ZJZw?oc=5",
+      "categoria": "Câmbio",
+      "fonte": "InfoMoney",
+      "data_publicacao": "07/06/2023",
+      "data_iso": "2023-06-07T07:00:00+00:00"
+    },
+    {
       "titulo": "Operações comerciais entre Brasil e China sem uso de dólar devem ter início em julho - CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUVBDRDZyOGtDS0MyZHRWc2FvRFI5MHRrZEZTcWVMOFR5ZGlKdzM5X2hjOVZHMmZiQkFJcG9rTHZuWURMMnpsSERzMEpyVU03d19qYjZ2a1hydjZhSkxPMlZHU2xpSVZSRWxiYXUxRUxJQU1JTWJNdFdXRGlHdmhkZVo2NFBKSlVVT2MzS1RrUF93bzh4dWlfaGE4Vkl5MUZfdlVtelk2c3RLQUp1Si1lYXAwZnh0YTJYWVFyOThiMXRydkJOVkludE0wbmhQQVkzSFdr?oc=5",
       "categoria": "Câmbio",
@@ -370,12 +378,12 @@
       "data_iso": "2016-08-30T23:42:51+00:00"
     },
     {
-      "titulo": "Dólar Comercial: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Rd0ZoR0dwUFFCTjdUZUk0NjMxNWQtSlhqSTRHeEdGaHFYSzd3YWJLMlNUR04tT180T3hsNnd6TUFOZ21pazZwTHVYeE0ySkh6LTN1RnRaRQ?oc=5",
+      "titulo": "Yuan: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6WU9vQ2JTa202WGVZMTVtQjdKMW9xVjh5cUZwZzBHSDRjeU5XRGZhYUphb29YQ045cER2bGtMb29mYVdWMlNVNEQwdTlHN3Vpa0F6eEhnN0dkVDFaQUhqY19mdEdKZw?oc=5",
       "categoria": "Câmbio",
       "fonte": "UOL Economia",
       "data_publicacao": "24/08/2016",
-      "data_iso": "2016-08-24T11:05:05+00:00"
+      "data_iso": "2016-08-24T11:03:29+00:00"
     },
     {
       "titulo": "Por que a China desvaloriza sua moeda? Há duas grandes razões - O GLOBO",
