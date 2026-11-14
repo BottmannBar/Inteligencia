@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-14T02:29:04.123946+00:00",
+  "coletado_em": "2026-11-14T16:37:36.657187+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
@@ -72,14 +72,6 @@
       "fonte": "Notícias Agrícolas",
       "data_publicacao": "17/09/2026",
       "data_iso": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "titulo": "FIIs buscam espaço em índices e ETFs internacionais - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcTRtWGpJanhfbkhYVmotcDFQdUxRWUpGQjZ5YUs2WXYzaVdMQ2tGQm9zVU0zVVNaZkhCUUlKc0NneTRWM0VTNWoxMnFhRzJVYkNkMTN0S3h2VkFMU0NoNThRWFBxc1JGRW9BYlJIZ215SDlYQ1o0YmNOOXRfTTh2VkVPeVJZR09hZFhtTEJZVTVSRTJva1pmbnJ3QzJUeV9UY2dUWkxfbDdNVVRtVUFXUnBNUVZOTzFKbWlYMEdDd2JRSVE3RHZNeDVBMjcxQVFieWdXQjV4a1o?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "18/08/2026",
-      "data_iso": "2026-08-18T07:00:00+00:00"
     },
     {
       "titulo": "Quais são as commodities mais negociadas no Brasil e como operá-las - Acontecendo Aqui",
@@ -194,6 +186,14 @@
       "data_iso": "2026-03-03T08:00:00+00:00"
     },
     {
+      "titulo": "Irã é principal comprador de milho brasileiro; Como conflito impacta commodities? - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEExbV9NSlc2NVBOeC1xMzF5Z0F5S2lWOTN2MzB6TzQwZ00tM0tTTnpHNUZmdWM4b3JKOEIxVG5FczNtUnVXRmhuek5BeWJEQU9pTDFGRnJ0WnF3dmRGaTZiQ2ZlRzdHakROMHo3dzd0WnM4eV9uU0VRZ1JvZkZEX2tEalEwQnltZ01FM1pyUEtXeGU4Nkg0X0sxaG5Yc2lnNGhfenhfV2xZSDA1RjExSENtMEhQREZsMVHSAb8BQVVfeXFMTzBPSk5LQl9zSmVLVlozaTA2aXVCX3RBZDF4YkEtMEZDekVZclI5SmppbDZ0RUhaUmdocDlJZ2JYNE1mdlNjQmNtSTBTV0IzMVd6dUQyWVN5ZHVyZnJBRS01YkN3cEk4dXdTODhlUThMRjNDX2FpSm42cjduRDhjVlJBLXZoaC1hdzQ4bUlhTG5GY0hpcFJoS1ZCQTNRN1ZROTBCeDJTdFJPeVpVV01fTlFhTXlKUHJPVS1aRzdHNzg?oc=5",
+      "categoria": "Commodities",
+      "fonte": "InfoMoney",
+      "data_publicacao": "03/03/2026",
+      "data_iso": "2026-03-03T08:00:00+00:00"
+    },
+    {
       "titulo": "Como commodities agrícolas são afetadas pela escalada do conflito no Oriente Médio? - InfoMoney",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOEpibFd2WHBuMTZoMDdFb1ByS3FjV2pGQWxCbXFZRnRucUwxdG1rbmxrdjVLbVhrSFFzeV8wNGJadmRxTjJ6WVpEU2lnUWkyUnB5VGc0WGdOd3lTR0RNV29wSkFIWW5iYThVMFBXWWlHanp0ekM4bk9TOFQ2dndWVnR5WW1rMTVELUM2eWNaM3FEbVRvMkRjUU5IRFdGc3BPLUZ6Qm4zanM3QXpvbTZjREtyQmpyRDhMQW9RYTJR0gHDAUFVX3lxTE53TVVqSnVDV3daYTRINTJ5RlFxcEJZM1Mwc3AyZkwxTlNVQzR6dzQwSU5GX3k2X0JnVFFNLWtiX21Ua21icG1XcTA2SE1oT2IwbEMyV1RheE5famd3V3Fmam1rR3BDSWZSZ1loTVpzZjB6T3dPakY0YzdTaEtHR3dBaFdseTY3SnZHdTJZaGQ2NXY4UzEtdmo3R0tCeFJEejNBSjFMUFZWRmY5V0tKQjZGMFczR0xndzlON2N6VWpuYkRkZw?oc=5",
       "categoria": "Commodities",
@@ -210,6 +210,14 @@
       "data_iso": "2026-02-23T08:00:00+00:00"
     },
     {
+      "titulo": "Mercado de FII retoma reação simétrica a rendimentos, afirma André Bacci - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcWZxTHVONlEyajVjTkN1bUJJVHV2ZjN0eno1TGIwQUJjQ1ZPNS1BYVlGY21Ld3FiTFhMMmNuUmtrbWk5aG1FekZJWnA0bFB2LWdtVFU1M1RlVW5rQkozTHZqWXpBMEM5SGZVVnJxUjN4TDRKc3ROUEVjLVA5N3JpTGR3TWtPSlJaZHVoUEtuRkIzNW5iM2hzT1NEZ19pVExVbVM2Z3VoZVU4b3dtd0V0QUNqeVhHcHdsYzY1U0c5QVQ2NkVNMmMzdWQ4ZHpBYjJyV1ZwT2dMTENVSGRKUl9ITzhiWTRJUzYzLVZMdEFCcVZyb0k?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "19/02/2026",
+      "data_iso": "2026-02-19T08:00:00+00:00"
+    },
+    {
       "titulo": "Clube FII: 3 milhões de investidores em Fundos Imobiliários. Por que este marco é tão importante - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUVk5S1JnYVFGYlNNMDVGVDRsc3kwcndQZU9DcHlRMWc5b3ZxX2VSazdoNG1NdzlRSUo3MnB1SEVzRjdCc2Z5c1padTZuckg3RXF2SGFHZzlsenNoU09WX01iZkdLUW85ZG9DekI1X1dDek9oN21UVVBIekExOGxYMl81dXcxV3IzbWdsZkhJYU9vVGk2TUlvLU8yX25FbGdvLTNQNkVuc0s2QnVsSWJ1NjM4NUI4ODNTNHpKY203UmpMMmJfU1o4WmdHT3I0bjN6bS13?oc=5",
       "categoria": "FIIs",
@@ -224,6 +232,14 @@
       "fonte": "Bora Investir",
       "data_publicacao": "09/02/2026",
       "data_iso": "2026-02-09T08:00:00+00:00"
+    },
+    {
+      "titulo": "Bolsa cai mais de 2% em dia de forte correção no mercado - Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEpXMTlGX0xDbTBjeWRvZ0RpMVY3X25aUkNtXzlBMnFRLU9iRXJiZ1o1X3J3UDgwU2FKTUFkektwRTV3ZXBEaUFQb1BfWHVHNTBCMEVPNl91Zjk2YWQ5SjRzNDdiTXRTNUo2THRpYktaOUVMVEVPZzZESW10ck85N19uM3Z5M3dNSDlWemgwVHdGSmdzQk9GV1NxMjdEMzdxX19WR2prTkhmbE1fWGYySlZkSQ?oc=5",
+      "categoria": "Ações",
+      "fonte": "Agência Brasil",
+      "data_publicacao": "04/02/2026",
+      "data_iso": "2026-02-04T08:00:00+00:00"
     },
     {
       "titulo": "Ibovespa B3 tem maior valorização em janeiro desde 2006. Saiba como usar o índice para investir - Bora Investir",
@@ -330,14 +346,6 @@
       "data_iso": "2023-10-03T07:00:00+00:00"
     },
     {
-      "titulo": "Muito mais que a bolsa do Brasil - B3",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uVkx6YThRX3U0OHh0amU2aExTME5qZno0WEZNU1dNWmNjQmdWd3RWaTdhbFhwMzR5QmtRemVtZ2RLNDNqamRMS2xLOUx3OFo0TXQ4?oc=5",
-      "categoria": "Ações",
-      "fonte": "B3",
-      "data_publicacao": "12/08/2023",
-      "data_iso": "2023-08-12T00:58:19+00:00"
-    },
-    {
       "titulo": "Dólar? Euro? Libra? Yuan? Saiba como escolher a melhor moeda para formar uma reserva internacional - InfoMoney",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWZvdGhrR2VtX1dHODVodmRsa0haVGZqRHFpWjJac2VFdVV4aDhSX0RHUC1UMThocmhDNTZuSkNZSmRXY05xWDFuYzM5TnhHUW1vVzNoOWZIZnQxTU9QU29ZT3JES0Jfalo2UXJnZEpBd1JiRVl2NkRmZ3I2cTlPN0hmb3R5QWVHZEdGMWFXbFZycWt2WU5lZ1FQTl9NeE9ZeXg3OUhhX1F5SHV5YldnNmphUTFyNDFyMjR3MEdCRjJmaFVxbFVzM09tdktUUWRDMldrZdIB2gFBVV95cUxPOE56eFIybUZpcGswOHZsSUtMN09LSkZrMlN4clFHaVpJOWJlUnFWTm9ZVzhfUGVGay0tTDU3SlMwWlpoTTlkUy1aQ0ptWjlkSVJnckEyNHVjOEpLb1dZR1JMU0tDMm5PLWhkbmpySllqdEdvT29QeWpVWmxFTjdyMXNjSGpmYW94cVhvU01nbEMxRTRzc185TkxiRHdidmhkX3FYYjhvQTg5Q210VE9ibDNUWnpXOEFMdV9pOFAwUGxlVHhJMXJld1l0RG9VTUlHcV9TX29vb3ZJZw?oc=5",
       "categoria": "Câmbio",
@@ -362,14 +370,6 @@
       "data_iso": "2022-08-19T07:00:00+00:00"
     },
     {
-      "titulo": "A exposição a commodities dentro dos fundos multimercados - XP Investimentos",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmxyMC11b0I4Vl9wQmpvbExkNFJ0Tld1YnE5N0Zwc3FIZTBDaHJHYmFNdk5pRVljTGJHX0JTRTlWY2ZiNl9QSElnUVdQWWluYU50STlxcHZjRkFlMHlCQzhZSFA4VVFfMzdDVlpRNzV4MUlnWWY2aVg5TFExY0RwMzFidWNLakdKTTRhR3dnenJBQ1BwYTNWSHBtdzAtTFlJeUdkWjNUNG1vQkNWeFZUUHFNMWlRdjdoWWllMGdn?oc=5",
-      "categoria": "Commodities",
-      "fonte": "XP Investimentos",
-      "data_publicacao": "24/10/2021",
-      "data_iso": "2021-10-24T20:35:23+00:00"
-    },
-    {
       "titulo": "Cotações: Câmbio, conversor de moedas, bolsas e índices - UOL Economia",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BU2JRak84Nm5Gak5neXNzRU93cHVBMVVGMk9TMHNXMW40U3BYV21OYWtHX2RIcDMxYmhhV29iMzF4UzNoNnBNWHAyUVdCUQ?oc=5",
       "categoria": "Câmbio",
@@ -378,12 +378,12 @@
       "data_iso": "2016-08-30T23:42:51+00:00"
     },
     {
-      "titulo": "Yuan: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6WU9vQ2JTa202WGVZMTVtQjdKMW9xVjh5cUZwZzBHSDRjeU5XRGZhYUphb29YQ045cER2bGtMb29mYVdWMlNVNEQwdTlHN3Vpa0F6eEhnN0dkVDFaQUhqY19mdEdKZw?oc=5",
+      "titulo": "Dólar Comercial: Cotação de Hoje, Gráficos e tabelas - UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Rd0ZoR0dwUFFCTjdUZUk0NjMxNWQtSlhqSTRHeEdGaHFYSzd3YWJLMlNUR04tT180T3hsNnd6TUFOZ21pazZwTHVYeE0ySkh6LTN1RnRaRQ?oc=5",
       "categoria": "Câmbio",
       "fonte": "UOL Economia",
       "data_publicacao": "24/08/2016",
-      "data_iso": "2016-08-24T11:03:29+00:00"
+      "data_iso": "2016-08-24T11:05:05+00:00"
     },
     {
       "titulo": "Por que a China desvaloriza sua moeda? Há duas grandes razões - O GLOBO",
