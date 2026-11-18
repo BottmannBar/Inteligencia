@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-17T19:12:35.122171+00:00",
+  "coletado_em": "2026-11-18T03:43:29.156093+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
@@ -34,6 +34,54 @@
   },
   "noticias": [
     {
+      "titulo": "B3 incluirá empresas brasileiras listadas no exterior no Ibovespa a partir de maio de 2027 - Portal IN - Pompeu Vasconcelos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdURoTG85VTlpWXowd0d3aW1zS2VOandMOXRlQTR4VHQ1am1wX2V6Z1FUTlhveWQ1clh1SmNjbHZSWUh3YXlSN2gzSW9wc2Z3Z3ZhMm9vWTNvN1l5M1Bkbmc3TnIzTC1NR1BuZDFDY0tBbWd5WnZtcTl4V3FGaDNCa2xQNmhqZHhNQzY0RDRHRlZIdGVIdHA3MTktWWZsQndBRjA2LTFmX1QxV3FmWTZ0OHpEVFg3WXoxc1Y4OW1Ibml1YlJ5RW13?oc=5",
+      "categoria": "Ações",
+      "fonte": "Portal IN - Pompeu Vasconcelos",
+      "data_publicacao": "18/11/2026",
+      "data_iso": "2026-11-18T03:01:00+00:00"
+    },
+    {
+      "titulo": "B3 anuncia nova metodologia com a inclusão de BDRs na Bolsa a partir de maio - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSk1UOG9Mc2pqU3dCc1NkdFA1TkVGaF9kTGJMTUkwOENBSmkxV2xhZlctMDBBRWFJUkhoOWdFbi1zbE5EY0pjLWRWU1JyZURTak9qZ1NXOHllT1hMVWRRVmVreDBZZjNBRmhyT29aUjA5T3VOUEdha2xZakp1MzAtalRKN0ZUeFlwV2ZOYnh6QTZIQkVoRDJTTHJuemVYZ2lyd18zaE1FdVdhX05yXzNObDY0QV9hUdIBuwFBVV95cUxQRXZFel9DalliZjJHOUJMVkZYTnNhQ3dCU0I0WDFnYzhaMVpRLUJqZTRIdXVmYVRZUGwzdHA0UG4zbnppRlVxX3k3STFpN000cmJmYmlWMU1xVVJYWjBxWExieDhMN2dYaEcwVkNmV0dqTFIxSTlEMjBrQVVBQTUwVkY1TXRVZV9SZ09tamNDTVdjclRoM1labVdrcU9jNE5pbm1EQldrdDU4STNjcWdTeFh6MzBENmNPd0c4?oc=5",
+      "categoria": "Ações",
+      "fonte": "InfoMoney",
+      "data_publicacao": "17/11/2026",
+      "data_iso": "2026-11-17T20:14:38+00:00"
+    },
+    {
+      "titulo": "Ibovespa abre as portas para empresas 'made in Brazil' listadas nos EUA; veja quais podem entrar no índice - Seu Dinheiro",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVpMLUdXT0EzdkxZcnRVRnVZQ00zVFZjS0RyVTF1RFEzT3lFeVQxT2pQeU5HdTNmdFZRN0VQdXk2V0VIOXZGZ0NtSjE2djR3Z3lIR3RXbm1UOU84MnBRWUI5d1lIVjBfRzVxSjNzWjJzQmkyUjFubzYyZ3ZGY3VmSUppcVFMcEZ6YzRCem5MNFI5UmRXNnZUS01jU1VYaTFKWnZzeFMyZnI2WGNkNGNNem56Y1pnWlVwa29jRlp5SzRaajByVU1yLXI5eFVKWFdJenhB?oc=5",
+      "categoria": "Ações",
+      "fonte": "Seu Dinheiro",
+      "data_publicacao": "17/11/2026",
+      "data_iso": "2026-11-17T20:05:28+00:00"
+    },
+    {
+      "titulo": "B3 incluirá BDRs de empresas brasileiras a partir de maio de 2027 - Poder360",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3JqUEtCOGZ3ckNuNXIxbWlqTHRzTUVfdHB0UTZFNVFPc1dKZG1uYlYwT1BFbEJyNWxsbnNaR1ducXF4M2xsSmlmZlI0LVZaZ0R5UXBXS1N0el9SQ2xuSWxkT0N3am1tRGdCYVhjMk94SmV2WDkwVGhTYnJNckR6Mm13eU95TVlJckxGTnRjNE5BYmNuS1N0Q2R1TTRTZ2ZBdTRjS2pyV1l6c045TGc?oc=5",
+      "categoria": "Ações",
+      "fonte": "Poder360",
+      "data_publicacao": "17/11/2026",
+      "data_iso": "2026-11-17T20:05:05+00:00"
+    },
+    {
+      "titulo": "Ibovespa vai mudar: índice passará por segunda grande alteração em quase 60 anos - Money Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUhBREZ6UnMxbEtvYXdQcmJuVWxBZkY0UnVlRzZMVjVrYW13WjVvRzhBTHpuSHFZSlBxLVk1MlFLNzU4VWRvcDNNbld0ZkhYOWduWk9QUmJ4WFFtejJoeFR1dHl4ZFhFUTJHaG1DY1ZwVmplcXcySmJJVDdMYzJNT05OVGViODV2bHhkZEpkRFBBRGUxQzBtSFN5SFZsTGV3Yk5ZMkd4dXdjcno3LVVTbjF5bnoyUQ?oc=5",
+      "categoria": "Ações",
+      "fonte": "Money Times",
+      "data_publicacao": "17/11/2026",
+      "data_iso": "2026-11-17T20:04:54+00:00"
+    },
+    {
+      "titulo": "Pela primeira vez em quase 60 anos, Ibovespa terá ações de empresas brasileiras listadas no exterior - O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlJManBqc1d6cWpJWnNSU2FTczFuTkxTcWlPeU9IUlZPQ1MwQmRVNDFoTm90blVwUGtiWWdTS0x5ZHFQZnNvQnJXeUxEdTNjeE5ZdC04bnlPZEZfQkZkS0I1X0k1WVluSi1fbXVHUDVoRU44X1lQZkVyYnRKVHFSYV83Um5jNkZYeUdJN3VMZUFJWG1OZzMtODAzN2Q1elZMWXRsTNIBswFBVV95cUxNdjB0SE5XbXlHdTZxMWhtTC1kbGdPVEJsMV9wN3VNYUpSYzRBODJaOUpWdEpwY1hHd2JYNDR6a2hJU1JNNUs2SDFsbFkwc29SVFZabkstME13aUJHa3dCWjYxeXY5ZHJHMjRfVDBmTnY3anNoN2I2TTZJR3VUbG1TeGo5M0RTNE93QjdkZkxFNmpheUdkR1VQNFNBSFdGSGM2aDV6TjVFWXZmOEpqQUV2UFhjVQ?oc=5",
+      "categoria": "Ações",
+      "fonte": "O GLOBO",
+      "data_publicacao": "17/11/2026",
+      "data_iso": "2026-11-17T20:00:00+00:00"
+    },
+    {
       "titulo": "Ibovespa desaba após reeleição de Lula e ações recuam até 58%; veja as maiores quedas - G1",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmhCWi03VnhxbXJkeUlxUGozYW9xZnRmRm83eGt0U3c1X21QUFVtZWtlUy0tYlJRNTVBN2V3WGZ1WG9tWjExWXNOTzV0VjJQVkpnOVpORWlzM3c4UXh2NUdNWGpSdnZ6T1BzT3h1cFVRVWhvTE0yMnk5VG1KUUdPTjRxU0RmMlBBam5qeUJHU0x5bEMxN1EzanluNHhaNlHSAa4BQVVfeXFMUGpqY0V0djNMTTRMX0h6WXVhREZGRmt2Y1g0SjRDYjRoTHd5UkJwN3dsQ0d6MlFJZFh2RHU0ZnRFblhFZ0JyQWw1QUE0OTFKOG1UWDE3UzBVeDNFb0FwUmRPOU9OMHNlX1p2NTZsNUE0cTVPOTh1ZXZubjFBakU4TlQ1WE9iOHpscmdveEVnaTR5NC1fdHBId19sLWg4R2ZnckphS0JhMmlfNGgwOXJR?oc=5",
       "categoria": "Ações",
@@ -50,14 +98,6 @@
       "data_iso": "2026-10-19T07:00:00+00:00"
     },
     {
-      "titulo": "Ibovespa B3 sobe 0,46%, com apoio de ações de petroleiras; dólar vai a R$ 5,22 - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGZYZU8wVXpnaXMxd1lqZkY2Wi1iREtmVGZkMzZzT0pkbUQtRHFCaWNZMUY4bkxOU1F5aXZ5Q0IxNlFOSFJod2swaFJsQnNmUThlTlRNN01sYnF6Y3lBNHBIRzdQN2N1ck9OZmdFT24ySTVhbkdMaFhqLXVpT3o3WUtJVmQ1X3BRNWFyV1FtQ2p6ekJaS1dzWHNJS3ZxX1kydjZ5U3FaeUstOWp3cVJuTkR3RWV0TXVtU2VtN0h3?oc=5",
-      "categoria": "Ações",
-      "fonte": "Bora Investir",
-      "data_publicacao": "01/10/2026",
-      "data_iso": "2026-10-01T07:00:00+00:00"
-    },
-    {
       "titulo": "“Novo Mercado” dos FIIs? B3 revela o que vem sendo feito para melhorar governança - InfoMoney",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmdwdkdWanFKRE1icC1KS3NwenFSYUN1anhuUmFLV1ZEY285eWdqMUlxM0F5cno2bElSUmlyV3VIMlRUSDFKUVJfVUZvT28xOUY5TVhob1RHelFnT28ycW1ZRmRfWVdVOHFTRHBtMjRweHdXTkg2WVQwbElWUDU5YXZsc1ZOY0tkZmEyNVE1Rm15X3hXWmk0dzRVSVZtdFVXbUl0clhLUm9xRTY1UjZuQzFhQWZfRHE0VWJ6UHJ4Z9IBxAFBVV95cUxQTlRveE5SZEM3aGxwZnZkNWpLNnlKOV8tTU9DYnBRM1lPRkhTWWFQMGUtV0F1YVhpSzRfQWY0dXJMM1FOS3BoZGh5LWM3VjJoaGpVTmcxWFZUZFFhSEY0a1U0ZEFFekRXUUtUakM2aXozN1l2eTdINXRoVHFWNF91Q2NPREN5LU9kMU9NUmtzRE5pcHdKZ0piUzlneERGdDM2MGh6SEZjUTlQV2lxdUwtRXRaSldxSnRTOGp1aC1aLUJVbW5O?oc=5",
       "categoria": "FIIs",
@@ -72,6 +112,14 @@
       "fonte": "Notícias Agrícolas",
       "data_publicacao": "17/09/2026",
       "data_iso": "2026-09-17T07:00:00+00:00"
+    },
+    {
+      "titulo": "Com galpões cheios e cotas descontadas, FIIs de logística desafiam juros altos; vale a pena investir? - Bora Investir",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNejBHem94RmNIdFRIYXhDSFM3OXpBTG15ekE5d25ScjdSZG5BSHVjamJkNVlaSHZ5Vm1GR2ktR0pzQmlJaFBSa053anV6NUE2ZXpxWUpDZ1JYSW53cWpFZDgtWlpIbWdLdkJnamJGT3dGTjRqbmVOcnJTZl92R1ktWnI3RUFrX1dyMWQ2aWptR3dVOVpCMmxTWGdjdUtLN3VPNDVMUkR0ZzdTZWw3OV9FRktHTEw1ZDVBMmc3Z2NrNGFnUHh0UjVMUXVrOURoZGxNUDM3V29RVUpjX0szMlFRVGZ5UlRTY3luTVFmUzdvX2RWOHN5dl9jN0prdHR0eEpUM3ZZeEFmbElPM3U0anVLNEZUQ3ZFcjQ?oc=5",
+      "categoria": "FIIs",
+      "fonte": "Bora Investir",
+      "data_publicacao": "20/08/2026",
+      "data_iso": "2026-08-20T07:00:00+00:00"
     },
     {
       "titulo": "FIIs buscam espaço em índices e ETFs internacionais - Bora Investir",
@@ -130,14 +178,6 @@
       "data_iso": "2026-07-10T07:00:00+00:00"
     },
     {
-      "titulo": "FIIs de papel puxam desempenho no 1º semestre; confira destaques e perspectivas - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOckpHY005MExqVWFtcGVYSXJFckhOQWZhZjE5YU50V0psMjNjU3BjTlhvRm1HdmFXOHBlY2EyazNFeXl0VTVCQ1p0T0pCbl8yX2RncUJjVWg3ODVmWUZBRE9sTFVvRHRocWl4WjZnbmhUaUtXdmtudkpocFFhTlluYy1UVmoxRm1rNW85UmQyS2pORnBNSmxpcGJybjNZWnlNaVVXUHJOYjVDQ0xNLUZ6bG05Yllmbm5tb09yRjZMQUZIbGZld2RpbkFKaGgzUWNMdW5FcTVBam9SUzl4Zzl6U0JiQmo5Umk2dThMYzhxeVJqRXFHWHMyOGFjZFc?oc=5",
-      "categoria": "FIIs",
-      "fonte": "Bora Investir",
-      "data_publicacao": "08/07/2026",
-      "data_iso": "2026-07-08T07:00:00+00:00"
-    },
-    {
       "titulo": "As 10 ações do Ibovespa B3 que mais subiram na primeira metade de 2026; confira o ranking - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZGNuMUpKZ0VxYXpuSGFPaEoxN0RKX2JSUDJwSS1mdklpOHBrZnktQXA0SDBiU1pSVU8ydHZuSEh5Qk1NbkdyOUJOTUJmUXRaOGtVYlZrQWpaaTBIMEtnUHBGejdOYlNLbGZtRHNHRWFlNTNYbWpONW1HSDhzZVA1VTE5Z0QzdjRORmIwU0Y4TWNyYzQzWUxEMWtrWXhlRUZIVkNOeW5DV1BSVWwxTWc0MnRzMGxpR3o4Wll6SE01Vk9ndkVwWkZicjVZcXhFTUdnZUt4ci1WWWtveHpCc3ZHQk9sVUJwYlRzUTBnQWtzWWhqRmNpWUxN?oc=5",
       "categoria": "Ações",
@@ -178,28 +218,12 @@
       "data_iso": "2026-04-28T07:00:00+00:00"
     },
     {
-      "titulo": "Veja as empresas que mais ganharam e perderam valor de mercado no Ibovespa em 25 dias de guerra - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNTljYTJVMDRlazhDWkpTZ29iT0E3MGF0S3BEc1lNdncxQ2FoNXVnVXdQdHR4aFlwZFRMNEFveFlFOFdJUExEcVo5NG5WRVZ6VWFPMDZPcmQ3TTlxWjdrcmZYbW40ZmhKNnZnZlNETWd6eWdqMzFyVWd4Tm9NZ2t1ZDdjQTRCNE1HYVVKdkxCSDg2ZkNWOFJMVlZWandhZ2Y5VmZTU2JfMGNUc2FhVHdvakZOUFlDc2tqYWs5UmFLQ1c3bDN2Z3ZucmVhOEE2TVBzeG0wMjB5X1pPZ0d5?oc=5",
-      "categoria": "Ações",
-      "fonte": "Bora Investir",
-      "data_publicacao": "25/03/2026",
-      "data_iso": "2026-03-25T07:00:00+00:00"
-    },
-    {
       "titulo": "Melhor Plataforma para Negociação de Commodities no Brasil em 2026: Top 7 Corretoras para Começar - Mitrade",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcV9KbEViVDIxS01iZzlIWHJ6UjJPbXhIV01RVG9BNFhwVVlZbEd6RW5SVGstUmNMdGNJNFVFXzMzaVhfTWNBWEZ1OG4xRmJOMmpNa1dBV3A3dHVrekxLcl9RRWJSSDhScVFqR2FJaGtYaFdFaGFEam9fd0xTOExwRlViRGN6Y2xHTmtQZ19SaFFzai1Ya0Y3SkFSSFBYdHFINUdF?oc=5",
       "categoria": "Commodities",
       "fonte": "Mitrade",
       "data_publicacao": "16/03/2026",
       "data_iso": "2026-03-16T07:00:00+00:00"
-    },
-    {
-      "titulo": "Como a guerra do Irã pode impactar os preços e a economia do Brasil - ISTOÉ DINHEIRO",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZdWl3SE01YVpQVld1eTg4eE9yQ2Q4VnFKOEtMNzM5Z1pqM2ozbkxsemRqZGdacVlnQlVISUp1dU9IWEpLRUFFOTBuaDZCYzRZdVNRTjJIOGswbWs0cnpNUnphdjFOWUkwZlVSVVVQbEY3QQ?oc=5",
-      "categoria": "Commodities",
-      "fonte": "ISTOÉ DINHEIRO",
-      "data_publicacao": "03/03/2026",
-      "data_iso": "2026-03-03T08:00:00+00:00"
     },
     {
       "titulo": "Irã é principal comprador de milho brasileiro; Como conflito impacta commodities? - InfoMoney",
@@ -210,12 +234,12 @@
       "data_iso": "2026-03-03T08:00:00+00:00"
     },
     {
-      "titulo": "Como commodities agrícolas são afetadas pela escalada do conflito no Oriente Médio? - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOEpibFd2WHBuMTZoMDdFb1ByS3FjV2pGQWxCbXFZRnRucUwxdG1rbmxrdjVLbVhrSFFzeV8wNGJadmRxTjJ6WVpEU2lnUWkyUnB5VGc0WGdOd3lTR0RNV29wSkFIWW5iYThVMFBXWWlHanp0ekM4bk9TOFQ2dndWVnR5WW1rMTVELUM2eWNaM3FEbVRvMkRjUU5IRFdGc3BPLUZ6Qm4zanM3QXpvbTZjREtyQmpyRDhMQW9RYTJR0gHDAUFVX3lxTE53TVVqSnVDV3daYTRINTJ5RlFxcEJZM1Mwc3AyZkwxTlNVQzR6dzQwSU5GX3k2X0JnVFFNLWtiX21Ua21icG1XcTA2SE1oT2IwbEMyV1RheE5famd3V3Fmam1rR3BDSWZSZ1loTVpzZjB6T3dPakY0YzdTaEtHR3dBaFdseTY3SnZHdTJZaGQ2NXY4UzEtdmo3R0tCeFJEejNBSjFMUFZWRmY5V0tKQjZGMFczR0xndzlON2N6VWpuYkRkZw?oc=5",
+      "titulo": "Como a guerra do Irã pode impactar os preços e a economia do Brasil - ISTOÉ DINHEIRO",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZdWl3SE01YVpQVld1eTg4eE9yQ2Q4VnFKOEtMNzM5Z1pqM2ozbkxsemRqZGdacVlnQlVISUp1dU9IWEpLRUFFOTBuaDZCYzRZdVNRTjJIOGswbWs0cnpNUnphdjFOWUkwZlVSVVVQbEY3QQ?oc=5",
       "categoria": "Commodities",
-      "fonte": "InfoMoney",
-      "data_publicacao": "02/03/2026",
-      "data_iso": "2026-03-02T08:00:00+00:00"
+      "fonte": "ISTOÉ DINHEIRO",
+      "data_publicacao": "03/03/2026",
+      "data_iso": "2026-03-03T08:00:00+00:00"
     },
     {
       "titulo": "Dividendos de FIIs: confira a agenda dos fundos que pagam na última semana de fevereiro - Bora Investir",
@@ -242,38 +266,6 @@
       "data_iso": "2026-02-12T08:00:00+00:00"
     },
     {
-      "titulo": "Além do Ibovespa B3: conheça os índices de ações que mais renderam - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNam5hVVQ3dUV5T3c5eU1IOGI3ODRjZVVuNEw4T1RPNDlUMHdBOGJBMjFWLWQ2Tzd2QTF5ZTdfUFM5TEQzZ2ZaMnRrNHZvWEZ6dmlYRE4xaHhLVkoxZ1ZROUJTeWVHVWlzVUttd1pZWm85cUdXSmtvSENuNTZBSkhOdDFVYWtmelhsTVNtZ3ZMWUFfaXRzdXhCd2w2OGxDWnpRbm9oellBVXVmc1JXSEFTTHV6YkdQZ2ZUUjJEWXduNmoxelZZUVlqb3VzOHpmNktucjFMX0VFTQ?oc=5",
-      "categoria": "Ações",
-      "fonte": "Bora Investir",
-      "data_publicacao": "09/02/2026",
-      "data_iso": "2026-02-09T08:00:00+00:00"
-    },
-    {
-      "titulo": "Bolsa cai mais de 2% em dia de forte correção no mercado - Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEpXMTlGX0xDbTBjeWRvZ0RpMVY3X25aUkNtXzlBMnFRLU9iRXJiZ1o1X3J3UDgwU2FKTUFkektwRTV3ZXBEaUFQb1BfWHVHNTBCMEVPNl91Zjk2YWQ5SjRzNDdiTXRTNUo2THRpYktaOUVMVEVPZzZESW10ck85N19uM3Z5M3dNSDlWemgwVHdGSmdzQk9GV1NxMjdEMzdxX19WR2prTkhmbE1fWGYySlZkSQ?oc=5",
-      "categoria": "Ações",
-      "fonte": "Agência Brasil",
-      "data_publicacao": "04/02/2026",
-      "data_iso": "2026-02-04T08:00:00+00:00"
-    },
-    {
-      "titulo": "Ibovespa B3 tem maior valorização em janeiro desde 2006. Saiba como usar o índice para investir - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWVUtTFktOXQyWjBGV2s0VnJMMWJVSW5TakFVbnpZaFppVGZMcnJDRTBUZkxtdnpUNkxsVEx6Vlhob0Nib3ZSVlJIbU9kaFRZd1pmWlVzXzhOdTg0WFVWWWJSSmtUODItSmlXLWJtMWpGazVCWnItVXdSRnJEd09UNFNMTlVwalFJbnRELUZPUmpya1Bha1JENHkxWUVjLUd1YXgwQlg5MkE0bXpZcmFZdE9tbVV5b3VGNHJ4VEF2SnNvZkNqM1hzYW82RmJSTkJXR2pwdVFlNzJaWDQ?oc=5",
-      "categoria": "Ações",
-      "fonte": "Bora Investir",
-      "data_publicacao": "30/01/2026",
-      "data_iso": "2026-01-30T08:00:00+00:00"
-    },
-    {
-      "titulo": "Mesmo após rali do Ibovespa B3, gestores de ações estão otimistas com a ações em 2026 - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa1NzNzRSTU85SzJkbGdLRjFSR3czNXNPSHNNUXV5ckQ5STVJaWp4UDU0WVBsMnZWT1hHcTUtcG5CYzBLWWgycHF1NDNEVUVUM2s0eDhfM3VneGNTMUFHNXkyb2VYbmxxbkFEWkpQdWpkY2JsU1RRb212UjRyUEVHZWpoVnVCZEdjV0E1Tk91dzRCRVdBcHdwTUxXRzZKWEZRYTdmWE5tLWJKOGdXcWk4emhLamExZmk5eGtkUlBJVHVwWEY2OW5oWkxVSlZnaUdJeVk1VV9uNFJ1UjBnbzd6V3lqT1FmbExYNGhaa0QxYVp4QQ?oc=5",
-      "categoria": "Ações",
-      "fonte": "Bora Investir",
-      "data_publicacao": "28/01/2026",
-      "data_iso": "2026-01-28T08:00:00+00:00"
-    },
-    {
       "titulo": "Mercado de fundos imobiliários (FIIs) atinge marca de 2,96 milhões de investidores em 2025 - Bora Investir",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUEdtTHBhcmZyWERVRUNMTEtid3FhdndzZDNjQi1DU2pBRkhYMFBiTlFKNmgyM2JVS0JSNDNhLVk4cU9vdWdOcWJvUGNncXRDSUpsR2d6ZDV6c0xOdENUVl9CSDJxb1ZCdzROZjgwbGl1RzNxMHFIRm5uUHZOeVBMSzdoTzViTGk0TkNPQ2RTUXRnRHhDZ1N4TWVaeklwcTlJaGNRRklxNEQ5Q2UySEs3TWdMc3VmaHprRXhjZDhLVl9VQzV4R3ZWSlNHaWxCTFY3MjBsOFVTVFhQTzRlcmRXYi1sd1R2M0dVNTN0NFozQVo5TmF3aGFjb2plaC1OOVBuOVpRRzBacVU?oc=5",
       "categoria": "FIIs",
@@ -298,14 +290,6 @@
       "data_iso": "2026-01-12T08:00:00+00:00"
     },
     {
-      "titulo": "Conheça as ações do Ibovespa B3 que mais pagaram dividendos em 2025 até agora - Bora Investir",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ1V6enJ6TVk0bGQ4R2ZQUC1YMTFxdFo4bnlmTkFEMUYwY0JfeENrTFhuOFppOUt4VFZSVU5OVjdFV0hTSGJMOTUxOVQ2anFZNE01QlRidThHZnN5SlRVbjhFcTVfZDdJNFhSTlVHa2xoMENPNWtfYVMwYnlWWDhKNFhsSlFkMWtoazJidWdFYTNxbXQyV0JaeEZWMXNWTnlYRkRIZFhNUTVVUGpuODRKOEdEVjJseUs4ekJLSFVtX2xDTDN4SzU1cGZxUDNYYmhZT0FvcUtkLXpfTzYzTGc?oc=5",
-      "categoria": "Ações",
-      "fonte": "Bora Investir",
-      "data_publicacao": "18/12/2025",
-      "data_iso": "2025-12-18T08:00:00+00:00"
-    },
-    {
       "titulo": "Por que o yuan cresce, mas está longe de desbancar o dólar - DW.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU9RcG04X0hkOHowZFpkZkptc25rajFqOWZKdFNNYURLUFljRGJQTGRSWHZWeHhoZFh1YXQxT2hwa0gteUlhSmZDeGZYTS1VZjhCc1k1MG1KR2daUElzYWtENlZ5aWFJc3NjOGI3TTFjMHduQzNwd3BTc1RLbUFDMHpqZGRuekswbDNOOHE5RzZkUExIV1AwNHRCdGFnTGRGZGEydTF3c0JWa0E3MnfSAa4BQVVfeXFMTVdaZi1vS1l4ZDB1NTJKdktIWHZPdGtudEM4MFJnNFFPelFJY043TGRGU3NJUEJpcmhtS2VoUTJPWlkyMWZGUEtpeWstOU1lT2tmVDFHY04teW85c0psdVlma2VpdGxrb3diWFlQSFFxSE9vbGxMWU1ha1ZXbWxwYUtFWlY0b3BvYllIeWpVSmRpRFhRMmI3OWZSeHFCR1h6SThOUlhIX2lOeXMwTUd3?oc=5",
       "categoria": "Câmbio",
@@ -320,6 +304,14 @@
       "fonte": "Bora Investir",
       "data_publicacao": "25/07/2025",
       "data_iso": "2025-07-25T07:00:00+00:00"
+    },
+    {
+      "titulo": "Além do Ibovespa: Bolsa brasileira tem quase 70 índices; conheça - XP Investimentos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0EwTXJKZ2p3ckkwWnB1cjlLbjdyOHVndW40bUFFOFJlRzN5S3ZwZ0hEY2cxZjEtWVIxX1E4Sjd3ZWdlZmFzRUd4R3ktMndSX09lbEVDV2lfLS10WXNadzVVTkRBdjlaZ1FXNzNycDRpaEVvTnhoNkJtcHQzYWs4SlZXN29QZE42eXljb3hFWnB3bnAtTC14YXg4anJ6aTBUeWlv?oc=5",
+      "categoria": "Ações",
+      "fonte": "XP Investimentos",
+      "data_publicacao": "23/06/2025",
+      "data_iso": "2025-06-23T20:09:19+00:00"
     },
     {
       "titulo": "Dólar enfraquece frente às principais moedas em 2025 - Poder360",
@@ -368,6 +360,14 @@
       "fonte": "Bora Investir",
       "data_publicacao": "19/08/2022",
       "data_iso": "2022-08-19T07:00:00+00:00"
+    },
+    {
+      "titulo": "A exposição a commodities dentro dos fundos multimercados - XP Investimentos",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmxyMC11b0I4Vl9wQmpvbExkNFJ0Tld1YnE5N0Zwc3FIZTBDaHJHYmFNdk5pRVljTGJHX0JTRTlWY2ZiNl9QSElnUVdQWWluYU50STlxcHZjRkFlMHlCQzhZSFA4VVFfMzdDVlpRNzV4MUlnWWY2aVg5TFExY0RwMzFidWNLakdKTTRhR3dnenJBQ1BwYTNWSHBtdzAtTFlJeUdkWjNUNG1vQkNWeFZUUHFNMWlRdjdoWWllMGdn?oc=5",
+      "categoria": "Commodities",
+      "fonte": "XP Investimentos",
+      "data_publicacao": "24/10/2021",
+      "data_iso": "2021-10-24T20:35:23+00:00"
     },
     {
       "titulo": "Cotações: Câmbio, conversor de moedas, bolsas e índices - UOL Economia",
