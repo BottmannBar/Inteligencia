@@ -1,22 +1,22 @@
 {
-  "coletado_em": "2026-11-24T06:05:47.722861+00:00",
+  "coletado_em": "2026-11-24T20:41:22.895359+00:00",
   "cambio": {
     "USD": {
       "codigo": "USD",
-      "venda": 5.9708,
-      "data": "23/11/2026",
-      "data_iso": "2026-11-23",
-      "variacao_pct": 1.391,
+      "venda": 5.8573,
+      "data": "24/11/2026",
+      "data_iso": "2026-11-24",
+      "variacao_pct": -1.901,
       "fonte": "BCB / PTAX fechamento · venda",
       "url": "https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios",
       "preservado": false
     },
     "EUR": {
       "codigo": "EUR",
-      "venda": 6.5076,
-      "data": "23/11/2026",
-      "data_iso": "2026-11-23",
-      "variacao_pct": 0.625,
+      "venda": 6.426,
+      "data": "24/11/2026",
+      "data_iso": "2026-11-24",
+      "variacao_pct": -1.254,
       "fonte": "BCB / PTAX fechamento · venda",
       "url": "https://dadosabertos.bcb.gov.br/dataset/taxas-de-cambio-todos-os-boletins-diarios",
       "preservado": false
@@ -395,6 +395,10 @@
     }
   ],
   "avisos": [
-    "PTAX CNY indisponível (ValueError)"
+    "PTAX CNY indisponível (ValueError)",
+    "RSS FIIs indisponível (HTTPError)",
+    "RSS Ações indisponível (HTTPError)",
+    "RSS Commodities indisponível (HTTPError)",
+    "RSS Câmbio indisponível (HTTPError)"
   ]
 }
