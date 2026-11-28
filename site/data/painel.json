@@ -1,5 +1,5 @@
 {
-  "coletado_em": "2026-11-27T21:16:19.626375+00:00",
+  "coletado_em": "2026-11-28T07:47:56.618182+00:00",
   "populacao": {
     "fonte": "IBGE / SIDRA · tabela 6579 · variável 9324",
     "url": "https://sidra.ibge.gov.br/tabela/6579",
@@ -40,6 +40,14 @@
       "data_publicacao": "16/11/2026",
       "data_iso": "2026-11-16T08:00:00+00:00",
       "categoria": "Automotivo"
+    },
+    {
+      "titulo": "Governo não renova subsídio de R$ 1,40 ao diesel importado - Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmtQb3NITWExSm1XQzBnS1N5bkJrX2JzaEN4WFVZTHJIRThuZXdkSE9LSDlqZFBjUDYtNFBvVzFVSkJuTWI2OXhmOV9sNWt3aDFxRUxKd0lMQm9VbXFpcUoyR1ZaV2lJVWZHY2lyckhmZUFQNkJmT2dvTjBLSGs3Qktob2xLN0haakRkR3pRaU5YYnVXZkxHdnZhSnFzaUxUWnVCaVJnSkhrOXVxOVk5ZVAzdm4?oc=5",
+      "fonte": "Agência Brasil",
+      "data_publicacao": "13/11/2026",
+      "data_iso": "2026-11-13T08:00:00+00:00",
+      "categoria": "Combustíveis"
     },
     {
       "titulo": "O carro mudou, o cliente também: Leonardo Dall’Olio analisa nova fase do mercado automotivo brasileiro - Economic News Brasil",
@@ -98,12 +106,28 @@
       "categoria": "Celulares"
     },
     {
+      "titulo": "Galaxy A58 vazou, RedMagic 12 Pro Plus chegou e novos celulares no BR | Plantão TC - TudoCelular.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkFESkdSZUpXTENGWjhGZnlkRmRaWEV0bm02VGY1X0dkWHZyYk02RFdQUk9MRzlzYllkY0ZRWXJ3LVJXZ2Z5VVloUUp6aXRDQmRUbUhDTTNKUjZBWU1jbTJjTGVGX20xN3pzbXktVExJX1FTaUhBc2FDVy1Fc01VbXA2SEVscEdJODlUUkRza1VHdWZSQV92eG40MHdvVVU?oc=5",
+      "fonte": "TudoCelular.com",
+      "data_publicacao": "15/10/2026",
+      "data_iso": "2026-10-15T07:00:00+00:00",
+      "categoria": "Celulares"
+    },
+    {
       "titulo": "Brasil: Varejo cresce apenas 0,1% em agosto e vendas de móveis e eletrodomésticos despencam - ADVFN",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQkRHaUFETUtfSzFOeVlJV3NYMzJJTXpyWGNMUE9HUElEcGRMc21NS0c1TG8ya2tZZWtmcFpCcWRNX3lYemtMMm5OUU9SS3dwZnAtSk54dy1OeGhhQ05NSnBsTDdFV1pPU1otRU9uaFRTRGZEc2hmVEQ4RndjQktmTVpfVkpGb0RZY3VSbnJMcXB0bUIyV0JuNzRYZlBBRUdNM2p4MUd4bzJ4YVUwZjhKQkJoeG5JdUFFRVVWZUE1WkhhZlU?oc=5",
       "fonte": "ADVFN",
       "data_publicacao": "15/10/2026",
       "data_iso": "2026-10-15T07:00:00+00:00",
       "categoria": "Eletrodomésticos"
+    },
+    {
+      "titulo": "Vendas no comércio varejista têm variação de 0,1% em agosto - Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc2JtNDZMaHRlVmtQTDNKT0hfbWdINGpIWGlrUGN1WThfOFV2TzRjRGtYLUExb3NGQ3RiMUNWVmZDWmxwTk9pcl9iSHlBV0RPdUJIdlJneGN1SHZTSjI0LXhidDk2a1ZTdVVDcHJMUUtBMHRfbkl1b3JLLU1wdE9DWHhTZUtDQ0tDSlN2WXNOUnpmanI1Slc2cC1UaGtMc2FJZVU4MWNwZkR0ZDZpMEtqa2UzcHJ4QQ?oc=5",
+      "fonte": "Agência Brasil",
+      "data_publicacao": "15/10/2026",
+      "data_iso": "2026-10-15T07:00:00+00:00",
+      "categoria": "Construção"
     },
     {
       "titulo": "Mercado de tecnologia reage à IA e abre mais vagas; veja quais profissionais ganham espaço - Exame",
@@ -130,6 +154,14 @@
       "categoria": "Farmácia"
     },
     {
+      "titulo": "Farmácias brasileiras: o próximo capítulo dos dermocosméticos e da K-Beauty - Guia da Farmácia",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE54Q1BlSTVYSDRmVEpQcmkxc3N3cVVueVZCRWRYTmR5QnlnR0xCaGxDRTJNVDlBZE5HclAtZHFfTzZlUVdUdUdzYmdlZ2s2YkYwZ3owRW1VaWFxUk5KYmowX241X3ZVZXJ1X1dQTkdsMzhwWUR0T3dsMHI4N3haY001QkZhamFPeVJoNXpkbTZnNmJzMURxc3dfXzFDek5qNmZqelU0c0Y?oc=5",
+      "fonte": "Guia da Farmácia",
+      "data_publicacao": "29/09/2026",
+      "data_iso": "2026-09-29T07:00:00+00:00",
+      "categoria": "Farmácia"
+    },
+    {
       "titulo": "Avanço das marcas chinesas acirra disputa do mercado automotivo brasileiro, afirma vice-presidente da Hyundai Brasil - CIC Caxias",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVG1SVW11X0FqQ1A1OGpSYlQ5NkNIM1VGRU1mbFJ4eE50NDhpQ2VVS1JZSzVIVWpGN0k4YlZobHJoRWR5YWdPZ0pYN2tBSktmYTFvclFuTHR3WFNlakxOVDlFM0g5LWpZZV9GTkVycnRBZXQ2UUoyMlBtelhIRmpLZDR0UkhieXNhQmFIb3lFZm1sRThqRC1adlVFVDg2U0czQUtQOTFkU0JqenRYYUEzX0xtWHJiRHdOcTlSLXBlOTdvdlM5SkF3WTBYalRLczBwMUxna1ltZHJySkNQWXk5SmZMNllBZ3E0WnZ5Slk4VE91Tms?oc=5",
       "fonte": "CIC Caxias",
@@ -138,12 +170,12 @@
       "categoria": "Automotivo"
     },
     {
-      "titulo": "Agronomia na Funepe: o curso que conecta tecnologia, mercado e o futuro do campo - Hojemais de Araçatuba SP - Hojemais.com.br",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNnh0dXdacjEwa0preG9nSTViR3JKYjA4Um82Wmx1ZDVSZTVsd01wUWw4UTRqMUFRNHZtenRRMXV4SWE2WUxiSkRYVjYyYkxtUE4wWjFVek00bGZHZloyQWp4NHNKbUtZU1hMa0hqNEdXMzlPcFFLVGxTckRyMXczU0hIU29lZ2gwTDkyT3V5aXRNcWFoNkowdkJoU1lXQ3BnQXdWaTRGUWQxblYtNmsyYjZRVkY2Q0pPOVJTLXo5Nkt5ZmhtMDVISDRxM0pXTkJLWnVYNjNXXzlBS3lEX0I0?oc=5",
-      "fonte": "Hojemais.com.br",
-      "data_publicacao": "25/09/2026",
-      "data_iso": "2026-09-25T07:00:00+00:00",
-      "categoria": "Tecnologia"
+      "titulo": "Perfumaria cresce 17,4% e ganha espaço nas compras de Black Friday em farmácias - Mercado&Consumo",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ25YaTNkV3BCSHlOVy1uNHRHYmFObHBVMURKWDBOajN2U3FkRFV2VENVWkZzSHpPVGZ5MzRIcDFxWTVzWVRmME9VSGUwd0pSWldpcVdfNGo1eU94blNkQ1lQbWpkTjZyeUpSQTh6TWp1NWhYWWtPVWhfMEk2QnVVcm1fck5TNHIyLURSQmN4clN2TUlWRzRNSE1PdXlyOElNUnRHR3lmMWl4b1A3Um5WTG5TNGlNTzAwY0M4UXhMdDFLSC11S2U5cnhCMkd2Z9IB0wFBVV95cUxOWUludXl4dTJxR1E3VHJsX0dYQU9ZcHRzdmp5am9fMnV1cEFCdU1sOE1XNTRISnhzVEJ1c2Q3QUFvM0g1bUw1VTM2Vkp3aTVKdVRPeC1aMGpaME5LaUxwWXVRN0FQYWFhMExvNlMwR0dncEdTZFY0by1qLXVQd0dZVWRJQ24tbE41VEhJMERZbzZ5eFgySEFENUhlOVpkQnFJeHQzZ1dSa3RJYlNmRHFKa05NNl9DTTBnRmtMaXR5blY2Vkp1Nm1zblVLaHBZemFXY0x3?oc=5",
+      "fonte": "Mercado&Consumo",
+      "data_publicacao": "27/09/2026",
+      "data_iso": "2026-09-27T07:00:00+00:00",
+      "categoria": "Farmácia"
     },
     {
       "titulo": "Crise aperta varejo de construção, que aposta no digital para evitar mais fechamentos - Bloomberg Línea Brasil",
@@ -168,6 +200,14 @@
       "data_publicacao": "22/09/2026",
       "data_iso": "2026-09-22T07:00:00+00:00",
       "categoria": "Construção"
+    },
+    {
+      "titulo": "Agência de Comunicação - Postos de Combustíveis no Brasil: veja o mercado em 2026 - Estadão Blue Studio",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVh1dVZVNHNlSUtrVUxEOGptSFQ3QnE1UE1LTDF3eFZXS19IMUMxRDdBbmltOGIxQXZFZ2ZEMkJDMGhlbFg2RklSdjRJemN1dzZ4aFV2SFFjZk8waHVnSFNhU2ZMc2h3NnVDX1NnWmIwbUZ3SkNRTTUxZzVnRUdpRnBaZ2tiVUNoejZNTXJjNzJ3d0xXMlFCSl9mVUZkeExCd05VWlpRUU1jdHJkcGZBZlN3Nno?oc=5",
+      "fonte": "Estadão Blue Studio",
+      "data_publicacao": "22/09/2026",
+      "data_iso": "2026-09-22T07:00:00+00:00",
+      "categoria": "Combustíveis"
     },
     {
       "titulo": "Nordeste registra aumento de empregos no mercado de tecnologia - G1",
@@ -218,28 +258,12 @@
       "categoria": "Construção"
     },
     {
-      "titulo": "Hyundai vai importar carros de China e Índia para aumentar vendas no Brasil - Autoesporte",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORk41bEdNc0huZ01aQ0pJY0FkN1EwUmNYc05pbGZTNVJxaFdlLXV5bG56Tm1NYlVhcWNsTEQyNEtwRTJOTHRxQWVOUWtqNVpENlI4QkpjdDRzNG9oSWQwSmhRY05Na0NxNDFCRkFRVUZLN1RNZE9PN2FJdHRoUVNDWEgwNXY0N3JSOGRDZ2hJd2U1VFJEWmhYbHhlYTg4QUFkci03QzJaV005T1pNNmtZX2txcjk4eG52dm5NdkhZZmpvblJKMDNJRzk4bE9uc2xtZ2lMMTF1OXcyLTllVXNV0gHuAUFVX3lxTE1ySHhVVFdCSnVCLTV2OFRXclRROFJDT0dwNnVpTjJ2V2VmeFZ3MXo2Yko5SVJhNDFiYjRNdEsyYnVqMUlESEVudWt6bElnMlpPNzVKNWRSM0R5RDdFZ2FqNXVLVGkyMUlQZjFVNFN5MTd1eXZ4UjAxcHRqYXJJdU5qYVhMeXF4UFJpb2RYc05KWnd6Y3Z0Yl9YSnltSFY2OUFjQ1lDR1BGWVJ4S0poZkxiXy1iVnZqY0xkelh1V3FhdnA0TmdabWxYa2I3bjlUYmxaaHJKWjhTSXdrNWlVNkhKT1I3TFdCdlJKOVNVTlE?oc=5",
-      "fonte": "Autoesporte",
-      "data_publicacao": "31/08/2026",
-      "data_iso": "2026-08-31T07:00:00+00:00",
-      "categoria": "Automotivo"
-    },
-    {
-      "titulo": "Redes de farmácias criam ecossistema para impulsionar K-Beauty no Brasil - Abradilan",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnZ0YThUUEl1bjZDRzZDc1lUQ1o1eEpOcnVuRmNNMmt6bUg1ZmxOaDhFVEFwdzhodVFWaDZ4THgtRzZNNEVNNTJIV09UQlJHemFzVU1KTzBjSVZqSkhSaTA2VjJxVjRMeWdUQ2tUTXIwekNVR0I3WGxLaWtnRHcyWEZRclJaUTlod2lvWlFhYkVVanBDY0pPWjlaMk9JZzI4TWt6bmxaSEpYUQ?oc=5",
-      "fonte": "Abradilan",
-      "data_publicacao": "27/08/2026",
-      "data_iso": "2026-08-27T07:00:00+00:00",
+      "titulo": "Anvisa autoriza funcionamento de dezenas de farmácias e empresas - O Tempo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUDlXU0JzZHl4a1VBcEhxY1NfeGFvSFRFSjlkRGVKU2VBc29hT1o4Sm5lSU1JNm9DZk1HSFprYkRvOFd1cWZoZkUySjJpU2xIZTJBT3plMkdIcDFIaW9LLVBaOTRyalMtZU1LNjJWWGRLaWlhOUhyWEJvUjV6LWplTHVuRmZNcnJQcXozeEd4eHNzbE1wZWdRcHNFUFltSlVmZkJOOTd3bnRtLTVhRVE?oc=5",
+      "fonte": "O Tempo",
+      "data_publicacao": "24/08/2026",
+      "data_iso": "2026-08-24T07:00:00+00:00",
       "categoria": "Farmácia"
-    },
-    {
-      "titulo": "Brasil amplia mercado de tecnologia, mas formação e acesso a capital ainda desafiam inovação - Paraíba Business",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVp5QWVwS0tUZC0zOGtHYzZUclI2M2Y0d050MmJoRUNWVFpSMVpEeVlDMTBmQmNUN3VHV1FuU2g4ckVTQUNGOVc1ZkYxMUNjay1UOEJFSVBHcGxPZjRoMTkwM1JrQ3V6TVJSS1F6RTQwTElvNV9GSGl2aC10T1puTXhxOE9qeXpQeVZEVlBLNUZJN21aQndEY1pJRWN3YkZPU0ZIbjhpYlRHeC15bFI4cFFhS203eHRQbmlwcmtSTTQ?oc=5",
-      "fonte": "Paraíba Business",
-      "data_publicacao": "25/08/2026",
-      "data_iso": "2026-08-25T22:44:05+00:00",
-      "categoria": "Tecnologia"
     },
     {
       "titulo": "O mercado automotivo se prepara para nova guerra de preços - Exame",
@@ -266,14 +290,6 @@
       "categoria": "Eletrodomésticos"
     },
     {
-      "titulo": "Suplementos, concierge e menos remédios: a proposta de luxo da Drogaria Iguatemi - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjhBbXFRb2h0eXppSldCRlR4d0pmdnhLX3MzT3J6a2FldG1rYzJfZzhicWFhU2VXc2syZ3RTMEFRSHh6b2R5R3phTjBfYU9sTVFoS2t4c1ZvYzE4S1lvUUc3bHBNWTJIN0lJZFFTSHBIZ2Y5SlJfdmsyMW85dXNsVkNhVUNGMHNfTUdZYlBEMUJUZjdDQ09xSHI0R0lhTVp6WXVONi1Xdll3b0J1ajYtbVgwSGpCNC1E0gG-AUFVX3lxTFB5aHFzT0VtUUFzeUhSM3BQTkR3aTNSeVhpNFlpTUMxd1NtMU5KSG9LdWlXNUlkWlZpM0NNMXg4aTUzVEdGYUd4NVZheFlJZXJaNzhXbXZTNFBseW1WRFgxdmdjRTVwbTBZNEQ5ZFZRNUNXQjRwZmxIZy1QV0xiQ25zb25VUXBtcFQwN2YzZWRDSTRXUDlTZnRDYm9oMWZXQ1hzUnpmczFGeDY5SkxIbHNwX1ZQUzRhc1Z2azVQTHc?oc=5",
-      "fonte": "InfoMoney",
-      "data_publicacao": "17/08/2026",
-      "data_iso": "2026-08-17T07:00:00+00:00",
-      "categoria": "Farmácia"
-    },
-    {
       "titulo": "Vendas no Varejo Brasileiro Sobem Mais do Que o Esperado em Junho - Forbes Brasil",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNblE2ejhnMjlIaGZnalNybTdieHlqMExPdDM0NlZESy1mTmd0alVWVVZ5U3dwYlR3WnVIdGY1aDRlRndJZEFOUVFLNGkza2x1VlM1eXM4eEVzdldEWmlQRUtnVEhPRWdsV0hOWlR6QkwyMkpaTC1SWGVEZlQxSXFoRHo4VnRkcGJaZXA0Mm96VTZwYzVON3NLbVlIM0E3VHpjMTlkWVlXYWFTSGZidlE?oc=5",
       "fonte": "Forbes Brasil",
@@ -295,12 +311,20 @@
       "fonte": "Motor1.com Brasil",
       "data_publicacao": "07/08/2026",
       "data_iso": "2026-08-07T07:00:00+00:00",
-      "categoria": "Tecnologia"
+      "categoria": "Automotivo"
     },
     {
-      "titulo": "Farmácias de luxo vendem mais beleza que medicamentos e acirram disputa no varejo premium - ICTQ",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGhRNmVLdjdDV1lPMkNvQ0Z3QXNEWWlHYlVQVGJtdlpGRjdkSXljTTFIQnlvZHYzWUMtNjhESEZHWjBjMk5CQjVYUkp4Tm10WE9hVks1UjNNNWZHVUFpMTU5d25YME9VTDZ5MWlWcUFiRjAwMS1wWlVvVjNjaHJUcWpfWDdLSjA4R3JLaDFkQTcyODcyTmQwSDF3Zi0yRC01VFVDTjQ0UHNyVVEzRThFRmNmWEtYOC1NQXZoQ2piMHpNUXdOS3B6VQ?oc=5",
-      "fonte": "ICTQ",
+      "titulo": "Mercado brasileiro opera com folga de combustíveis em agosto - Agência eixos",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHA1TUkxRENUOXBFTDFaUzg5Ti1KY2hrMlE5THVnbXJFZ1BhdmNsSmVOY0dZZUltdTNfeEhZRm1oZW5saFlwUUc0TjQtTV84WXBsQWtFQnFjUktWbmZJSGJDM2Q4MDZKY19FN1VOU1RkY3JOQi1WWFlLVk15bUg1VzZLLXRoZTVhZ0YxRkF1MjREa25SeFFXbmUxMDVSZ0szSTRDSHFRZWU1RmotZ3NBWWpBenA?oc=5",
+      "fonte": "Agência eixos",
+      "data_publicacao": "05/08/2026",
+      "data_iso": "2026-08-05T07:00:00+00:00",
+      "categoria": "Combustíveis"
+    },
+    {
+      "titulo": "RD Saúde inaugura farmácia conceito e investe em mercado de beleza premium - Mundo do Marketing",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2c5YXlDdHk5ckc3Z1BwTXNXRkFzVWp6YlF0d2IybmZ6SElHQVZQN21KamE5ZHdGeFpKaU1HMGZLZUJaZ3pXZVdVakZBRHBYRlhaMnBMY0F1d09CSldOalRTYU11aDR1M0MyRk5pQVRUSkJiTm9Td1NyLTFDWU1yUU5jaUF0cUVWcEF0emNiX0NENnhUd1ZRbkg5V20wLTBzM2VJXzhzWjRQQQ?oc=5",
+      "fonte": "Mundo do Marketing",
       "data_publicacao": "04/08/2026",
       "data_iso": "2026-08-04T07:00:00+00:00",
       "categoria": "Farmácia"
@@ -314,17 +338,17 @@
       "categoria": "Tecnologia"
     },
     {
-      "titulo": "RD Saúde lança novo tipo de loja para vender de skincare coreano a perfumes árabes - Exame",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFpIR3QzVWlKNFhVNHB4SEhsWEduUGZaZU9HSUF6SnJuWTgwX2JPQkVXcWNwb0NHN2FHOGhKRG5ZZTc2UXJObTVGclU2QXN2SlRmNlRpdnNrdlptMWtBRzN0TjRuLXdiSDVvNGhTUGRlQU4zWjB2Y2RVZzFoVEw1Qll5dkJGMEZIUDE4ZXFMS240RllmNkNfTVd1bWlBSXlRbFJfbEJXRWEtcWhMWVlKdlUya2hlaW5J?oc=5",
-      "fonte": "Exame",
+      "titulo": "Farmácia virou loja de beleza: Raia e Drogasil apostam em premium para crescer - InfoMoney",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGliSEtEZWVqTU9DaHVLbGZnWHM4cXdLY1FQZGN0NExKU3NhT0phcXZCX29uVVY1SWx2SjcxX2NkTHRrVTRyWGVjaWtrc1F6eVdLczhEV0NBb2RBQ3V3akQ4b1NyUnhPaDRCQUZNR3g5Y1FudUNhZDY1VGxEVHdTSzB5eVRxVktEQU93NjZob2VfMHJMRVhBYWQzSDR5Vm1qOE9LeGtaWlhxMWpxSjNCSTBFTWpHd9IBuwFBVV95cUxOcGtmdkJhcnpwdEFrUFhxbjhSdjV5VlpXNW5BZ3E1ZmdIU0ZzY3hodVhmUmhYRGNfYlFmazdkdXR1RlA5WHV5bjNhR0F1TUZ2X1lObjBtNFZra2RmSV9YYkxzNnFkRklITUZSZ05VWEVORFc5Mmw5S2cxWHQ4V2NVZzFsc3ZLMmwzNHVwalRER2VadlhsRzcxQlFxbzBxdlF6R00yUDZ5LUNlaUNBa3IxUVB5NW5Oc1pVWXk0?oc=5",
+      "fonte": "InfoMoney",
       "data_publicacao": "03/08/2026",
       "data_iso": "2026-08-03T07:00:00+00:00",
       "categoria": "Farmácia"
     },
     {
-      "titulo": "Farmácia virou loja de beleza: Raia e Drogasil apostam em premium para crescer - InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGliSEtEZWVqTU9DaHVLbGZnWHM4cXdLY1FQZGN0NExKU3NhT0phcXZCX29uVVY1SWx2SjcxX2NkTHRrVTRyWGVjaWtrc1F6eVdLczhEV0NBb2RBQ3V3akQ4b1NyUnhPaDRCQUZNR3g5Y1FudUNhZDY1VGxEVHdTSzB5eVRxVktEQU93NjZob2VfMHJMRVhBYWQzSDR5Vm1qOE9LeGtaWlhxMWpxSjNCSTBFTWpHd9IBuwFBVV95cUxOcGtmdkJhcnpwdEFrUFhxbjhSdjV5VlpXNW5BZ3E1ZmdIU0ZzY3hodVhmUmhYRGNfYlFmazdkdXR1RlA5WHV5bjNhR0F1TUZ2X1lObjBtNFZra2RmSV9YYkxzNnFkRklITUZSZ05VWEVORFc5Mmw5S2cxWHQ4V2NVZzFsc3ZLMmwzNHVwalRER2VadlhsRzcxQlFxbzBxdlF6R00yUDZ5LUNlaUNBa3IxUVB5NW5Oc1pVWXk0?oc=5",
-      "fonte": "InfoMoney",
+      "titulo": "RD Saúde lança novo tipo de loja para vender de skincare coreano a perfumes árabes - Exame",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFpIR3QzVWlKNFhVNHB4SEhsWEduUGZaZU9HSUF6SnJuWTgwX2JPQkVXcWNwb0NHN2FHOGhKRG5ZZTc2UXJObTVGclU2QXN2SlRmNlRpdnNrdlptMWtBRzN0TjRuLXdiSDVvNGhTUGRlQU4zWjB2Y2RVZzFoVEw1Qll5dkJGMEZIUDE4ZXFMS240RllmNkNfTVd1bWlBSXlRbFJfbEJXRWEtcWhMWVlKdlUya2hlaW5J?oc=5",
+      "fonte": "Exame",
       "data_publicacao": "03/08/2026",
       "data_iso": "2026-08-03T07:00:00+00:00",
       "categoria": "Farmácia"
@@ -370,20 +394,20 @@
       "categoria": "Papelaria"
     },
     {
-      "titulo": "O rali de tecnologia está com os dias contados? Veja o impacto para o Ibovespa, segundo analistas - Money Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcXA4T3M1ZjRwcHd6bmFnR3hLazE2YnVCZ3lhTGw5OTB1aEZicU9UVFFQLVFaSndOSUpDMmVzMFc2bUlTbG1lRnlSbnBtb1NnRkw0NXp5Mm93MTJQeDBQeDVIWVBtTWIwZHVseTVDYmpjeXg2UnF2VF9EY1JiS0xELVR2WmNqdVJCVWJvYkZ5c1NZYTZ1WXBXdzBKWHNvWkxNc0VUVVphalpzbjh3bjFXLU9UY2RydEJZdTdsaU1keXNzM2w0NXc0SDVDQQ?oc=5",
-      "fonte": "Money Times",
-      "data_publicacao": "15/07/2026",
-      "data_iso": "2026-07-15T07:00:00+00:00",
-      "categoria": "Tecnologia"
-    },
-    {
       "titulo": "Varejo cresce 4,2% no segundo trimestre de 2026 - E-Commerce Brasil",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFJUcUljQjdscEd3V2xmMXhMSlQxYWkwY3l4OEIzZDZ2QnNPLVhfamRNclp1ejRSaDYzSmxRc24xaVkwV2VqYVhfdlFnNjZndC1XZWh2ZDNfRkdERmdQTGM0cGM5WENNSjZuSWdDOU15T1pXRlFjZHFNMzVuclFQa0J1OU5lNWZKMnMwNTRkMUJoQ2M?oc=5",
       "fonte": "E-Commerce Brasil",
       "data_publicacao": "14/07/2026",
       "data_iso": "2026-07-14T07:00:00+00:00",
       "categoria": "Construção"
+    },
+    {
+      "titulo": "Assuntos Regulatórios vivem momento de alta demanda e novas oportunidades, afirma professor do ICTQ - ICTQ",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZXBreWcwaDBVYnBlaS1rSUlhSGYwVG9lZ0h5a0pnMGZaRTJLNDlsT1M2WjYzZmxieFY1MlBaVy1nUzRVN0hNRXAwT2dtWDZORGJTR0djcEhzbGpGcFl0VXI1WW5fYmtVNDhkN0Y3MVRZRFM2THpZd2lGZmJFSV9CajNXMUhsd3QxODZ3ZUNaNTJ5NXFXVnhMWFhxcXNMN1NRelpjcXY2SmdHcGNlYTJKbWZlZlNsTFhOYk8zRXR0QWFyc2NZN0EtcG9SejdwT09td1E?oc=5",
+      "fonte": "ICTQ",
+      "data_publicacao": "07/07/2026",
+      "data_iso": "2026-07-07T07:00:00+00:00",
+      "categoria": "Farmácia"
     },
     {
       "titulo": "Confiança do varejo volta a crescer em junho, puxada por moda e calçados - Portal do Comércio",
@@ -410,6 +434,14 @@
       "categoria": "Farmácia"
     },
     {
+      "titulo": "Recuperação em ações de tecnologia alivia mercados globais; petróleo cede - CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1BsdWxoVmtkT09pdHZ4UUliTkRZaFJ4R25MajFqZ0l0T2IxbEc1bnR4aG9sN2RncFFrR2lYd2RiYWZteDdpdUVXUEI3TkRJM25mQkhLZjQtNUZBN3NOOGtiWEYyZVB5cWlpdVBMaTNvSEFMOVQwNmQxQW1EaEdDeUZTeDhLT0c3UjJ1TGtlWndtN0Z4NTNBTkdhU0Z6M01RU3A4OVhsVy1ySXR6cWdPdFNqdm1OTkw2V3JNM3NZWDExVFk?oc=5",
+      "fonte": "CNN Brasil",
+      "data_publicacao": "24/06/2026",
+      "data_iso": "2026-06-24T07:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
       "titulo": "Brasileiros trocam celulares novos por seminovos premium, diz relatório - Estadão",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmUxSjJWQUt1SHY2NFRzQkdJc0ZWcGZzbTBySFVacGJJMnV1azQ4UlIxUlk4R0xjNjNURjJEQVJqaWNyc1dsaDNSZnBoUDdPYnRPclFUaFk1VmZDckxsakI0SVRqcVFFSTlKcHBvUWRCUzdOcGNXVmY1bmZ1WmFLeGJVZFg0SEc5NmEzTlNkR1I1cXROcDVTZ3hfelI0VTI0c2E5blNqX0dPSmUxajBXQWlCNU5tZ3ZGSVAzZHROekRPUdIBxwFBVV95cUxOSTJ0UGdLWkszQ3JvTC1UNFBFc015ZnNGY0lyODNKRVI1Yllsa2xWWG8tNVM5MDdTNDl5aU9Pb1l2UmZDejRWTHF6eV9zTjV6TE5HdjlZSHZGYngwc0dDVkZTM00wMW1yaGJ5Rm9vNmJfcWN6LS01WmJmaHhxWUdoRDVENzBPbDlaUjNLZkw5SE9JN2NLaDR3WHRtNFV6aDkyNVQyazQ1MF9CS21FeWRKZ0wxY1ZZZ2JxWm51R2poamE0ZVY2LUFB?oc=5",
       "fonte": "Estadão",
@@ -434,12 +466,28 @@
       "categoria": "Papelaria"
     },
     {
+      "titulo": "Mercado de IPOs de tecnologia ganha força com avanço da IA - IT Forum",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWEVudy16Z3BNWjNpckpSdVA5NFZRaEwtdzhvNjFENmZRTFotaS1ncm5Yc1VGdkN3YkVWam5WSlh6YW5YQzVEdVM4eDZ5RlQ1UnB2ZFdjUHlGRHFuMG1aUmthT0p0czQtWEdYM3pCeUlTMXJfUXBiYkIzOVY3Ui1OM0Etd9IBiAFBVV95cUxNcTY2MWdOSDV0YUR1d2M2SFgwYVphZ0hFMGdkYXlGaWc2ZmZiZWZfcFhjMVJocW5WYzhMa3daN3ozRWh1TXRfczJtY0xobWozaDFYak5jeThhMzl6VW5Sb1NYLVotaTZPYTBGQ3FJVWlxLXByTkdUSlFGLVVVYWZnSU43RnhvTWFF?oc=5",
+      "fonte": "IT Forum",
+      "data_publicacao": "12/06/2026",
+      "data_iso": "2026-06-12T07:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
       "titulo": "O prejuízo do varejo brasileiro com perdas operacionais e furtos atingiu a impressionante marca de R$ 42,1 bilhões em 2025. Para se ter uma ideia da magnitude do problema, se esse montante fosse o faturamento de uma única empresa, ele figur",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DU0NVcl9yYjNXbk1tdGxETlZVZFpnU3AyajhqT0JJRl9wVjViS1dQTjZ2NHFHXzVxdDlxQzdvd2w4MXpKLThYWTFPdmpmZnlqQkE?oc=5",
       "fonte": "Instagram",
       "data_publicacao": "11/06/2026",
       "data_iso": "2026-06-11T07:00:00+00:00",
       "categoria": "Supermercados"
+    },
+    {
+      "titulo": "O Instituto de Pesquisas Anamaco apresenta o estudo “Cenário do Varejo de Material de Construção”, levantamento que reúne dados sobre o universo de lojas do setor no Brasil, sua representatividade econômica, distribuição regional, perfil do",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wdWhkclFsQTNLQjl5RXFLMlpIQ2xsWFZpT0Qwd3VBMnRHaGptS3NkNGtiQ0lBeDlmRHp2U2dWeG1hR0FXanlHd2J3ZndPZ05XZzVSWHl6aVJ5SGljcTZHWGJLRkNteHdPRlNRV194ajVLTmFuZjAza1dn?oc=5",
+      "fonte": "Revista Anamaco",
+      "data_publicacao": "09/06/2026",
+      "data_iso": "2026-06-09T07:00:00+00:00",
+      "categoria": "Construção"
     },
     {
       "titulo": "5 novidades no mercado de celulares que você precisa conhecer - CartaCapital",
@@ -458,20 +506,28 @@
       "categoria": "Automotivo"
     },
     {
+      "titulo": "Os mecanismos de defesa do mercado de combustíveis - JOTA Info",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3BNUEh2Vnk2Y3ZPcUNBZTFsbTRIUHFLS29SeU9YZUZadXd0RXY1ajI2a0NkVDRtTVpsQk0ycnZsUFVZTi1aSTN0OXZrRWFBeGpXdVMzWVdtRTBmWlc1NnQwb0RqWFFxeXRkTFVFQndzVlVIVWRmekJlS212NkRfYzhxUXhGeGU1M0stOE1oQ2dETHRmWV9nMA?oc=5",
+      "fonte": "JOTA Info",
+      "data_publicacao": "21/05/2026",
+      "data_iso": "2026-05-21T07:00:00+00:00",
+      "categoria": "Combustíveis"
+    },
+    {
+      "titulo": "Mercado automotivo 2026: tendências para lojistas - Ayvens",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWN6eExyeTJFRGNoLTVkT2JYLVZURnVRY0VvSnE5Tm50SHNILWRpY0dsRVBsTUE4ek5JeWlhMXVuQUpJdDBVd0w2ekZ6Sk1lZVVuVEdVRWVOeXZjQmgzUklnTHdVYjRnY1pRNmt6alczUXJRY1djbGhFWGt4U1UxNnNTN1J6ejNpQ2lBaF9zWXVBZ3NaZ3ZYQmM1QkdmMzZ6?oc=5",
+      "fonte": "Ayvens",
+      "data_publicacao": "19/05/2026",
+      "data_iso": "2026-05-19T07:00:00+00:00",
+      "categoria": "Automotivo"
+    },
+    {
       "titulo": "Varejo alimentar fatura R$ 1,14 tri em 2025, aponta ABRAS - E-Commerce Brasil",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS05kYllvWEg2TVF2R0NYN2ptNTltZ1ZmXzNrRk04bVo1cWVCU3RycGlDbXVYSHF3U1dyNHFWZ1RvZk9lZ0VYOFpBZE9XeWVocmdfX0VXUFhmN19iRDg5MW05UVlZa25xNS1wY2E2MFNneERfVGk0Z19WWHAyeWp3WFdoMzNQa09PVkdON0REeklyMG95czE5RmJPQkduZFU?oc=5",
       "fonte": "E-Commerce Brasil",
       "data_publicacao": "04/05/2026",
       "data_iso": "2026-05-04T07:00:00+00:00",
       "categoria": "Supermercados"
-    },
-    {
-      "titulo": "Venda da Telhanorte expõe crise no varejo de construção e acelera saída da Saint-Gobain do Brasil - Economic News Brasil",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnplY0NWTmhpYXZvNFp0R0c4MGRsVDFodG5mVGEtb09DaE4xamJIQnBxdm1sRS12VXlaTi13Sl83b1ctN3pzSUFoNUdJaU9oaEZCYkpESWtnUjVXLUpMQzZMcm81amFXdmZGTHNvSW9GNXc2enp4VExqaUdFMXpIRWdwYU9CNmF1d0pfR1BwNS13ZU0?oc=5",
-      "fonte": "Economic News Brasil",
-      "data_publicacao": "04/05/2026",
-      "data_iso": "2026-05-04T07:00:00+00:00",
-      "categoria": "Construção"
     },
     {
       "titulo": "Dia das Mães deve movimentar 37,91 bilhões de reais no varejo; 78% dos consumidores pretendem presentear, mostra pesquisa CNDL/SPC Brasil - Confederação Nacional de Dirigentes Lojistas",
@@ -482,12 +538,36 @@
       "categoria": "Moda"
     },
     {
+      "titulo": "Distribuidoras ganham margem no mercado de combustíveis - Safra",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUwxdVpOcGl6MG90RnUzQWlwcEVTX1IyX1QyTmFMZmVSSHNLTHFOZTdiczdkRG55cmFNaFV4aEh6WUhrYXlwSE9jVTA5bUl2OEprUmlycnR1Qkh5UWUzel9tOFc3dUtlZUt6UHRzSlRTWW12ZjNZb0ZhR01rSGZJWlc4NDVIWTJycVFkLTFjTQ?oc=5",
+      "fonte": "Safra",
+      "data_publicacao": "30/04/2026",
+      "data_iso": "2026-04-30T07:00:00+00:00",
+      "categoria": "Combustíveis"
+    },
+    {
       "titulo": "As 11 maiores empresas de moda do Brasil em 2025 - GBLJeans",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMm13SEg3NFJPYWRna1FYUWJLVUZocmRyN0NEV2NHQWtubXV2aEpSRlVacmgxMHl1bW1qQ3h1a2NOOEFOb2V0bTVwOVFEN24wNzJZc204Y3cya1k0Z093Mkd5My1YWDJMWGw2V1NmZUtvNnhGUnA1MUZHenlEeFR1ZmR2SVg5ZkdYQTh2SXRvUHJQdw?oc=5",
       "fonte": "GBLJeans",
       "data_publicacao": "28/04/2026",
       "data_iso": "2026-04-28T07:00:00+00:00",
       "categoria": "Moda"
+    },
+    {
+      "titulo": "Escassez de Talentos em Tecnologia Desafia 98% das Empresas no Brasil - Forbes Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOREx3M1pCTjFpMDdBLS1ZTEdoM0MzVEFoNFQwNkxxQmMzMTFPR0k3TC0tWG45bmk4aFF3c2hpMWJsTUpXUkR4azhGV2Q4UVFfd004WGlDa2RRaXNwZjNzdTlxZUp4RDhyeF92ZjB6Z2ZWQnJhVVVlbHJVVlJXdFNNVTNPeW9WYkVfaTMwcVVRdXJqMUhycW8zcTNaa19iRkNqdVNFRU9QSXR3X1Vt?oc=5",
+      "fonte": "Forbes Brasil",
+      "data_publicacao": "24/04/2026",
+      "data_iso": "2026-04-24T07:00:00+00:00",
+      "categoria": "Tecnologia"
+    },
+    {
+      "titulo": "Escassez de talentos em tecnologia atinge 98% das empresas no Brasil, aponta pesquisa Datafolha e Ford - Estúdio Folha",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNmF5ZDJaQUVQZmRGb3NNbGx2aTdWeHdfZll3dXNMMzZ3dk5JVXVCOEY1WVhPMTZHYnJIRmhoa0VNUG1HbjVyV1U5eGNwaDRpUXpuMVRTd2d4ZVhHTjNPVTB5aVN0Ml9BcjgxZVJ3UEM3eC1OZHZUdHBDenRUX0dJMV82b0lVRUpFY0FWTWFYNG84NkNldjBzVjZ6WF9lZ0ZEbVlOOFluRnRmVWdwRDVNbUg0a3gxbmQ4dmhnY3pBZEVneUpXN0RhaDJIMUhjWkVWMkE3X2dpLXBKVEhIckk2eFhyVWRFaGc?oc=5",
+      "fonte": "Estúdio Folha",
+      "data_publicacao": "23/04/2026",
+      "data_iso": "2026-04-23T07:00:00+00:00",
+      "categoria": "Tecnologia"
     },
     {
       "titulo": "Móveis e eletrodomésticos resistem à queda do varejo - eMóbile",
@@ -498,12 +578,20 @@
       "categoria": "Eletrodomésticos"
     },
     {
-      "titulo": "Medicamentos nos supermercados: especialista explica o que muda na prática - CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkNOdnZYbERaYnBIMC1FMGpxX2RLVjVKTk5KR09OM2tWSTJGU3JjV0xROWtSM2k2UmVtaThTV2h4VDhWV0lpR242UnFfNy1vaUpxYXd5QjdlQmdFUEx4UXZKTkFtM0FxVWQtYXY4b0dpQUw2Vkd3c2NYVEt0d1dHRjh2aVNMLTEyMkpaZHd4WE5qeV9JOTZrejFUdXpWMGFuaGRkYTh5SU91S0pFWmc?oc=5",
-      "fonte": "CNN Brasil",
-      "data_publicacao": "25/03/2026",
-      "data_iso": "2026-03-25T07:00:00+00:00",
-      "categoria": "Farmácia"
+      "titulo": "Veja como Lula ajudou o mercado de combustíveis brasileiro - Consultor Jurídico",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHF6dHpMZ3BfU0VCTk45YjBtcnJpMEpITHZicFBUN3JMMnc2eVNMSzc3eTdCZzEwcWNIRDQxbjNJZzVuYVcxZmdXVXFSaVY4NGxGWkx0cHJmbF81Z2xQUXhXSi1SWkQ1cnd3Y1NHYWY2X0VKOUVmQzlNSDY0ZTNjeGRoRGYxM0lCaHJVcUZ0cTdDWU5RbnJFVk1lQQ?oc=5",
+      "fonte": "Consultor Jurídico",
+      "data_publicacao": "03/04/2026",
+      "data_iso": "2026-04-03T07:00:00+00:00",
+      "categoria": "Combustíveis"
+    },
+    {
+      "titulo": "Quais são os reais motivos do aumento no preço dos combustíveis em MG e no Brasil? - Brasil de Fato",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVURwNXB6Y21oUmdxOEo3X2tocFJkRmdnN2M0dDNZSXotVzgwQkw3Nk56dnFjQlBxcy1Xd3RsZGJpUmNFek50WkV6NlRNMUowOXY2MHNYSlBtQTgwU1JwVHllRi0ya051b0cwZFByaDdrWF8zMlFuRXhUVnNyYWtaNUdsUi1nbmZ0TU9yUnlvXzFXbGJmYzBWUG9oYzlJTjhrOERoX0ktejNROExaMjhzSW5uNC1HY0lyLS1lQXp1bTVlT0E?oc=5",
+      "fonte": "Brasil de Fato",
+      "data_publicacao": "26/03/2026",
+      "data_iso": "2026-03-26T07:00:00+00:00",
+      "categoria": "Combustíveis"
     },
     {
       "titulo": "S26 Ultra, Signature e Find X9: novos celulares elevam o mercado brasileiro - UOL",
@@ -522,20 +610,20 @@
       "categoria": "Papelaria"
     },
     {
-      "titulo": "PL que permite a venda de medicamentos em supermercados segue para sanção presidencial - Demarest",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLU9waXJKNGZ6T1VodmJWeHVrbG42OXdlbl81bXgxNHVGcjNPRDFPU2J6aUtHQ2J3QmZEdV9qZkViXzFFa3FYMGk1aGs1cU5SNjZQQlFXX2RxdkhFd0xJVzVZbXMtRUtWemtrTDQyWGZidjM4MHV4Z3Fsa0prN1lNbEIyUXYyandJcDNEcFFnTkNTSHpTQzRuNk5Nank0X2dYYzR2WVNZMjlaaWk3TmQzOWgwRGRBUQ?oc=5",
-      "fonte": "Demarest",
-      "data_publicacao": "13/03/2026",
-      "data_iso": "2026-03-13T07:00:00+00:00",
-      "categoria": "Farmácia"
+      "titulo": "Governo brasileiro inicia monitoramento do mercado de combustíveis - Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOekxVNl8zWTNkTkxabDlKWkRZbXFWTnFTcHpXeHVybW9XQkVPQ3piVFU4U01ZNlRUbWN6cjBLaGZ2R0RZUU1tNUc2QnNoTHpMSk0tWTVDbUJNQ3cwMmlqVGZoQl9zUHRQYkd6LW1DdG41QXdSbTktQ0liLVdPYk1vT0ZlR3JQaElvV0ZEMUhNWHN2MlR0SjJya3VNRUFCbmFfTmRfVjE1TXdzeXAyLTFvejNheV9FVEtlSHB1Z2s4djdWNlhieTI5NG00czlWdEtQWFhjemhXV0M5SVlm?oc=5",
+      "fonte": "Agência Brasil",
+      "data_publicacao": "11/03/2026",
+      "data_iso": "2026-03-11T07:00:00+00:00",
+      "categoria": "Combustíveis"
     },
     {
-      "titulo": "Mercado Livre traz ofertas em celulares Galaxy e outros produtos Samsung - Estadão",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc3dlZk9sQ29aaFdYS29WalE5QXBWMmo0R2JCNWFJMVg0TnJmVDFEQVR6TGlnUExVTnYzcXNMWUF0cXlsWW1Id05UQnNDekFlN2daMHVtajI2SEZGRmNBdmlIT0paTUxmNlhzMlpMYk4wX2s5cE9NX3NvcGJDRDB5dnFoUnVrZlFGNy0zeUFqaHpJY1ZHZFdMcWF0aUdUd3NybnFGZnRjeVRab2VWUFJ0Z0JyVGs2amV0akVsOFVCRUNJUVIyNUV0UF9zbWTSAdIBQVVfeXFMTlpHTm1XaGpNYU9pMUM0cWNtdy1IWDg1aTFoOTRLREt4MGt6c1VpQTRXTFA0S3pWYTRZOU9oTlExUF9OWmtSeTZOZE1EZWtZeE9oNWlxUHo0N1ZnNnJQYnpOZlBjZjdvNHdqbzdhWV91NEJ2ZV9nbERhaWJxSVdLUlo2OThNdHpHem9aVE1qMm9TbHJrYUp1aDBvRVJmU2pMWEthb2tUX2NnYkNXdFNvSDZ6WElVQWtEYk93UDFPY19TN2U3NU05c1dRSTluLVd2T3BR?oc=5",
-      "fonte": "Estadão",
-      "data_publicacao": "09/03/2026",
-      "data_iso": "2026-03-09T07:00:00+00:00",
-      "categoria": "Celulares"
+      "titulo": "Donos de postos de gasolina afirmam que as grandes distribuidoras de combustíveis do país começaram a repassar aumentos ao preço dos combustíveis, embora a Petrobras ainda não tenha alterado o valor de venda do combustível em suas refinaria",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZV2MyZVB5eFlTUUV3bDhtZE85NE13SElNUFphVkxTWWp1cTZ2SzB5R1lSME43SEFLSTlmaFZTWWVSeEdhczJkaTJabndyaHQ2SUE?oc=5",
+      "fonte": "Instagram",
+      "data_publicacao": "05/03/2026",
+      "data_iso": "2026-03-05T08:00:00+00:00",
+      "categoria": "Combustíveis"
     },
     {
       "titulo": "Varejo de moda acumula alta de 1,30% em 2025 - GBLJeans",
@@ -616,14 +704,6 @@
       "data_publicacao": "28/12/2025",
       "data_iso": "2025-12-28T08:00:00+00:00",
       "categoria": "Papelaria"
-    },
-    {
-      "titulo": "Seguindo a desaceleração do País, Varejo paulista vai crescer 5% em 2025 — menos do que 2024, calcula FecomercioSP - FecomercioSP",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdnlyX0hmbzB1YnBha0pwZE42azN2bVc1c1VVZHNrSVI0aGxpYS14VkRZQzhySTd2UmNHR29GZWIwMjllQWpodUZyb2Jic0RyLV9Qd3dqWlBsbVVTWEJ5Yl9xc095Z1lwWUQtb2oyU2E0X3ltbmZPbzZaSHlxYUZUT3UzMFFoMEVhdzJYd1hPcUZPMTRHVmtpNUt2YXJldG92WF9oUVhKUkRvcFRoczdkaW9WQTJwVWdsNTZHVnZ6VlNQeEhFWE9MbWJ4VGRMTF9PMWxjc2x6NmlqaVdWQXc?oc=5",
-      "fonte": "FecomercioSP",
-      "data_publicacao": "08/12/2025",
-      "data_iso": "2025-12-08T08:00:00+00:00",
-      "categoria": "Construção"
     },
     {
       "titulo": "Livraria Leitura projeta Natal com crescimento e inaugura nova loja na zona norte do Rio - PublishNews",
@@ -714,6 +794,14 @@
       "categoria": "Moda"
     },
     {
+      "titulo": "As recentes modificações no mercado de combustíveis e o retrocesso ao direito do consumidor - Migalhas",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUYyb3NyNW1PNDBkMVMzWFgteVdfcWpiMTBVaUZtaVdNdTBWMEV3MWZNV1dCUXJWUzFFLUV5Tm9qTkU2VElCTGJLb0ppSVROSW5RLUlacHFqbEtFVTFtdWFZM3MybDEyRnh5YXU4bXB5ZjEzWGtBVnhoWWwxaG1OV0RYVUg4emZLM0xKU1d4ZXh5WXFRcG5kWnBfMHlCTi1Bb2FwY05IemlpbzA?oc=5",
+      "fonte": "Migalhas",
+      "data_publicacao": "16/11/2022",
+      "data_iso": "2022-11-16T08:00:00+00:00",
+      "categoria": "Combustíveis"
+    },
+    {
       "titulo": "Motorola coloca dois novos celulares no mercado e prepara mais lançamentos - TeleSíntese",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHEycklSWUdVdWl6NHdUWVQzWDA3ZURTT0JON0lyZDhJZWlSdjZhbEQ3c08zVmdpMVlRYjRmcnc3VUtSRDJpV0xCMzZIMnYzLWNCWHBubVR5MlhJTzEtQVpmS1NmTnR3dm1TVGlwbGpBcEhadWhwUVV1dnJvZThDQVJybmctb3JxdEdKd0JWenVldGlibFpxQW95Z1R3UWFLOHBxLQ?oc=5",
       "fonte": "TeleSíntese",
@@ -722,7 +810,5 @@
       "categoria": "Celulares"
     }
   ],
-  "erros": [
-    "RSS Combustíveis indisponível (HTTPError)"
-  ]
+  "erros": []
 }
